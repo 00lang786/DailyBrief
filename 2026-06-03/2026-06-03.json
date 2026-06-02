@@ -1,0 +1,342 @@
+{
+  "hero_headline": "SpaceX冲刺IPO 中东冲突AI突破并行",
+  "daily_overview": "科技领域亮点：Travelers部署AI理赔助手、GitHub代理计划、Claude Code动态工作流、NVIDIA发布全模态Cosmos 3模型，AI还破解了80年数学难题。财经方面，SpaceX启动史上最大IPO引发估值争论，亚洲股市受AI涨势走高，微软量子芯片可靠性提升千倍，但私人信贷基金遭遇赎回潮。时政上，以色列与黎巴嫩冲突持续，美国向伊朗油轮开火，俄罗斯大规模空袭基辅，英国外相访华主张对华接触而非抵制。技术繁荣与地缘博弈交织。",
+  "tech_briefs": [
+    {
+      "title": "Travelers部署AI驱动理赔助手 覆盖全国",
+      "url": "https://openai.com/index/travelers",
+      "source": "OpenAI News",
+      "summary": "Travelers基于OpenAI构建AI理赔助手，引导客户完成理赔流程，提供全天候支持，提升高峰期间运营效率。",
+      "importance": 9
+    },
+    {
+      "title": "GitHub披露AI代理化发展计划",
+      "url": "https://www.latent.space/p/github",
+      "source": "Latent Space",
+      "summary": "GitHub负责人Kyle Daigle分享在Copilot成功后，应对代理化编码挑战的路线图，强调重构开发者平台。",
+      "importance": 8
+    },
+    {
+      "title": "Claude Code引入动态工作流 自写脚本适配任务",
+      "url": "https://x.com/trq212/status/2061907337154367865",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "Anthropic的Claude Code能根据任务即时编写自定义脚本，突破传统编码场景，拓展代理应用范围。",
+      "importance": 8
+    },
+    {
+      "title": "NVIDIA发布Cosmos 3全模态世界模型",
+      "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+      "source": "Latent Space",
+      "summary": "NVIDIA推出Cosmos 3模型，统一语言、图像、视频、音频和动作，采用MoE设计，被视为AI通用性的重要一步。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "AI破解80年数学难题 引发学界震惊",
+      "url": "https://aihub.org/2026/06/02/an-ai-solution-to-an-80-year-old-problem-has-shocked-mathematicians/",
+      "source": "AIhub",
+      "summary": "AI找到平面上点对距离问题的新最优排列方案，解决存在80年的数学难题，展现AI在数学发现中的潜力。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "SpaceX计划最早周三设定IPO条款",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/spacex-is-said-to-plan-setting-ipo-terms-as-soon-as-wednesday",
+      "source": "Bloomberg Markets",
+      "summary": "SpaceX准备进行史上最大规模IPO，同时Anthropic和OpenAI等AI公司的上市前景引发市场对估值与盈利能力的争论。（多家报道）",
+      "importance": 10
+    },
+    {
+      "title": "亚洲股市因AI涨势延续走高",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/asian-stocks-poised-to-gain-as-ai-rally-extends-markets-wrap",
+      "source": "Bloomberg Markets",
+      "summary": "受美股AI行情带动，亚洲股市周二走高，标普500连续第九日上涨；油价在美伊和谈信号混乱中企稳。",
+      "importance": 8
+    },
+    {
+      "title": "私人信贷基金赎回请求激增至17%",
+      "url": "https://www.ft.com/content/dfdfee64-d3fb-487a-9019-1926387b0ef1",
+      "source": "Financial Times",
+      "summary": "Cliffwater旗舰基金净资产310亿美元，零售投资者赎回率达到17%，反映私人信贷领域资金外流加剧。",
+      "importance": 8
+    },
+    {
+      "title": "微软量子芯片可靠性较前代提升千倍",
+      "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "微软宣布其新量子芯片比前代可靠1000倍，目标在本十年末实现商业用途，量子计算商业化迈出关键一步。",
+      "importance": 9
+    },
+    {
+      "title": "游戏驿站靠集换卡牌实现最高季度利润",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/gamestop-posted-its-highest-profit-ever-by-selling-action-figures-and-cards",
+      "source": "Bloomberg Markets",
+      "summary": "游戏驿站Q1创纪录利润，由收藏品业务驱动，股价盘后飙升13%，表明转型战略见效。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "以色列继续打击黎巴嫩 美伊谈判存分歧",
+      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "以色列空袭黎巴嫩南部但未攻贝鲁特；美国宣布停火协议部分生效；另美向伊朗油轮发射导弹，局势紧张。（多家报道）",
+      "importance": 10
+    },
+    {
+      "title": "俄罗斯大规模空袭基辅 致平民伤亡",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/06/02/nx-s1-5844159/ukraine-kyiv-russia-drone-missile-strikes",
+      "source": "NPR World",
+      "summary": "俄军使用导弹和无人机一夜袭击乌克兰多地，基辅遭受数月来最大规模攻击，造成平民伤亡。",
+      "importance": 9
+    },
+    {
+      "title": "英国外相访华：需要接触而非抵制中国",
+      "url": "https://www.dw.com/zh/英国外相访华：我们需要与中国保持接触，而非一概抵制/a-77392150?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "英国外交大臣库珀在北京进行中英战略对话，为对华接触政策辩护，同时承认在黎智英案和对俄立场上存在分歧。",
+      "importance": 8
+    }
+  ],
+  "research_briefs": [],
+  "editor_note": "AI与太空探索领衔市场焦点，但地缘冲突与信贷风险提示隐忧。应理性看待技术飞跃，警惕泡沫与不确定性。",
+  "keywords": [
+    "AI",
+    "IPO",
+    "中东冲突",
+    "量子计算",
+    "SpaceX",
+    "NVIDIA",
+    "俄罗斯",
+    "中美关系"
+  ],
+  "trading": {
+    "market_overview": "美股三大指数技术面均呈超买状态：标普500、纳斯达克、道琼斯RSI分别达75、75.1、70.6，均逼近52周高点，MACD柱略分化（道琼斯为正，标普与纳斯达克为负），短期动能可能减弱。中概指数方面，上证指数RSI 42.8偏弱，MACD形成死叉（0.37 vs 16.40），且5日下跌1.87%，技术面偏空；恒生指数今日大涨3.4%但RSI仅44，MACD柱仍为负值（-92.6），整体中性。商品端黄金期货RSI 44.4，MACD负柱，价格受压于20/50日均线下方，趋势偏中性。加密市场参考恐慌贪婪指数23（极度恐慌），总市值24小时下跌5.11%，避险情绪浓厚。整体来看，美股超买与中概分化并存，风险偏好谨慎。",
+    "watchlist": [
+      {
+        "symbol": "^GSPC",
+        "display_name": "标普500",
+        "stance": "中性",
+        "rationale": "RSI 75处于超买区，价格距52周高点仅-0.15%，但MACD柱为负（-0.54），快线略低于信号线，多头动能出现衰减信号。均线多头排列支撑长期趋势，但超买状态上行阻力加大。"
+      },
+      {
+        "symbol": "^DJI",
+        "display_name": "道琼斯",
+        "stance": "偏上行",
+        "rationale": "RSI 70.6接近超买但未达极端，MACD柱为正（+77.93）且信号线在快线下方，多头动能持续。价格距52周高仅-0.12%，5日涨幅1.68%，均线多头排列，短期偏强。"
+      },
+      {
+        "symbol": "000001.SS",
+        "display_name": "上证指数",
+        "stance": "偏下行",
+        "rationale": "RSI 42.8处于中性偏弱区间，MACD柱为负（-16.03），快线下穿信号线形成死叉。价格低于20日均线（4144.89），5日下跌1.87%，且距52周高点仍差-4.31%，技术面承压。"
+      },
+      {
+        "symbol": "^HSI",
+        "display_name": "恒生指数",
+        "stance": "中性",
+        "rationale": "今日大涨3.4%但RSI仅44，未脱离中性区间。MACD柱仍为负（-92.6），快线在信号线下方，趋势偏弱。价格刚好站上200日均线（26018.78），多空力量均衡。"
+      },
+      {
+        "symbol": "GC=F",
+        "display_name": "黄金期货",
+        "stance": "中性",
+        "rationale": "RSI 44.4处于弱势区域，MACD柱负值（-1.90），快线低于信号线。价格位于20日（4581.91）和50日（4626.72）均线下方，但高于200日均线（4382.35），上涨动能不足但下方有支撑。"
+      }
+    ],
+    "risk_caveat": "本报告仅基于公开行情数据计算的技术指标进行客观描述，不构成任何投资建议。过去走势不代表未来表现，所有数据仅供技术指标解读参考，投资者应结合自身情况独立判断。",
+    "tickers": [
+      {
+        "symbol": "^GSPC",
+        "displayName": "S&P 500",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "SNP",
+        "currentPrice": 7609.78,
+        "pct1Day": 0.12921172102186163,
+        "pct5Day": 1.2057246246840216,
+        "pct52WeekHigh": -0.14591452453122192,
+        "pct52WeekLow": 28.517530230358712,
+        "sma20": 7451.49501953125,
+        "sma50": 7100.1090234375,
+        "sma200": 6842.202741699219,
+        "rsi14": 75.00254306311308,
+        "macd": 126.54099042868165,
+        "macdSignal": 127.0840865691358,
+        "macdHistogram": -0.5430961404541534,
+        "trend": "bullish",
+        "rsiState": "overbought",
+        "signals": [
+          {
+            "type": "rsi-overbought",
+            "label": "RSI 超买"
+          },
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "^IXIC",
+        "displayName": "Nasdaq",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "NIM",
+        "currentPrice": 27093.9,
+        "pct1Day": 0.02617308196080459,
+        "pct5Day": 1.6420969457422423,
+        "pct52WeekHigh": -0.3542083713218753,
+        "pct52WeekLow": 40.93275837854427,
+        "sma20": 26355.69814453125,
+        "sma50": 24497.889921875,
+        "sma200": 23248.096064453126,
+        "rsi14": 75.08751278744163,
+        "macd": 655.1483167995066,
+        "macdSignal": 670.8132186511115,
+        "macdHistogram": -15.664901851604895,
+        "trend": "bullish",
+        "rsiState": "overbought",
+        "signals": [
+          {
+            "type": "rsi-overbought",
+            "label": "RSI 超买"
+          },
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "^DJI",
+        "displayName": "Dow Jones",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "DJI",
+        "currentPrice": 51307.79,
+        "pct1Day": 0.4481521494826531,
+        "pct5Day": 1.676738304669619,
+        "pct52WeekHigh": -0.12034352606531315,
+        "pct52WeekLow": 22.216285694004505,
+        "sma20": 50114.0798828125,
+        "sma50": 48783.94,
+        "sma200": 47800.29201171875,
+        "rsi14": 70.59674212145039,
+        "macd": 582.469203655608,
+        "macdSignal": 504.54224519587626,
+        "macdHistogram": 77.92695845973174,
+        "trend": "bullish",
+        "rsiState": "overbought",
+        "signals": [
+          {
+            "type": "rsi-overbought",
+            "label": "RSI 超买"
+          },
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "000001.SS",
+        "displayName": "上证指数",
+        "group": "indices",
+        "currency": "CNY",
+        "exchangeName": "SHH",
+        "currentPrice": 4075.102,
+        "pct1Day": 0.16057016744035718,
+        "pct5Day": -1.865493195981076,
+        "pct52WeekHigh": -4.314790121213113,
+        "pct52WeekLow": 22.00659447849399,
+        "sma20": 4144.890295410156,
+        "sma50": 4052.45427734375,
+        "sma200": 3967.7319982910158,
+        "rsi14": 42.81923846027338,
+        "macd": 0.3720204551345887,
+        "macdSignal": 16.402937316589117,
+        "macdHistogram": -16.03091686145453,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "^HSI",
+        "displayName": "恒生指数",
+        "group": "indices",
+        "currency": "HKD",
+        "exchangeName": "HKG",
+        "currentPrice": 26038.32,
+        "pct1Day": 3.39892025243334,
+        "pct5Day": 1.6882379462783679,
+        "pct52WeekHigh": -7.191947562205719,
+        "pct52WeekLow": 12.303940638966106,
+        "sma20": 25867.71630859375,
+        "sma50": 25730.7802734375,
+        "sma200": 26018.782177734374,
+        "rsi14": 43.95742584004661,
+        "macd": -190.24849903630457,
+        "macdSignal": -97.65346403659251,
+        "macdHistogram": -92.59503499971206,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "GC=F",
+        "displayName": "黄金期货",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "CMX",
+        "currentPrice": 4518.6,
+        "pct1Day": 0.9697846530521477,
+        "pct5Day": 0.4044106757439931,
+        "pct52WeekHigh": -19.111381618989647,
+        "pct52WeekLow": 38.87147335423198,
+        "sma20": 4581.9099609375,
+        "sma50": 4626.723984375,
+        "sma200": 4382.350485839844,
+        "rsi14": 44.43121846350819,
+        "macd": -50.803022848930596,
+        "macdSignal": -48.90041745131091,
+        "macdHistogram": -1.9026053976196877,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      }
+    ],
+    "crypto_fear_greed": {
+      "value": 23,
+      "classification": "Extreme Fear",
+      "classificationCn": "极度恐慌",
+      "timestamp": "2026-06-02T00:00:00.000Z"
+    },
+    "crypto_global": {
+      "totalMarketCapUsd": 2396095365401.9077,
+      "total24hVolumeUsd": 134871606542.88303,
+      "marketCapChangePct24h": -5.114940353468227,
+      "btcDominance": 56.00834513944083,
+      "ethDominance": 9.524651811715643,
+      "activeCryptocurrencies": 17396
+    },
+    "generated_at": "2026-06-02T22:39:09.884Z"
+  }
+}
