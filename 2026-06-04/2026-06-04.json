@@ -1,131 +1,129 @@
 {
-  "hero_headline": "伊朗空袭科威特机场 美伊中东再交火",
-  "daily_overview": "今日中东局势急剧恶化：伊朗无人机袭击科威特国际机场，造成至少1死60伤，美伊停火面临破裂；科技领域，微软发布MAI-Thinking-1模型，OpenAI公布前沿AI治理蓝图，AI成功求解80年数学难题；财经方面，SpaceX开启史上最大IPO，美联储褐皮书显示通胀普遍上升，美国宣布对60国加征新关税。特朗普签署AI行政令加剧中美科技竞争，乌克兰无人机袭击圣彼得堡。全球市场在地缘政治与AI竞赛中波动加剧。",
+  "hero_headline": "SpaceX 拟以 1.8 万亿美元估值 IPO 创纪录",
+  "daily_overview": "今日科技领域，OpenAI 升级生命科学模型 GPT-Rosalind，微软发布 35B 参数推理模型 MAI-Thinking-1；财经方面，SpaceX 启动史上最大 IPO 估值超 1.75 万亿美元，Broadcom 因营收预期不佳市值蒸发超 2500 亿美元；时政方面，美伊冲突再升级，以色列与黎巴嫩续签停火协议，美国众议院投票限制对伊动武。市场在科技突破与地缘风险中震荡。",
   "tech_briefs": [
     {
-      "title": "微软发布MAI-Thinking-1模型 基准表现领先",
-      "url": "https://news.smol.ai/issues/26-06-02-msft-mai-2/",
-      "source": "Smol AI News",
-      "summary": "微软在Build大会发布35B参数MoE模型MAI-Thinking-1，支持256K上下文，在AIME 2025达97%，人类偏好测试优于Sonnet 4.6。（多家报道）",
-      "importance": 8
-    },
-    {
-      "title": "OpenAI公布前沿AI治理蓝图",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "title": "OpenAI 升级 GPT-Rosalind 增强生命科学研究",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "source": "OpenAI News",
-      "summary": "OpenAI发布美国前沿AI治理蓝图，提出联邦安全、弹性与国家安全框架。",
+      "summary": "GPT-Rosalind 新增生物推理、药物化学、基因组分析和实验工作流能力，加速生命科学研究。",
       "importance": 9
     },
     {
-      "title": "AI求解80年数学难题 引发数学界震惊",
-      "url": "https://aihub.org/2026/06/02/an-ai-solution-to-an-80-year-old-problem-has-shocked-mathematicians/",
-      "source": "AIhub",
-      "summary": "OpenAI的AI系统解决了一个困扰数学家80年的平面点排列问题，成果被评价为令人震惊。",
+      "title": "微软发布 MAI-Thinking-1 推理模型",
+      "url": "https://news.smol.ai/issues/26-06-02-msft-mai-2/",
+      "source": "Smol AI News",
+      "summary": "35B 参数 MoE 模型，256K 上下文，AIME 2025 得分 97%，超越 Sonnet 4.6。",
       "importance": 8
     },
     {
-      "title": "GPT-Rosalind增强生命科学能力",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "source": "OpenAI News",
-      "summary": "GPT-Rosalind新增生物学推理、药物化学、基因组分析及实验工作流能力，可辅助科研。",
+      "title": "Headroom：压缩工具输出节省 LLM Token",
+      "url": "https://github.com/chopratejas/headroom",
+      "source": "GitHub Trending",
+      "summary": "开源工具压缩日志、文件等输出，减少 60-95% 的 LLM token 消耗，支持库、代理和 MCP 服务器。",
       "importance": 7
     },
     {
-      "title": "代理AI有望重塑全球医疗",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "source": "MIT Tech Review AI",
-      "summary": "MIT Tech Review报道，代理AI技术有望缓解全球医疗人手不足，改善老龄化社会服务需求。",
-      "importance": 7
+      "title": "AI 解决 80 年未解数学问题震惊学界",
+      "url": "https://aihub.org/2026/06/02/an-ai-solution-to-an-80-year-old-problem-has-shocked-mathematicians/",
+      "source": "AIhub",
+      "summary": "OpenAI 利用 AI 求解平面点排列极值问题，破解长达 80 年的数学难题。",
+      "importance": 8
     }
   ],
   "finance_briefs": [
     {
-      "title": "SpaceX启动史上最大IPO 估值1.8万亿美元",
-      "url": "https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8",
-      "source": "Financial Times",
-      "summary": "SpaceX寻求上市，估值约1.8万亿美元，募资高达860亿美元，用于AI与发射业务。（多家报道）",
+      "title": "SpaceX 启动史上最大 IPO，估值 1.75-1.8 万亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/what-to-know-about-the-spacex-ipo",
+      "source": "Bloomberg Markets",
+      "summary": "SpaceX 计划 6 月上市，融资 750-860 亿美元，有望成为历史上最大规模 IPO。（多家报道）",
       "importance": 10
     },
     {
-      "title": "美联储褐皮书：通胀普遍上升 就业持稳",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-03/new-fed-beige-book-survey-shows-inflation-up-video",
-      "source": "Bloomberg Markets",
-      "summary": "最新美联储褐皮书调查显示，多数地区通胀上行，就业市场保持平稳。",
-      "importance": 8
-    },
-    {
-      "title": "美国拟因强迫劳动问题对60个经济体加征关税",
-      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "特朗普政府提议对60个经济体征收10%-12.5%的新关税，理由为强迫劳动，涉及中国、印度、欧盟等。（多家报道）",
+      "title": "Broadcom 营收预期不佳，市值蒸发超 2500 亿美元",
+      "url": "https://www.ft.com/content/c8d506d3-7e81-49be-bb72-24ae289b9240",
+      "source": "Financial Times",
+      "summary": "芯片巨头 Broadcom 季度营收预期低于预期，盘后股价跌 15%，市值蒸发超 2500 亿美元。",
       "importance": 9
     },
     {
-      "title": "英国出版商获准退出谷歌AI搜索",
-      "url": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
+      "title": "美国以强迫劳动为由对 60 经济体加征关税",
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "英国竞争与市场管理局规定，出版商可选择不让其内容被谷歌AI搜索抓取以加强谈判地位。",
+      "summary": "美国对 60 个经济体加征 10%-12.5% 新关税，理由为强迫劳动问题。",
+      "importance": 8
+    },
+    {
+      "title": "金价下跌，美伊冲突推升通胀担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/gold-holds-drop-as-us-iran-clashes-keep-inflation-risks-in-focus",
+      "source": "Bloomberg Markets",
+      "summary": "美伊冲突升级引发通胀风险，黄金价格承压下跌。",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "伊朗空袭科威特机场 美伊冲突升级",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "伊朗无人机袭击科威特国际机场，造成至少1死60伤，伊朗称报复美军此前打击。多家谴责。（多家报道）",
+      "title": "美伊冲突升级，以色列与黎巴嫩续签停火",
+      "url": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
+      "source": "The Guardian",
+      "summary": "美伊谈判停滞，双方再次交火；科威特机场遭袭。以色列与黎巴嫩在美国斡旋下续签停火协议。（多家报道）",
       "importance": 10
     },
     {
-      "title": "特朗普AI行政令凸显中美科技竞争",
-      "url": "https://thediplomat.com/2026/06/03/trumps-new-ai-order-raises-the-stakes-in-china-us-tech-competition/",
-      "source": "The Diplomat",
-      "summary": "特朗普新AI行政令将先进AI模型视为国家战略资产，进一步加剧中美技术博弈。",
-      "importance": 8
+      "title": "美国众议院投票阻止特朗普对伊朗动武",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "众议院以 215-208 票通过决议，要求停止对伊朗战争，四名共和党人投赞成票。",
+      "importance": 9
     },
     {
-      "title": "乌克兰无人机袭击圣彼得堡目标",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos",
-      "source": "Al Jazeera",
-      "summary": "乌克兰对圣彼得堡附近一油库和海军航空基地发动无人机袭击，俄方正主办经济论坛。",
+      "title": "特朗普新 AI 行政令加剧中美科技竞争",
+      "url": "https://thediplomat.com/2026/06/trumps-new-ai-order-raises-the-stakes-in-china-us-tech-competition/",
+      "source": "The Diplomat",
+      "summary": "新令将先进 AI 模型视为战略资产，加强出口管制，意图遏制中国技术发展。",
       "importance": 7
     }
   ],
   "research_briefs": [],
-  "editor_note": "中东冲突再起为全球市场增添不确定性；AI领域创新与治理并行推进，SpaceX IPO规模刷新纪录。投资者需警惕地缘与政策风险。",
+  "editor_note": "SpaceX IPO 与地缘冲突主导市场情绪，科技巨头加速 AI 布局；政策风险持续扰动全球供应链，投资者需警惕波动。",
   "keywords": [
-    "美伊冲突",
     "SpaceX IPO",
-    "AI治理",
-    "微软MAI",
-    "美国新关税",
-    "AI解决数学难题",
-    "特朗普AI行政令",
-    "中东局势"
+    "AI模型",
+    "美伊冲突",
+    "Broadcom",
+    "GPT-Rosalind",
+    "以色列停火",
+    "美国关税"
   ],
   "trading": {
-    "market_overview": "本次监测的资产中，美股三大指数技术面偏强：标普500、纳指、道指均呈多头排列，RSI在59.6-68.1之间未超买，但MACD动能略有减弱（标普及纳指线低于信号）。中国上证指数略低于20日均线且MACD死叉，RSI 45.5偏弱；恒生指数空头排列，MACD死叉延续；黄金期货跌破50日均线、RSI 40接近超卖但尚未触发。加密市场方面，恐慌贪婪指数仅11（极度恐慌），总市值2.36T美元、24小时下跌2.43%，BTC主导率55.7%、ETH 9.4%，显示资金避险情绪浓厚。整体来看，权益资产分化，美股韧性较强，其他资产承压。",
+    "market_overview": "截至当前，美股三大指数（标普500、纳指、道指）均处于多头排列状态，价格高于所有主要均线，RSI在59-68之间，整体偏强但近一日小幅回调（-0.74%至-1.21%）。加密市场方面，恐慌贪婪指数仅为11（极度恐慌），总市值2.32万亿美元，日内下跌2.69%，BTC主导率55.3%，ETH占9.4%，市场情绪极度悲观。中概/港股走势分化：上证指数小幅上涨0.65%，但RSI仅45.5且MACD为负，技术信号中性偏弱；恒生指数虽上涨0.93%，但趋势为空头排列（MACD负、信号线向下），价格低于200日均线，动能不足。商品外汇方面，黄金期货价格4486美元，低于20日和50日均线，RSI41.6，MACD绿柱（负值），短期偏弱。整体来看，美股在历史高位附近面临获利回吐压力，加密资产深度恐慌，中概和黄金则缺乏明确上行驱动。",
     "watchlist": [
       {
-        "symbol": "^DJI",
-        "display_name": "道琼斯工业平均指数(^DJI)",
+        "symbol": "^GSPC",
+        "display_name": "S&P 500",
         "stance": "偏上行",
-        "rationale": "道指当前价格50687.07，高于SMA20(50183.52)、SMA50(48873.51)、SMA200(47829)，呈多头排列。MACD线550.62高于信号线513.76，金叉延续。RSI 59.6处于中性偏强区域，距离52周高仅-1.33%，短期动能仍偏向上行。"
+        "rationale": "当前价格7553.68，高于20日（7466.22）、50日（7119.56）、200日（6847.72）均线，呈多头排列。RSI 67处于正常偏强区间，MACD值为120.75略低于信号线125.82但数值仍为正，近5日涨幅0.44%，整体技术结构维持上行趋势。"
       },
       {
         "symbol": "^HSI",
-        "display_name": "恒生指数(^HSI)",
+        "display_name": "恒生指数",
         "stance": "偏下行",
-        "rationale": "恒生指数当前25633.21，低于SMA20(25864.84)和SMA50(25734.18)，且MACD线-136.4低于信号线-105.4，死叉运行。RSI 54.4中性但趋势偏空，距离52周高-8.64%，技术面处于空头排列。"
+        "rationale": "价格25633.21低于20日（25864.84）和200日（26024.42）均线，50日线（25734.18）略高于现价，均线排列偏空。MACD -136.40为负且低于信号线-105.40，DIFF-DEA柱状线负值扩大，RSI 54.4中性但动能趋势下行，近52周高点跌幅-8.64%，空头排列信号明确。"
       },
       {
         "symbol": "GC=F",
-        "display_name": "黄金期货(GC=F)",
+        "display_name": "黄金期货",
+        "stance": "偏下行",
+        "rationale": "当前价格4486低于20日（4576.94）和50日（4627.77）均线，仅略高于200日线（4387.95）。RSI 41.6处于50下方，MACD -52.62为负且信号线-50.02，柱状线负值，近5日涨幅0.87%但技术指标反映短期动能不足，偏下行格局。"
+      },
+      {
+        "symbol": "000001.SS",
+        "display_name": "上证指数",
         "stance": "中性",
-        "rationale": "黄金期货4462.7，低于SMA20(4575.78)和SMA50(4627.31)，但高于SMA200(4387.84)。RSI 40接近超卖区但尚未进入，MACD线-54.47低于信号-50.39，死叉延续但动能有所衰减，趋势评级中性，短期方向不明。"
+        "rationale": "价格4083.97介于20日（4143.04）下方和50日（4052.70）上方，200日均线3970.24构成支撑。RSI 45.5略低于50，MACD -2.47负值但信号线12.63为正，趋势类信号（bullish）与动量指标矛盾，近1日上涨0.65%但5日下跌-1.48%，整体处于方向不明确的整理状态。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告仅供技术指标解读参考，不构成任何投资建议。请投资者结合自身风险承受能力独立判断。",
+    "risk_caveat": "过去走势不代表未来表现，以上技术指标解读仅基于当前公开数据，不构成任何投资建议或买卖依据。所有分析仅供技术指标解读参考，请结合其他信息综合判断。",
     "tickers": [
       {
         "symbol": "^GSPC",
@@ -280,18 +278,18 @@
         "group": "indices",
         "currency": "USD",
         "exchangeName": "CMX",
-        "currentPrice": 4462.7,
-        "pct1Day": -0.5880933167436747,
-        "pct5Day": 0.34176503653737644,
-        "pct52WeekHigh": -20.112061866743048,
-        "pct52WeekLow": 37.15348208248815,
-        "sma20": 4575.77998046875,
-        "sma50": 4627.305986328125,
-        "sma200": 4387.836486816406,
-        "rsi14": 40.04463140743576,
-        "macd": -54.47409017872542,
-        "macdSignal": -50.39167622349688,
-        "macdHistogram": -4.082413955228539,
+        "currentPrice": 4486,
+        "pct1Day": -0.06905833215589366,
+        "pct5Day": 0.865654862282181,
+        "pct52WeekHigh": -19.69496258637356,
+        "pct52WeekLow": 37.86956788985186,
+        "sma20": 4576.944970703125,
+        "sma50": 4627.771982421875,
+        "sma200": 4387.952985839844,
+        "rsi14": 41.623068832449256,
+        "macd": -52.61541630052034,
+        "macdSignal": -50.019941447855864,
+        "macdHistogram": -2.5954748526644735,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -304,13 +302,13 @@
       "timestamp": "2026-06-03T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2357697934583.5996,
-      "total24hVolumeUsd": 300576037240.63684,
-      "marketCapChangePct24h": -2.4321851330064574,
-      "btcDominance": 55.67863168492714,
-      "ethDominance": 9.367255667318231,
+      "totalMarketCapUsd": 2321426250243.06,
+      "total24hVolumeUsd": 321648029443.9048,
+      "marketCapChangePct24h": -2.6942314674728287,
+      "btcDominance": 55.27160056816995,
+      "ethDominance": 9.430940208828947,
       "activeCryptocurrencies": 17387
     },
-    "generated_at": "2026-06-03T22:07:14.233Z"
+    "generated_at": "2026-06-04T00:00:03.030Z"
   }
 }
