@@ -6,140 +6,140 @@
       "title": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "excerpt": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "meta": "Python · ★ 12,374 · 🍴 807 · 📈 3,139 stars today",
+      "meta": "Python · ★ 12,406 · 🍴 807 · 📈 3,139 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Headroom 是一个压缩工具，在将工具输出、日志、文件和 RAG 片段送入 LLM 之前进行压缩，可减少 60-95% 的 token 而保持答案不变。提供库、代理和 MCP 服务器模式，适合需要节省 LLM 调用成本的场景。"
+      "summary": "一款压缩工具，在输出日志、文件或 RAG 分块发送给 LLM 前进行压缩，可减少 60-95% token 数量且回答质量不变。提供 Library、Proxy、MCP Server 三种集成方式，适用于所有需要降低 LLM 调用成本的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "excerpt": "The agent that grows with you",
-      "meta": "Python · ★ 180,910 · 🍴 31,033 · 📈 1,951 stars today",
+      "meta": "Python · ★ 180,930 · 🍴 31,034 · 📈 1,951 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Hermes Agent 是一个可随用户共同成长的 AI 代理，专注于个性化交互与持续学习。其设计强调自适应能力，适用于需要长期陪伴或逐步优化的智能助手场景。"
+      "summary": "一个持续进化的 Agent 框架，核心设计理念是“与你一同成长”。尚需更多信息，但从 repo 和描述推测，它专注于打造能够随用户需求迭代的智能体，适合需要长期协作的 AI 应用场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 207,172 · 🍴 31,805 · 📈 1,736 stars today",
+      "meta": "JavaScript · ★ 207,186 · 🍴 31,809 · 📈 1,736 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ECC 是一个代理性能优化系统，为 Claude Code、Codex、OpenCode、Cursor 等编码工具赋予技能、直觉、记忆和安全能力。采用研究优先的开发方式，适合需要增强 AI 编程助手能力的场景。"
+      "summary": "面向 Agent 的性能优化系统，涵盖技能、直觉、记忆、安全等方面，采用研究优先的开发方法。专为 Claude Code、Codex、Opencode、Cursor 等 AI 编程工具设计，帮助提升 Agent 执行效率与稳定性。"
     },
     {
       "sourceId": "github-trending",
       "title": "PaddlePaddle/PaddleOCR",
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "excerpt": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "meta": "Python · ★ 79,831 · 🍴 10,597 · 📈 105 stars today",
+      "meta": "Python · ★ 79,837 · 🍴 10,598 · 📈 105 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "PaddleOCR 是基于 PaddlePaddle 的轻量级 OCR 工具包，可将 PDF 或图片文档转换为结构化数据，支持 100+ 语言。专为连接图像/PDF 与 LLM 设计，适合数据提取、文档数字化等场景。"
+      "summary": "轻量级 OCR 工具包，可将任意 PDF 或图片文档转换为结构化数据，供 AI 使用。支持 100+ 语言，打通图像/PDF 与 LLM 之间的障碍，适合文档数字化、信息提取、自动化数据录入等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "excerpt": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "meta": "Python · ★ 108,549 · 🍴 9,594 · 📈 311 stars today",
+      "meta": "Python · ★ 108,557 · 🍴 9,595 · 📈 311 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Spec Kit 是 GitHub 推出的规范驱动开发（Spec-Driven Development）入门工具包，帮助开发者遵循“先定规范再编码”的流程。适合需要规范先行、减少返工的团队使用。"
+      "summary": "GitHub 出品的工具包，帮助开发者快速上手 Spec-Driven Development（规范驱动开发）。提供模板、检查工具和工作流指南，适用于需要以 API 规范为中心进行协作和代码生成的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "NVIDIA/cosmos",
       "url": "https://github.com/NVIDIA/cosmos",
       "excerpt": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "meta": "Jupyter Notebook · ★ 8,973 · 🍴 579 · 📈 244 stars today",
+      "meta": "Jupyter Notebook · ★ 8,983 · 🍴 579 · 📈 244 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "NVIDIA Cosmos 是一个开放的世界模型平台，包含数据集和工具，用于构建面向机器人、自动驾驶、智能基础设施等领域的物理 AI。提供完整的训练与部署资源。"
+      "summary": "NVIDIA 发布的世界模型开放平台，包含预训练模型、数据集和工具，用于构建机器人、自动驾驶、智慧基础设施等物理 AI。开发者可利用该平台创建可泛化的物理世界理解与决策系统。"
     },
     {
       "sourceId": "github-trending",
       "title": "lfnovo/open-notebook",
       "url": "https://github.com/lfnovo/open-notebook",
       "excerpt": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "meta": "TypeScript · ★ 24,962 · 🍴 2,910 · 📈 482 stars today",
+      "meta": "TypeScript · ★ 24,981 · 🍴 2,911 · 📈 482 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Open Notebook 是 Notebook LM 的开源实现，提供更灵活的功能和更多控制。支持笔记管理与 AI 辅助，适合需要本地化、可定制的知识整理场景。"
+      "summary": "Notebook LM 的开源实现，提供更灵活的交互和更多功能。支持文档摘要、问答、知识组织等，适合研究人员、学生和知识工作者用于个人知识管理。"
     },
     {
       "sourceId": "github-trending",
       "title": "Open-LLM-VTuber/Open-LLM-VTuber",
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "excerpt": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "meta": "Python · ★ 9,559 · 🍴 1,148 · 📈 583 stars today",
+      "meta": "Python · ★ 9,569 · 🍴 1,148 · 📈 583 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Open-LLM-VTuber 是一个开源的 LLM 虚拟主播工具，支持免提语音交互、语音打断和 Live2D 面部，可跨平台本地运行。适合想要与任意 LLM 进行实时语音对话的创作者和用户。"
+      "summary": "跨平台开源项目，让你能够与任意 LLM 进行免提语音交互，支持语音打断和 Live2D 面部动画，全部在本地运行。适合桌面端虚拟主播、AI 助手、实时语音对话等应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "jwasham/coding-interview-university",
       "url": "https://github.com/jwasham/coding-interview-university",
       "excerpt": "A complete computer science study plan to become a software engineer.",
-      "meta": "★ 349,689 · 🍴 83,224 · 📈 740 stars today",
+      "meta": "★ 349,694 · 🍴 83,225 · 📈 740 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "这是一份完整的计算机科学学习计划，旨在帮助学习者系统准备软件工程师面试。涵盖算法、数据结构、系统设计等核心知识，适合求职者自学使用。"
+      "summary": "一份完整的计算机科学学习计划，旨在帮助零基础或转行者系统准备软件工程面试。涵盖数据结构、算法、系统设计等核心知识，附有推荐资源和练习，是自学编程面试的经典指南。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "excerpt": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "meta": "Java · ★ 8,954 · 🍴 1,210 · 📈 107 stars today",
+      "meta": "Java · ★ 8,959 · 🍴 1,211 · 📈 107 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub Copilot SDK 是一个多平台 SDK，用于将 GitHub Copilot Agent 集成到各类应用和服务中。开发者可借此快速嵌入 AI 编程助手功能。"
+      "summary": "GitHub Copilot 的多平台 SDK，用于将 Copilot Agent 集成到自己的应用和服务中。提供 API 和工具，方便开发者构建基于 AI 编程助手的自定义工作流。"
     },
     {
       "sourceId": "github-trending",
       "title": "aquasecurity/trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "excerpt": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "meta": "Go · ★ 35,656 · 🍴 430 · 📈 255 stars today",
+      "meta": "Go · ★ 35,658 · 🍴 430 · 📈 255 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Trivy 是一款安全扫描工具，可检测容器、Kubernetes、代码仓库和云环境中的漏洞、错误配置、密钥和 SBOM。支持多种扫描目标，适合 DevSecOps 流程中的自动化安全审计。"
+      "summary": "一体化安全扫描器，可检测容器镜像、Kubernetes、代码仓库、云配置等中的漏洞、错误配置、密钥和 SBOM。支持 CI/CD 集成，适用于 DevSecOps 流程中的持续安全监控。"
     },
     {
       "sourceId": "github-trending",
       "title": "openclaw/openclaw-windows-node",
       "url": "https://github.com/openclaw/openclaw-windows-node",
       "excerpt": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-      "meta": "C# · ★ 1,310 · 🍴 167 · 📈 358 stars today",
+      "meta": "C# · ★ 1,312 · 🍴 167 · 📈 358 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenClaw Windows 配套套件，包含系统托盘应用、共享库、Node 支持和 PowerToys 命令面板扩展。为 OpenClaw 提供 Windows 平台的便捷操作能力。"
+      "summary": "OpenClaw 的 Windows 配套工具套件，包含系统托盘应用、共享库、Node 接口和 PowerToys 命令面板扩展。用于在 Windows 上增强 OpenClaw 的交互和功能。"
     },
     {
       "sourceId": "github-trending",
       "title": "reconurge/flowsint",
       "url": "https://github.com/reconurge/flowsint",
       "excerpt": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "meta": "TypeScript · ★ 5,286 · 🍴 637 · 📈 308 stars today",
+      "meta": "TypeScript · ★ 5,295 · 🍴 637 · 📈 308 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Flowsint 是一个现代化的图式调查平台，支持可视化、灵活且可扩展的图分析。专为网络安全分析师和调查人员设计，适用于复杂数据关联与取证分析。"
+      "summary": "现代化的图分析平台，提供可视化、灵活、可扩展的图调查界面。专门面向网络安全分析师和调查人员，用于关联威胁情报、追踪攻击链条。"
     },
     {
       "sourceId": "github-trending",
       "title": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "excerpt": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "meta": "Python · ★ 27,543 · 🍴 2,345 · 📈 173 stars today",
+      "meta": "Python · ★ 27,549 · 🍴 2,345 · 📈 173 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Last30days Skill 是一个 AI 代理技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 等平台搜索任意话题，并生成基于证据的摘要报告。适合快速舆情调研和内容聚合。"
+      "summary": "AI Agent 技能，可跨 Reddit、X、YouTube、HN、Polymarket 等平台研究任意话题，并合成带来源的摘要。适合舆情分析、趋势跟踪、快速调研等场景。"
     },
     {
       "sourceId": "openai-news",
@@ -149,7 +149,7 @@
       "publishedAt": "2026-06-04T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Endava利用AI代理、ChatGPT Enterprise和Codex加速软件交付、自动化工作流程，并在企业中构建AI原生文化。"
+      "summary": "Endava利用AI智能体、ChatGPT Enterprise和Codex加速软件交付、自动化工作流，并在企业中构建AI原生文化，重塑软件开发流程。"
     },
     {
       "sourceId": "openai-news",
@@ -159,7 +159,7 @@
       "publishedAt": "2026-06-04T09:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "ChatGPT推出名为「Dreaming」的新记忆系统，能够更好地记住用户偏好，跨对话保持上下文的相关性和新鲜度。"
+      "summary": "ChatGPT推出新记忆系统“Dreaming”，可更好地记住用户偏好，在对话中保持上下文连贯和相关，提升用户体验。"
     },
     {
       "sourceId": "openai-news",
@@ -169,7 +169,7 @@
       "publishedAt": "2026-06-04T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布《智能时代的生物防御》行动计划，提出利用AI增强生物弹性的方案，以应对生物安全威胁。"
+      "summary": "OpenAI发布《智能时代的生物防御》行动计划，旨在利用人工智能增强生物弹性，应对生物安全威胁。"
     },
     {
       "sourceId": "openai-news",
@@ -179,7 +179,7 @@
       "publishedAt": "2026-06-03T13:15:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI为GPT-Rosalind增加新能力，包括增强的生物推理、药物化学专长、基因组学分析和实验工作流，推动生命科学研究。"
+      "summary": "OpenAI为生命科学模型GPT-Rosalind新增功能，包括增强的生物推理、药物化学专业知识、基因组学分析和实验工作流能力。"
     },
     {
       "sourceId": "openai-news",
@@ -189,7 +189,7 @@
       "publishedAt": "2026-06-03T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Wasmer利用Codex与GPT-5.5构建边缘Node.js运行时，开发速度提升10至20倍，数周内完成原本需要数月的工作。"
+      "summary": "Wasmer利用Codex和GPT-5.5构建了边缘Node.js运行时，开发速度提升10至20倍，交付周期从数月缩短至数周。"
     },
     {
       "sourceId": "openai-news",
@@ -198,7 +198,8 @@
       "excerpt": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "publishedAt": "2026-06-03T10:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News"
+      "source": "OpenAI News",
+      "summary": "OpenAI发布公共政策议程，涵盖AI安全、青少年保护、劳动力转型及全球标准，以确保AI惠及社会。"
     },
     {
       "sourceId": "openai-news",
@@ -207,7 +208,8 @@
       "excerpt": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
       "publishedAt": "2026-06-03T10:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News"
+      "source": "OpenAI News",
+      "summary": "OpenAI提出前沿AI民主治理蓝图，建议美国建立联邦框架，以保障安全、韧性和国家安全。"
     },
     {
       "sourceId": "openai-news",
@@ -687,580 +689,6 @@
       "source": "DeepMind Blog"
     },
     {
-      "sourceId": "huggingface-blog",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "excerpt": "",
-      "publishedAt": "2026-06-04T18:57:45.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog",
-      "summary": "NVIDIA推出Nemotron 3.5内容安全方案，提供可定制的多模态安全能力，面向全球企业AI应用。"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "excerpt": "",
-      "publishedAt": "2026-06-04T12:24:58.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog",
-      "summary": "EVA-Bench Data 2.0发布，涵盖3个领域、121个工具和213个场景，用于评估AI代理的综合能力。"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "excerpt": "",
-      "publishedAt": "2026-06-04T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog",
-      "summary": "Hugging Face设计新的CLI工具，为AI代理优化与Hub的交互方式，提升开发效率。"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "excerpt": "",
-      "publishedAt": "2026-06-03T12:55:11.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog",
-      "summary": "文章探讨直接偏好优化（DPO）在聊天机器人之外的应用，如内容生成和推荐系统。"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Adding MCP Tools to Reachy Mini",
-      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "excerpt": "",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo31",
-      "excerpt": "",
-      "publishedAt": "2026-06-02T14:13:23.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "excerpt": "",
-      "publishedAt": "2026-06-01T15:45:17.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "excerpt": "",
-      "publishedAt": "2026-06-01T13:51:18.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "excerpt": "",
-      "publishedAt": "2026-05-29T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "excerpt": "",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "excerpt": "",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "excerpt": "",
-      "publishedAt": "2026-05-25T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "excerpt": "",
-      "publishedAt": "2026-05-19T18:38:09.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "excerpt": "",
-      "publishedAt": "2026-05-19T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "excerpt": "",
-      "publishedAt": "2026-05-18T15:12:46.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "excerpt": "",
-      "publishedAt": "2026-05-14T18:55:01.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Unlocking asynchronicity in continuous batching",
-      "url": "https://huggingface.co/blog/continuous_async",
-      "excerpt": "",
-      "publishedAt": "2026-05-14T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "excerpt": "",
-      "publishedAt": "2026-05-11T23:18:26.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "excerpt": "",
-      "publishedAt": "2026-05-06T19:06:55.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "excerpt": "",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Granite 4.1 LLMs: How They’re Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-      "excerpt": "",
-      "publishedAt": "2026-04-29T15:01:48.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
-      "excerpt": "",
-      "publishedAt": "2026-04-29T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "excerpt": "",
-      "publishedAt": "2026-04-28T15:58:57.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "excerpt": "",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "excerpt": "",
-      "publishedAt": "2026-04-24T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "excerpt": "",
-      "publishedAt": "2026-04-23T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "excerpt": "",
-      "publishedAt": "2026-04-21T10:09:58.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "url": "https://huggingface.co/blog/cybersecurity-openness",
-      "excerpt": "",
-      "publishedAt": "2026-04-21T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-      "url": "https://huggingface.co/blog/ecom-rlve",
-      "excerpt": "",
-      "publishedAt": "2026-04-16T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "The PR you would have opened yourself",
-      "url": "https://huggingface.co/blog/transformers-to-mlx",
-      "excerpt": "",
-      "publishedAt": "2026-04-16T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Measuring the Symmetry--Data Exchange Rate",
-      "url": "https://huggingface.co/papers/2606.01090",
-      "excerpt": "Equivariance theory predicts that an architectural symmetry prior reduces sample complexity by a factor of |G|; this is widely cited but rarely measured as a scaling law with controls that separate the prior from its confounds. On a controlled C_n-symmetric task, we report three findings. First, a w",
-      "publishedAt": "2026-05-31T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning",
-      "url": "https://huggingface.co/papers/2606.03965",
-      "excerpt": "Large language models improve final-answer accuracy through extended chain-of-thought reasoning, but often spend tokens inefficiently and offer little inference-time control. Existing efficient reasoning methods control thinking length by shortening, early-stopping, or compressing traces, leaving ho",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Large Language Models Hack Rewards, and Society",
-      "url": "https://huggingface.co/papers/2606.04075",
-      "excerpt": "Reinforcement learning (RL) has become a dominant post-training paradigm, enabling large language models (LLMs) to learn from rewards. We observe that societal regulations are structurally similar to reward functions. They define measurable outcomes, thresholds, and exceptions, while often leaving i",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "SuperMemory-VQA: An Egocentric Visual Question-Answering Benchmark for Long-Horizon Memory",
-      "url": "https://huggingface.co/papers/2606.00825",
-      "excerpt": "AI glasses present a compelling platform for AI agents to serve as personalized memory assistants. To be genuinely useful, such systems must move beyond short-term video comprehension and address memory gaps that humans experience for practical, personal, or social purposes over longitudinal egocent",
-      "publishedAt": "2026-05-30T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Token Budgets: An Empirical Catalog of 63 LLM-Agent Budget-Overrun Incidents, with an Affine-Typed Rust Mitigation as a Case Study",
-      "url": "https://huggingface.co/papers/2606.04056",
-      "excerpt": "LLM-agent budget overruns are a documented production failure class: a single retry loop can spend thousands of dollars before an operator notices, and the in-process integrity properties that would prevent it (no aliasing, no double-spend, no use-after-delegation of a cost-bearing value) are enforc",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "meta": "👍 0",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "When Graph Tokens Sink: A Mechanistic Analysis of Graph Language Models",
-      "url": "https://huggingface.co/papers/2606.03712",
-      "excerpt": "Graph Language Models (GLMs) have become a promising direction for adapting Large Language Models (LLMs) to graph learning tasks. By transforming graph topology and node information into graph tokens, GLMs allow LLMs to jointly process structured graph inputs and textual instructions. Yet, it remain",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Probing Outcome-Level Resemblance and Mechanism-Level Alignment in LLM Risk Decisions: Evidence from the St. Petersburg Game",
-      "url": "https://huggingface.co/papers/2606.04978",
-      "excerpt": "LLMs can appear cautious in risk decision-making tasks, yet cautious-looking outputs do not necessarily indicate alignment with human decision-making mechanisms. We investigate this distinction using the St. Petersburg game as a controlled testbed, a classical paradox in which the expected payoff is",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "ZipSplat: Fewer Gaussians, Better Splats",
-      "url": "https://huggingface.co/papers/2606.05102",
-      "excerpt": "Feed-forward 3D Gaussian Splatting methods reconstruct a scene from posed or pose-free images in a single forward pass, yet current approaches predict one Gaussian per input pixel, tying the representation budget to camera resolution rather than scene complexity. A flat wall and a richly textured ob",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 10",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "KletterMix: Climbing Toward High-Quality German Pretraining Data",
-      "url": "https://huggingface.co/papers/2606.03773",
-      "excerpt": "High-quality pretraining data is a central ingredient in modern language models, but German-language resources remain far less developed than their English counterparts: they are often smaller, less carefully curated, weakly documented, and rarely validated through controlled training experiments. W",
-      "publishedAt": "2026-06-02T15:28:15.000Z",
-      "meta": "👍 10",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "DAR: Deontic Reasoning with Agentic Harnesses",
-      "url": "https://huggingface.co/papers/2606.05009",
-      "excerpt": "Deontic reasoning is the task of answering questions by applying explicit rules and policies to case-specific facts, for example computing tax liability under a statute or determining the outcome of an immigration appeal. A key technical challenge for LLM-based deontic reasoning is that the relevant",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 3",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases",
-      "url": "https://huggingface.co/papers/2606.05112",
-      "excerpt": "Large language models (LLMs) are increasingly proposed as clinical agents, yet static, single-turn benchmarks cannot capture how a model dynamically delivers care across an encounter: gathering information, planning treatment, and adapting longitudinal management across successive patient states. Me",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 3",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "PaintBench: Deterministic Evaluation of Precise Visual Editing",
-      "url": "https://huggingface.co/papers/2606.00188",
-      "excerpt": "While current multimodal models are proficient at open-ended visual editing, executing precise single-answer edits remains an important obstacle. To probe this challenge, we introduce PaintBench, a dynamically scalable benchmark targeting 20 fundamental precise visual editing operations across four ",
-      "publishedAt": "2026-05-29T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents",
-      "url": "https://huggingface.co/papers/2606.03895",
-      "excerpt": "Large language model (LLM) agents are evolving from request-response assistants into long-running software actors: they maintain state across model calls, fork subtasks, wait for external events, request human authority, generate tools, and perform side effects that must be resumed and audited. This",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Training-Free Multi-Concept LoRA Composition with Prompt-Aware Weighting",
-      "url": "https://huggingface.co/papers/2606.03792",
-      "excerpt": "Low-Rank Adaptation (LoRA) successfully enables personalization in text-to-image generation by adapting pre-trained diffusion models to specific visual concepts and styles. However, extending such models to multi-concept customization remains challenging. Naively combining multiple LoRA weights or t",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "meta": "👍 0",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain",
-      "url": "https://huggingface.co/papers/2606.00558",
-      "excerpt": "Transfer learning aims to facilitate the learning of a target domain by transferring knowledge from a source domain. The source domain typically contains semantically meaningful samples (*e.g.*, images) to facilitate effective knowledge transfer. However, a recent study observes that the noise domai",
-      "publishedAt": "2026-05-30T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "SpatialAct: Probing Spatial Reasoning-to-Action Capabilities of VLM Agents in 3D Scenes",
-      "url": "https://huggingface.co/papers/2605.31148",
-      "excerpt": "Humans can effortlessly perceive spatial layouts, form cognitive representations, reason about spatial relations, and translate such reasoning into actions in everyday 3D environments. Although recent vision-language models (VLMs) have shown promising performance on observation-conditioned spatial p",
-      "publishedAt": "2026-05-29T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs",
-      "url": "https://huggingface.co/papers/2606.00477",
-      "excerpt": "Unified multimodal models (UMMs) have emerged as a promising paradigm for general-purpose multimodal intelligence. As they are deployed in real-world applications, effectively updating internal knowledge becomes critical. While knowledge editing has matured for text-only models, it remains unclear w",
-      "publishedAt": "2026-05-30T00:00:00.000Z",
-      "meta": "👍 0",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions",
-      "url": "https://huggingface.co/papers/2606.02859",
-      "excerpt": "How can a population of agents self-orchestrate and self-adapt into stronger collective intelligence without centralized control? Inspired by Friedrich Hayek's economic theory of decentralized coordination in markets, we study this question through an agent economy in which agents compete via auctio",
-      "publishedAt": "2026-06-01T00:00:00.000Z",
-      "meta": "👍 5",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2606.04923",
-      "excerpt": "Rubric-based reinforcement learning (RL) uses an LLM-as-a-Judge (LaaJ) to score model outputs according to rubrics as rewards. However, policy models may exploit latent biases in the judge, leading to reward hacking and ineffective or unsafe training outcomes. In real-world rubric-based RL, such hac",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 35",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in Production Systems",
-      "url": "https://huggingface.co/papers/2605.27492",
-      "excerpt": "LLM agents are rapidly evolving from coding assistants into autonomous software engineering systems. However, existing evaluation methodologies remain largely centered on static, isolated, and short-horizon benchmarks that fail to capture the dynamic complexity of real-world production workflows. As",
-      "publishedAt": "2026-05-26T00:00:00.000Z",
-      "meta": "👍 20",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
-      "url": "https://huggingface.co/papers/2606.03890",
-      "excerpt": "Multimodal agents in robotics, AR, and autonomous driving must reason about places and layouts from continuous egocentric streams, often using evidence outside the current view. Existing benchmarks either evaluate offline over full videos or target events rather than spatial structure. We introduce ",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "meta": "👍 28",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2606.02684",
-      "excerpt": "On-Policy distillation (OPD) in large language models is shifting from full-trace KL supervision toward more selective training paradigms. Recent OPD methods increasingly focus on selecting which trajectories to learn from, which tokens are most informative, and which supervision signals are most re",
-      "publishedAt": "2026-06-01T00:00:00.000Z",
-      "meta": "👍 11",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "WebRISE: Requirement-Induced State Evaluation for MLLM-Generated Web Artifacts",
-      "url": "https://huggingface.co/papers/2606.03220",
-      "excerpt": "Existing benchmarks for MLLM-generated web artifacts assess interaction through local evidence and miss the requirement-induced states and transitions that determine whether a page works. We introduce WebRISE, which compiles task requirements into Interaction Contract Graphs (ICGs) of observable sta",
-      "publishedAt": "2026-06-02T06:29:40.000Z",
-      "meta": "👍 8",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations",
-      "url": "https://huggingface.co/papers/2606.05165",
-      "excerpt": "Training Data Attribution (TDA) seeks to trace a model's predictions back to its training data. The gold standard for TDA relies on causal interventions, observing how a model changes when data is added or removed, but repeated retraining is computationally challenging for Large Language Models (LLM",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 3",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging",
-      "url": "https://huggingface.co/papers/2605.29489",
-      "excerpt": "Weight-space model merging is usually formulated as an algebraic operation on checkpoints, yet at LLM scale the limiting resource is often the set of expert weights that must be read. We introduce MergePipe, a budget-aware execution layer that casts LLM merging as an expert access-set problem: given",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "meta": "👍 4",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning",
-      "url": "https://huggingface.co/papers/2606.03503",
-      "excerpt": "Large Reasoning Models (LRMs) have achieved remarkable progress thanks to Reinforcement Learning with Verifiable Rewards (RLVR) on Chain-of-Thoughts (CoTs). However, since long CoTs naturally contain trial and errors and mainstream RLVR approaches choose outcome-correct CoT trajectories for memoriza",
-      "publishedAt": "2026-06-02T11:21:27.000Z",
-      "meta": "👍 24",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?",
-      "url": "https://huggingface.co/papers/2606.05080",
-      "excerpt": "Scientific and engineering progress is fundamentally a long-horizon iterative process: proposing changes, running experiments, measuring outcomes, and continuously refining artifacts. Yet existing benchmarks for frontier models primarily evaluate either single-turn responses or short-horizon agent t",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 9",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "M^3Eval: Multi-Modal Memory Evaluation through Cognitively-Grounded Video Tasks",
-      "url": "https://huggingface.co/papers/2606.05008",
-      "excerpt": "As multi-modal models advance towards long-form video understanding, memory emerges as a critical capability. Despite substantial efforts in developing video datasets and benchmarks, existing works primarily focus on perception and reasoning, without systematically evaluating memory: what models ret",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 24",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation",
-      "url": "https://huggingface.co/papers/2606.04513",
-      "excerpt": "Lane-level maps are critical infrastructure for autonomous driving and lane-level navigation, yet constructing and maintaining standardized lane networks for hundreds of cities remains highly labor-intensive. Recent end-to-end vectorized mapping methods can predict lane geometry and topology directl",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 11",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "AUDITFLOW: Executable Symbolic Environments for Structured Financial Reporting Verification",
-      "url": "https://huggingface.co/papers/2606.03031",
-      "excerpt": "Structured financial audit verification is difficult for language-model agents because correctness depends on structured evidence rather than text alone. A model must link reported facts to taxonomy concepts, traverse calculation or dimensional relations, and recompute expected values before applyin",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "meta": "👍 6",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
       "sourceId": "tldr-ai",
       "title": "DeepSeek fundraising 💰, Meta model delays ⌛ , Gemma 4 12B 🤖",
       "url": "https://tldr.tech/ai/2026-06-04",
@@ -1268,7 +696,7 @@
       "publishedAt": "2026-06-04T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "今日AI要闻：DeepSeek进行融资；Meta模型延迟发布；谷歌推出Gemma 4 12B模型。"
+      "summary": "今日AI快讯：DeepSeek进行新一轮融资，Meta模型发布推迟，Google推出Gemma 4 12B模型。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1277,7 +705,8 @@
       "excerpt": "",
       "publishedAt": "2026-06-03T00:00:00.000Z",
       "category": "tech",
-      "source": "TLDR AI"
+      "source": "TLDR AI",
+      "summary": "今日AI快讯：OpenAI推出Codex Sites，微软发布新模型，Anthropic因成本问题引发用户反弹。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1719,7 +1148,7 @@
       "publishedAt": "2026-06-04T20:39:18.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "与VendingBench作者讨论对Claude系列模型（从Haiku到Mythos）的评估，以及他们如何从头构建领先且持久的尖端评估体系。"
+      "summary": "Andon Labs的Lukas Petersson和Axel Backlund与VendingBench作者讨论评估Claude模型系列（从Haiku到Mythos）的方法，以及如何从零构建前沿且持久的评估体系。"
     },
     {
       "sourceId": "latent-space",
@@ -1729,7 +1158,7 @@
       "publishedAt": "2026-06-04T03:24:07.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AINews报道Reve 2和Ideogram 4模型在图像生成布局方面的新进展，当天市场消息较为平静。"
+      "summary": "今日AI新闻摘要：Reve 2和Ideogram 4在图像生成中引入布局功能，市场相对平静。"
     },
     {
       "sourceId": "latent-space",
@@ -1739,7 +1168,7 @@
       "publishedAt": "2026-06-03T19:27:49.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Carina Hong在Axiom Math讨论通过验证生成和复合智能，扩展超越非正式AI的边界。"
+      "summary": "Axiom Math的Carina Hong讨论如何通过验证生成和复合智能，超越非正式AI，实现规模化发展。"
     },
     {
       "sourceId": "latent-space",
@@ -1749,7 +1178,7 @@
       "publishedAt": "2026-06-03T17:13:57.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "微软CEO萨提亚·纳德拉在Microsoft Build大会上首次亮相Latent Space，分享对AI未来的见解。"
+      "summary": "微软CEO萨提亚·纳德拉（Satya Nadella）在Microsoft Build大会上首次做客Latent Space播客，讨论AI与未来战略。"
     },
     {
       "sourceId": "latent-space",
@@ -1758,7 +1187,8 @@
       "excerpt": "Microsoft Build recap, and new MAI model technical details",
       "publishedAt": "2026-06-03T05:49:02.000Z",
       "category": "tech",
-      "source": "Latent Space"
+      "source": "Latent Space",
+      "summary": "微软Build大会回顾：发布MAI-Thinking-1及MAI系列模型，并公开技术细节。"
     },
     {
       "sourceId": "latent-space",
@@ -1903,7 +1333,7 @@
       "publishedAt": "2026-06-04T10:50:18.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "美国科罗拉多州联邦治安法官Maritza Braswell每天处理大量由AI生成的诉讼文件，这些文件多由无律师的当事人提交，法院正努力应对AI引发的诉讼潮。"
+      "summary": "美国科罗拉多州联邦治安法官Maritza Braswell表示，法院正应对大量由AI生成的诉讼文件，许多当事人无力聘请律师，案件质量参差不齐。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1995,7 +1425,7 @@
       "category": "tech",
       "meta": "@elpresidank · 116 粉丝 · 2.9M 阅 · 543 赞 · 35 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "指出基于 embedding 的 AI agent 记忆系统存在根本缺陷：会遗忘已存储信息，并自信地编造从未存储的内容。提供理论证明。"
+      "summary": "指出基于嵌入的AI智能体记忆存在系统性遗忘和幻觉问题，提出利用拓扑结构来避免记忆丢失，为记忆设计提供新思路。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2006,7 +1436,7 @@
       "category": "tech",
       "meta": "@0xCodez · 3.3K 粉丝 · 637.2K 阅 · 510 赞 · 59 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Claude Code 动态工作流教程：6 种模式和 14 个步骤，来自 Anthropic 工程师。指出 90% 的构建者仍手动链式提示，未利用动态工作流。"
+      "summary": "分享Claude Code中动态工作流的6种模式和14个步骤，让智能体自动生成而非手动编写工作流，提升效率。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2017,7 +1447,7 @@
       "category": "tech",
       "meta": "@Saboo_Shubham_ · 116.2K 粉丝 · 263.3K 阅 · 517 赞 · 74 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "生成式 UI 成为新前端趋势：2026 年界面不再固定，部分由 agent 实时绘制。设计师和工程师的角色被重构。"
+      "summary": "提出生成式UI成为2026年前端新范式，界面由智能体实时绘制而非预先设计，彻底改变前端开发流程。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2028,7 +1458,7 @@
       "category": "tech",
       "meta": "@mem0ai · 17.6K 粉丝 · 82.8K 阅 · 520 赞 · 60 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Agent Harness 是 AI 实际运行的环境（Cursor、Devin、Claude Code、Codex），它们管理上下文、工具编排、代理协调，并日益加强内存管理。本文综述现状。"
+      "summary": "综述Cursor、Devin、Claude Code、Codex等智能体运行环境中的记忆管理现状，指出这些平台越来越多地负责上下文和记忆协调。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2039,7 +1469,7 @@
       "category": "tech",
       "meta": "@trq212 · 263.1K 粉丝 · 75.7K 阅 · 542 赞 · 36 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Claude Code 发布动态工作流功能：Claude 可即时编写自定义 harness，针对当前任务定制。默认 harness 适配编码，新功能拓展到更多场景。"
+      "summary": "介绍Claude Code新功能：动态工作流，智能体可为每项任务实时编写专属执行环境，超越了默认的编码框架。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2050,7 +1480,7 @@
       "category": "tech",
       "meta": "@drfeifei · 738.0K 粉丝 · 72.2K 阅 · 699 赞 · 144 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "提出世界模型功能分类学。从维特根斯坦哲学出发，论述世界非由语言构成，强调空间智能是 AI 的下一个前沿。"
+      "summary": "从维特根斯坦哲学出发，讨论世界模型的功能分类，认为空间智能是AI下一步关键，需要超越语言的世界理解。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2061,7 +1491,7 @@
       "category": "tech",
       "meta": "@sydneyrunkle · 7.5K 粉丝 · 69.5K 阅 · 511 赞 · 74 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "构建实用 Agent 的关键是定制：将 agent 连接到正确的上下文、数据和环境。核心是模型调用工具。提供构建自定义 Agent Harness 的指南。"
+      "summary": "讲解如何构建自定义智能体运行环境，强调将智能体连接到正确的上下文、数据和工具，核心是模型调用工具。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2072,7 +1502,7 @@
       "category": "tech",
       "meta": "@mvanhorn · 27.6K 粉丝 · 54.5K 阅 · 545 赞 · 44 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者更新「每个 Agentic 工程技巧」系列（2026 年 6 月）。此前帖子获 91.3 万浏览，主张不用 IDE，只用 plan.md 文件和语音控制。分享前线实战经验。"
+      "summary": "汇集智能体工程技巧，延续之前爆款帖（91万观看），核心建议：不用IDE，只用plan.md文件和语音操作。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2083,7 +1513,7 @@
       "category": "tech",
       "meta": "@jainarvind · 9.3K 粉丝 · 53.7K 阅 · 505 赞 · 68 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "企业 AI token 支出快速增长，原因是技术从简单聊天转向编码 agent、AI 同事和长时间工作流。作者认为这是架构问题，而非单纯模型问题。"
+      "summary": "指出企业AI的token消耗快速增长，根源不是模型本身而是架构问题，尤其编码智能体和长运行工作流中需重新设计。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2094,7 +1524,7 @@
       "category": "tech",
       "meta": "@IBuzovskyi · 1.2K 粉丝 · 50.1K 阅 · 500 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享 10 个 Hermes Agent 技巧，每周节省 15+ 小时。适用于内容、软件开发、业务运营、客户管理、研究、销售等重复性工作流。"
+      "summary": "分享10个Hermes智能体技巧，覆盖内容、开发、运营等场景，每周节省15+小时，适用于任何重复工作流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2105,7 +1535,7 @@
       "category": "tech",
       "meta": "@delba_oliveira · 74.0K 粉丝 · 37.4K 阅 · 533 赞 · 38 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍反馈循环方法：让 Claude Code 自我验证工作成果，从而更独立地处理长时间运行的任务，减少人工监督。提升 AI 自主性。"
+      "summary": "讲解如何通过反馈循环让Claude Code自主验证工作，减少人工干预，使其能独立处理长期、复杂任务。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2116,7 +1546,7 @@
       "category": "tech",
       "meta": "@ericzakariasson · 67.9K 粉丝 · 37.3K 阅 · 507 赞 · 27 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "指出 Agent 修复 bug 时常凭猜测，效率低下。解决方案：为 agent 提供运行时上下文（如错误栈、变量值），避免盲目尝试，提高修复准确率。"
+      "summary": "指出智能体调试时经常猜测，应向其提供完整的运行时上下文（变量、堆栈等）而非仅代码，避免无效修改。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2127,7 +1557,37 @@
       "category": "tech",
       "meta": "@OptimaiNetwork · 98.8K 粉丝 · 5.7K 阅 · 542 赞 · 110 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "OptimAI 回顾五月进展：从证明产品转向扩展平台。市场趋势一致：AI 不再仅是模型，而是向 Agent 原生互联网演进。"
+      "summary": "总结OptimAI五月进展：从产品验证转向平台扩张，并展望六月方向——构建原生于智能体的互联网基础设施。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asian Stocks to Dip as AI Rally Stalls, Oil Steady: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/asian-stocks-poised-to-edge-lower-oil-steadies-markets-wrap",
+      "excerpt": "Stocks in Asia looked set to edge lower on Friday as investors grappled with a pullback in artificial-intelligence shares and hopes for a diplomatic resolution to tensions in the Middle East.",
+      "publishedAt": "2026-06-04T22:12:54.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "亚洲股市周五预计小幅走低，因人工智能股回调，同时中东局势外交解决希望使油价企稳。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Steadies as Uncertainty Surrounds Progress in US-Iran Talks",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/gold-steadies-as-uncertainty-surrounds-progress-in-us-iran-talks",
+      "excerpt": "Gold was little changed as uncertainty persisted over progress in US-Iran talks to end the war that’s roiled global markets.",
+      "publishedAt": "2026-06-04T23:15:46.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "金价基本持平，市场对美伊谈判进展存在不确定性，谈判旨在结束扰乱全球市场的战争。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Sempra Unit Starts Producing LNG at New Export Plant in Mexico",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/sempra-unit-starts-producing-lng-at-new-export-plant-in-mexico",
+      "excerpt": "Sempra Infrastructure said it began producing liquefied natural gas from Mexico’s first West Coast export terminal, with plans to ultimately ship the fuel to Asia in a move that could add relief to a market hurt by tightened global supply due to the Iran war.",
+      "publishedAt": "2026-06-04T23:00:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "Sempra Infrastructure在墨西哥西海岸首个出口终端开始生产液化天然气（LNG），计划运往亚洲，有望缓解因伊朗战争导致全球供应收紧的市场压力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2137,7 +1597,7 @@
       "publishedAt": "2026-06-04T22:01:15.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "因美伊谈判有望恢复霍尔木兹海峡能源流通，油价在本周首次下跌后企稳。"
+      "summary": "油价在本周首次下跌后企稳，市场乐观认为美伊谈判将恢复霍尔木兹海峡能源流通。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2147,7 +1607,7 @@
       "publishedAt": "2026-06-04T22:39:34.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Thinking Machines Lab联合创始人兼CEO Mira Murati在彭博科技2026大会上，讨论人机交互未来、AI产品演进及最大机遇。"
+      "summary": "Thinking Machines Lab联合创始人兼CEO Mira Murati在彭博科技2026大会上与Emily Chang探讨人类与AI交互的未来、AI产品演进及最大机遇。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2156,8 +1616,7 @@
       "excerpt": "S&P Dow Jones Indices will keep its existing eligibility requirements for main benchmarks like the S&P 500 Index, rejecting proposals that would have made it faster for mega-cap companies such as Elon Musk’s SpaceX to gain rapid entry into the benchmark after going public.",
       "publishedAt": "2026-06-04T21:56:19.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "标普道琼斯指数维持现有规则，拒绝为SpaceX等大型IPO提供快速纳入标普500的通道。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2167,7 +1626,7 @@
       "publishedAt": "2026-06-04T22:30:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "韩国Kospi指数在累计上涨105%后出现疲态，市场广度问题引发担忧，4.9万亿美元股市承压。"
+      "summary": "韩国Kospi指数此前录得105%的全球领先涨幅，但规模达4.9万亿美元的韩国股市开始显现压力迹象，广度担忧加剧。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2177,7 +1636,7 @@
       "publishedAt": "2026-06-04T22:28:16.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "华尔街分析师预计SpaceX的AI业务收入到2030年将增长100倍，以支撑其1.8万亿美元目标估值。"
+      "summary": "华尔街分析师向潜在SpaceX IPO买家表示，其人工智能部门到2030年收入将增长100倍，以支撑1.8万亿美元的估值目标。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2187,7 +1646,7 @@
       "publishedAt": "2026-06-04T22:27:08.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "格莱美获奖制作人Hit-Boy在彭博科技2026上探讨AI工具、音乐制作及创意民主化。"
+      "summary": "格莱美获奖音乐人Hit-Boy在彭博科技2026大会上讨论AI工具、音乐制作与创意实验，称AI正在民主化创造力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2197,17 +1656,7 @@
       "publishedAt": "2026-06-04T22:22:26.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "World Labs联合创始人兼CEO李飞飞在彭博科技2026上讨论空间智能、大型世界模型及AI现实应用。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Asian Stocks Poised to Edge Lower, Oil Steadies: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/asian-stocks-poised-to-edge-lower-oil-steadies-markets-wrap",
-      "excerpt": "Stocks in Asia were set to edge lower on Friday as investors grappled with a pullback in artificial-intelligence shares and hopes of a diplomatic resolution to tensions in the Middle East.",
-      "publishedAt": "2026-06-04T22:12:54.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "亚洲股市周五料小幅走低，投资者权衡AI股回调及中东外交缓和预期，油价企稳。"
+      "summary": "World Labs联合创始人兼CEO李飞飞在彭博科技2026大会上与Emily Chang探讨空间智能、大型世界模型及AI现实应用。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2386,24 +1835,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-04/education-department-pushes-faster-college-mergers-video",
       "excerpt": "The US Education Department says hundreds of colleges face financial distress and many won't survive the decade. Under Secretary Nicholas Kent join Bloomberg Open Interest to explain why the administration wants to speed up college mergers, defend private capital's role in higher education, and use ",
       "publishedAt": "2026-06-04T19:21:27.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Foreign Buyers Snap Up Turkish Stocks in Fast-Track Deals",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/foreign-investors-snap-up-turkish-stocks-in-fast-track-trades",
-      "excerpt": "Foreign investors are piling into fast-tracked sales of shares in Turkish companies, seeing pockets of value in a market facing political turmoil at home and fallout from the Iran war.",
-      "publishedAt": "2026-06-04T12:35:22.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "What to Expect From the Monthly Jobs Report",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-04/bloomberg-economics-previews-friday-s-us-jobs-report-video",
-      "excerpt": "Bloomberg Economics chief US economist Anna Wong joins Katie Greifeld on \"Bloomberg Real Yield.\" The team expects the May payrolls report to show a solid increase, suggesting the hot March and April reports reflected underlying momentum rather than just a rebound from earlier weakness. (Source: Bloo",
-      "publishedAt": "2026-06-04T19:04:41.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2819,8 +2250,7 @@
       "excerpt": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
       "publishedAt": "2026-06-04T21:53:25.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "Anthropic联合创始人Jack Clark警告，AI可能发展到无需人类输入即可自我演进，需要「刹车踏板」。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
@@ -2830,7 +2260,7 @@
       "publishedAt": "2026-06-04T23:05:54.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "Hinge首席执行官表示，20多岁的单身人士因孤独和缺乏自信，需要AI帮助在约会应用上迈出第一步。"
+      "summary": "Hinge首席执行官Jackie Jantos表示，孤独感和缺乏自信是20多岁年轻人在约会应用上寻找关系的主要挑战，AI可助其迈出第一步。"
     },
     {
       "sourceId": "bbc-business",
@@ -2840,7 +2270,7 @@
       "publishedAt": "2026-06-04T23:05:39.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "Meta任职最久的员工Naomi Gleit经历多次争议，仍称其工作为「梦想工作」，并谈及AI与就业。"
+      "summary": "Meta任职最久的员工Naomi Gleit谈及AI、工作及老板扎克伯格，尽管经历多次争议，她仍称Meta是她的「梦想工作」。"
     },
     {
       "sourceId": "bbc-business",
@@ -2868,7 +2298,7 @@
       "publishedAt": "2026-06-04T23:10:26.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "发酵技术正将食品加工副产品转化为有价值的食物，减少浪费。"
+      "summary": "发酵这一古老工艺将食品加工副产品转化为有价值且美味的食材，减少浪费并提升风味。"
     },
     {
       "sourceId": "bbc-business",
@@ -3361,10 +2791,10 @@
       "title": "Zelensky proposes face-to-face talks in open letter to Putin",
       "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
-      "publishedAt": "2026-06-04T21:34:14.000Z",
+      "publishedAt": "2026-06-04T23:32:35.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "乌克兰总统泽连斯基在致普京的公开信中提议举行面对面谈判，称只有“直接接触”才能结束战争，而美国正聚焦伊朗。"
+      "summary": "乌克兰总统泽连斯基在公开信中提议与普京面对面谈判，称只有双方直接接触才能结束战争，而美国目前聚焦伊朗。"
     },
     {
       "sourceId": "bbc-world",
@@ -3391,8 +2821,7 @@
       "excerpt": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
       "publishedAt": "2026-06-04T21:34:49.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "迪拜统治者侄子前妻Zeynab Javadli被检方拘留，自周二起与所有朋友失联。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3402,7 +2831,7 @@
       "publishedAt": "2026-06-04T23:11:15.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "全球红树林森林在经历数十年人类破坏后正在恢复，这对沿海社区和气候带来积极影响。"
+      "summary": "红树林在经历数十年人类破坏后正意外复苏，这对沿海社区和气候来说是好消息。"
     },
     {
       "sourceId": "bbc-world",
@@ -3421,7 +2850,7 @@
       "publishedAt": "2026-06-04T22:20:24.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "美国第二大城洛杉矶及加州选举结果可能需数周甚至一个月才能公布。"
+      "summary": "美国第二大城市洛杉矶以及加州的选举结果可能需数周甚至一个月才能揭晓，这是由于计票流程缓慢。"
     },
     {
       "sourceId": "bbc-world",
@@ -3584,7 +3013,7 @@
       "publishedAt": "2026-06-04T22:22:56.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "K-pop组合Le Sserafim通过接受自身缺点并拥抱幽默，克服内部冲突和网络攻击，达到了新的成功水平。"
+      "summary": "K-pop组合Le Sserafim称，接受自身缺点并拥抱幽默帮助他们克服内部冲突和网络攻击，达到了新的成功高度。"
     },
     {
       "sourceId": "bbc-world",
@@ -3768,13 +3197,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia news live: Jane Hume says Labor being ‘sneaky’ on tax changes; John Howard signs open letter urging gambling reforms",
+      "title": "Australia news live: Barnaby Joyce clarifies One Nation housing policy after interview blunder; John Howard signs open letter urging gambling reforms",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb",
       "excerpt": "Follow today’s news live Get our breaking news email, free app or daily news podcast Jane Hume, the deputy opposition leader, accused the government of being “sneaky”, saying discussions around tax reforms in parliament were much too short to properly address so-called “generational” tax reforms. “W",
-      "publishedAt": "2026-06-04T23:09:02.000Z",
+      "publishedAt": "2026-06-04T23:35:30.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚反对党副领袖Jane Hume指责工党在税收改革上“耍滑头”；前总理John Howard签署公开信，呼吁进行赌博改革。"
+      "summary": "澳大利亚新闻：巴纳比·乔伊斯澄清单一民族党住房政策；前总理约翰·霍华德签署公开信呼吁赌博改革。副反对党领袖简·休姆指责政府税收改革讨论时间不足。"
     },
     {
       "sourceId": "guardian-world",
@@ -3820,7 +3249,7 @@
       "publishedAt": "2026-06-04T22:30:37.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "乌克兰总统泽连斯基在致普京的公开信中呼吁举行面对面谈判，提议在第三方中立国会面。特朗普称双方需做出妥协。"
+      "summary": "乌克兰总统泽连斯基在致普京的公开信中提议在中立第三国举行面对面谈判。特朗普表示双方都必须做出妥协。"
     },
     {
       "sourceId": "guardian-world",
@@ -3911,7 +3340,7 @@
       "publishedAt": "2026-06-04T22:08:37.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "真主党领导人拒绝美国斡旋的黎巴嫩与以色列停火协议，称该协议意味着真主党投降。真主党未参与谈判。"
+      "summary": "黎巴嫩真主党拒绝美国斡旋的黎以停火协议。真主党领导人称该协议等同于投降，因其未被纳入谈判。"
     },
     {
       "sourceId": "nyt-world",
@@ -3956,8 +3385,7 @@
       "excerpt": "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years.",
       "publishedAt": "2026-06-04T21:37:47.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "索马里首都摩加迪沙爆发枪战，忠于对立政治人物的武装团体激烈交火。居民称这是多年来最严重的战斗。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4024,6 +3452,16 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "Zelensky Mixes Taunts and Peace Talks Offer in Letter to Putin",
+      "url": "https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html",
+      "excerpt": "“After 26 years in power, age is beginning to take its toll,” President Volodymyr Zelensky of Ukraine wrote of his Russian counterpart, bragging of a recent strike on St. Petersburg.",
+      "publishedAt": "2026-06-04T23:34:45.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "乌克兰总统泽连斯基在致普京的公开信中既嘲讽又提出和谈。他写道：在位26年后，年龄开始产生影响，并夸耀近期对圣彼得堡的打击。"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "Tennis Giants Tumble",
       "url": "https://www.nytimes.com/2026/06/04/world/05int-theworld-tennis-french-open-satrapi-lebanon.html",
       "excerpt": "All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.",
@@ -4048,7 +3486,7 @@
       "publishedAt": "2026-06-04T21:52:21.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "特朗普政府收紧对古巴经济限制，多家国际酒店集团宣布将撤离古巴。"
+      "summary": "特朗普政府收紧对古巴经济限制的举措见效，多家国际酒店连锁宣布撤出古巴。"
     },
     {
       "sourceId": "nyt-world",
@@ -4076,7 +3514,7 @@
       "publishedAt": "2026-06-04T22:02:20.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "刚果（金）偏远矿业城镇的埃博拉疫情中，居民的悲痛和不信任情绪加剧，部分人否认疾病存在，给医疗工作带来困难。"
+      "summary": "刚果（金）埃博拉疫情中心的偏远矿镇，悲伤与不信任阻碍防疫努力。部分居民否认疾病存在，医护人员面临挑战。"
     },
     {
       "sourceId": "nyt-world",
@@ -4165,15 +3603,6 @@
       "url": "https://www.nytimes.com/2026/06/03/world/africa-travel-iran-kuwait.html",
       "excerpt": "A growing middle class is increasingly mobile — and changing African ideas about leisure, travel and even the continent itself.",
       "publishedAt": "2026-06-04T05:00:45.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Four Immigrant Workers Burned to Death in Italy",
-      "url": "https://www.nytimes.com/2026/06/03/world/europe/italy-migrants-burned.html",
-      "excerpt": "The immigrants had been working as fruit pickers in southern Italy, the authorities said, apparently as part of a system of criminal labor trafficking.",
-      "publishedAt": "2026-06-03T20:19:49.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4539,9 +3968,19 @@
     },
     {
       "sourceId": "aljazeera",
-      "title": "Ivory Coast beat France in World Cup warning to one of the favourites",
+      "title": "Democrat fails to block US measure to deepen Israel military cooperation",
+      "url": "https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation?traffic_source=rss",
+      "excerpt": "Congressman Ro Khanna says the integration push only boosts Netanyahu, but his push to revoke the measure fell short.",
+      "publishedAt": "2026-06-04T23:28:13.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "美国民主党众议员罗·卡纳未能阻止一项深化美以军事合作的法案。他称此举只会助长内塔尼亚胡，但撤销努力失败。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Ivory Coast beats France in World Cup warning to one of the favourites",
       "url": "https://www.aljazeera.com/sports/2026/6/4/ivory-coast-beat-france-in-world-cup-warning-to-one-of-the-favourites?traffic_source=rss",
-      "excerpt": "Ivory Coast beat France 2-1 in friendly ahead of the 2026 World Cup, as Manchester United's Amad Diallo seals win.",
+      "excerpt": "Ivory Coast defeats France 2-1 in friendly ahead of the 2026 World Cup, as Manchester United's Amad Diallo seals win.",
       "publishedAt": "2026-06-04T23:00:36.000Z",
       "category": "politics",
       "source": "Al Jazeera"
@@ -4554,7 +3993,7 @@
       "publishedAt": "2026-06-04T22:57:15.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国民主党在“投票马拉松”中迫使就特朗普18亿美元和解基金进行投票。共和党则寻求通过700亿美元移民执法资金。"
+      "summary": "民主党迫使特朗普的18亿美元和解基金进入投票。共和党希望通过700亿美元移民执法资金，但需经历一系列争议议题表决。"
     },
     {
       "sourceId": "aljazeera",
@@ -4564,7 +4003,7 @@
       "publishedAt": "2026-06-04T22:38:37.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "肯尼亚总统威廉·鲁托（William Ruto）为美国在肯建设埃博拉隔离设施辩护，称这是“正确的事”。"
+      "summary": "肯尼亚总统威廉·鲁托为美国在肯建造埃博拉隔离设施辩护，称这是“正确的事情”，尽管当地发生致命抗议。"
     },
     {
       "sourceId": "aljazeera",
@@ -4574,7 +4013,7 @@
       "publishedAt": "2026-06-04T22:05:23.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "Al Jazeera记者哈拉·沙米（Hala Al Shami）解释美国官员为何高度关注哥伦比亚总统选举。"
+      "summary": "半岛电视台记者解释美国为何深度介入哥伦比亚总统选举，关注其地缘政治与经济利益。"
     },
     {
       "sourceId": "aljazeera",
@@ -4584,7 +4023,7 @@
       "publishedAt": "2026-06-04T21:40:08.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "黎巴嫩最新消息：真主党拒绝美国提出的计划，以色列继续发动攻击，新外交努力未能平息暴力。"
+      "summary": "黎巴嫩最新：真主党拒绝美国方案，以色列持续攻击。新的外交努力未能平息暴力。"
     },
     {
       "sourceId": "aljazeera",
@@ -4754,15 +4193,6 @@
       "url": "https://www.aljazeera.com/news/2026/6/4/pro-palestinian-badges-should-not-be-worn-by-nhs-staff-uk-review-suggests?traffic_source=rss",
       "excerpt": "Anti-Semitism review recommends that badges proclaiming political support should not be worn by public health workers",
       "publishedAt": "2026-06-04T15:48:36.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war",
-      "url": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss",
-      "excerpt": "Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.",
-      "publishedAt": "2026-06-04T15:41:15.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
@@ -5041,20 +4471,20 @@
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "excerpt": "Python tool for converting files and office documents to Markdown.",
-      "meta": "Python · ★ 144,218 · ⑂ 9,865",
+      "meta": "Python · ★ 144,231 · ⑂ 9,868",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "MarkItDown 是微软开发的 Python 工具，用于将文件及 Office 文档转换为 Markdown 格式。支持多种输入格式，适合文档预处理、知识库构建等场景。"
+      "summary": "微软开源的 Python 工具，用于将各种文件和 Office 文档转换为 Markdown 格式。支持 Word、Excel、PowerPoint、PDF 等常见格式，方便后续处理或喂给 LLM。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "excerpt": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "meta": "Python · ★ 130,163 · ⑂ 21,151",
+      "meta": "Python · ★ 130,167 · ⑂ 21,151",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "Claude Code 是 Anthropic 推出的终端编码代理，能理解整个代码库，帮助开发者执行常规任务、解释复杂代码和处理 Git 工作流。支持命令行交互，适合加速日常开发工作。"
+      "summary": "Claude Code 是一个驻留在终端的 Agent 编程工具，能理解整个代码库，帮助开发者更快编码：执行日常任务、解释复杂代码、处理 git 工作流。适合需要深度 AI 辅助的软件工程师。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5064,17 +4494,17 @@
       "meta": "Python · ★ 29,240 · ⑂ 2,762",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "Genesis World 是一个面向通用机器人和具身 AI 学习的仿真平台，提供物理环境和训练接口。适合研究人员和开发者进行机器人控制与强化学习实验。"
+      "summary": "专为通用机器人学和具身 AI 学习设计的仿真平台。提供高保真物理环境、丰富的传感器和对象，支持机器人技能训练、模拟到现实迁移等研究。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "stefan-jansen/machine-learning-for-trading",
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "excerpt": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "meta": "Jupyter Notebook · ★ 19,032 · ⑂ 5,277",
+      "meta": "Jupyter Notebook · ★ 19,033 · ⑂ 5,277",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "该项目是《Machine Learning for Algorithmic Trading》第二版的配套代码，涵盖机器学习在算法交易中的应用。适合量化交易者和数据科学家学习实战案例。"
+      "summary": "《Machine Learning for Algorithmic Trading》第二版的配套代码。涵盖从数据获取、特征工程到模型训练、回测的完整流程，适合量化交易从业者和学习者。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5084,17 +4514,17 @@
       "meta": "Jupyter Notebook · ★ 86,350 · ⑂ 20,932",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "微软推出的机器学习入门课程，共 12 周 26 节课和 52 个测验，涵盖经典机器学习算法。适合零基础学习者系统掌握 ML 基础。"
+      "summary": "微软推出的机器学习入门课程，共 12 周、26 节课、52 个小测验。覆盖经典机器学习（非深度学习），适合零基础学习者，配有实践代码和 Jupyter Notebook。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "NVIDIA-NeMo/Nemotron",
       "url": "https://github.com/NVIDIA-NeMo/Nemotron",
       "excerpt": "Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models",
-      "meta": "Jupyter Notebook · ★ 1,249 · ⑂ 266",
+      "meta": "Jupyter Notebook · ★ 1,250 · ⑂ 266",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "NVIDIA Nemotron 开发者资源中心，提供训练配方、使用手册、数据集和端到端参考示例。一站式帮助开发者基于 Nemotron 模型构建 AI 应用。"
+      "summary": "NVIDIA Nemotron 模型的开发者资产中心，提供训练配方、使用手册、数据集和端到端参考示例。帮助研究人员和工程师快速上手 Nemotron 系列模型进行模型微调或推理部署。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5104,7 +4534,7 @@
       "meta": "Jupyter Notebook · ★ 260 · ⑂ 184",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "IQ Series 是微软推出的企业级智能层学习体验，涵盖 Foundry IQ、Work IQ 和 Fabric IQ 的实践教程。适合希望掌握 Microsoft 统一 AI 平台的开发者。"
+      "summary": "微软 IQ 系列（Foundry IQ、Work IQ、Fabric IQ）的动手学习体验，通过视频和实操帮助理解微软统一的企业智能层。适合企业开发者学习如何将 AI 集成到业务流程中。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5114,7 +4544,7 @@
       "meta": "Jupyter Notebook · ★ 5,376 · ⑂ 4,000",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "《Zero to Mastery Machine Learning and Data Science》课程的全套资料，包含代码、笔记和项目。适合希望从零开始成为机器学习工程师的学习者。"
+      "summary": "Zero to Mastery 机器学习和数据科学课程的全部材料。包含理论讲解、代码实现和项目练习，适用于希望系统掌握 ML/DS 的初学者至中级学习者。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5124,7 +4554,7 @@
       "meta": "Jupyter Notebook · ★ 16,292 · ⑂ 5,336",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "微软推出的 MCP（模型上下文协议）入门课程，使用 .NET、Java、TypeScript、JavaScript、Rust 和 Python 的多语言真实示例，帮助开发者掌握该协议的基础应用。"
+      "summary": "微软出品的 MCP（Model Context Protocol）入门课程，通过 .NET、Java、TypeScript、Rust、Python 等语言的真实示例教学。帮助开发者理解并应用 MCP 协议于多语言 AI 开发中。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5134,7 +4564,7 @@
       "meta": "R · ★ 6,944 · ⑂ 2,132",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "ggplot2 是 R 语言中基于图形语法的数据可视化包，通过图层方式构建统计图形。广泛用于数据分析和科研绘图，是 R 生态的核心可视化工具。"
+      "summary": "R 语言中实现图形语法（Grammar of Graphics）的包，是 tidyverse 核心成员之一。提供声明式绘图接口，适合统计学家、数据科学家快速创建高质量的可视化图表。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5144,7 +4574,7 @@
       "meta": "R · ★ 5,058 · ⑂ 4,421",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "《R for Data Science》一书的官方仓库，由 Hadley Wickham 编写，系统介绍使用 R 进行数据清洗、可视化和建模的方法，适合 R 语言数据科学入门。"
+      "summary": "《R for Data Science》原版书籍的配套仓库，由 Hadley Wickham 编写。系统讲解使用 R 和 tidyverse 进行数据导入、清洗、转换、可视化和建模，是 R 数据科学入门经典。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5154,7 +4584,7 @@
       "meta": "R · ★ 621 · ⑂ 107",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "CellChat 是 R 语言工具包，用于从单细胞和空间转录组数据推断、可视化和分析细胞间通讯。适合生物信息学研究人员进行细胞交互网络研究。"
+      "summary": "R 工具包，用于从单细胞和空间转录组数据中推断、可视化和分析细胞间通讯。帮助研究人员理解细胞如何通过配体-受体相互作用进行信号传递。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5164,7 +4594,7 @@
       "meta": "R · ★ 2,743 · ⑂ 988",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "Seurat 是用于单细胞基因组学的 R 工具包，提供数据标准化、降维、聚类和差异表达分析等功能。是单细胞 RNA-seq 分析的行业标准工具之一。"
+      "summary": "R 语言中用于单细胞基因组学分析的经典工具包。提供数据标准化、降维、聚类、差异表达、可视化等完整流程，是单细胞 RNA-seq 研究的标配。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5174,17 +4604,17 @@
       "meta": "TeX · ★ 27,661 · ⑂ 5,283",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "Awesome CV 是一个 LaTeX 简历模板，设计精美且易于定制。适合求职者快速生成专业排版的中英文简历。"
+      "summary": "一份精美的 LaTeX 简历模板，适合求职者制作专业排版。支持多种颜色主题，包含技能条、出版物、引用等功能，在 GitHub 上广受认可。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "billryan/resume",
       "url": "https://github.com/billryan/resume",
       "excerpt": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
-      "meta": "TeX · ★ 11,151 · ⑂ 2,846",
+      "meta": "TeX · ★ 11,151 · ⑂ 2,845",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "这是一个优雅的 LaTeX 简历模板，支持中文排版。提供简洁清晰的格式，适合求职者或学术申请使用。"
+      "summary": "优雅的 LaTeX 简历模板，提供简洁清晰的排版风格。有大陆镜像便于国内用户访问，适合求职者生成 PDF 简历。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5194,7 +4624,7 @@
       "meta": "TeX · ★ 1,521 · ⑂ 145",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "该项目收录了多智能体领域最优秀的论文，涵盖协作、竞争和通信等方向。适合研究人员和开发者快速了解该领域的最新进展。"
+      "summary": "多智能体（Multi-Agent）领域论文的精选汇编。汇总了该方向的经典与前沿文献，适合研究者快速了解领域进展。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5204,7 +4634,7 @@
       "meta": "TeX · ★ 37,286 · ⑂ 9,139",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "《深度学习》一书的简体中文翻译版，涵盖深度学习基础理论和实践。适合中文读者系统学习深度学习的经典教材。"
+      "summary": "《深度学习》（花书）的中文翻译项目。由社区协作完成，为中文读者提供了原版教材的完整中文版，适用于深度学习初学者和研究者。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5214,7 +4644,7 @@
       "meta": "TeX · ★ 10,385 · ⑂ 2,240",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "数学建模资源合集，包含研究生/本科生数学建模竞赛的优秀论文、算法、LaTeX 模板、思维导图和 Matlab 教程。适合参赛学生备战数学建模竞赛。"
+      "summary": "数学建模资料合集，包含研究生/本科生建模竞赛优秀论文、算法、LaTeX 模板、思维导图、参考书籍和 MATLAB 教程。适合参赛学生和建模爱好者。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5224,7 +4654,7 @@
       "meta": "TeX · ★ 6,280 · ⑂ 412",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "VimTeX 是 Vim 和 Neovim 的 LaTeX 文件类型插件，提供语法高亮、编译、预览和代码补全等现代功能。适合使用 Vim 编写 LaTeX 文档的用户。"
+      "summary": "为 Vim 和 Neovim 打造的现代 LaTeX 文件类型插件。提供语法高亮、编译、反向搜索、自动补全等丰富功能，提升 LaTeX 编辑体验。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5234,17 +4664,17 @@
       "meta": "Julia · ★ 62 · ⑂ 58",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "QuantumSavory.jl 是 Julia 语言中的量子硬件全栈模拟器，从底层模拟物理到高层网络动态，包含离散事件模拟和量子对象符号表示。适合量子网络和量子计算研究。"
+      "summary": "Julia 语言的全栈量子硬件模拟器，覆盖从底层模拟物理到高层网络动力学。包含离散事件模拟器、量子对象符号表示等，适合量子计算和量子网络研究。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "tldr-pages/tldr",
       "url": "https://github.com/tldr-pages/tldr",
       "excerpt": "Collaborative cheatsheets for console commands 📚.",
-      "meta": "Markdown · ★ 62,765 · ⑂ 5,275",
+      "meta": "Markdown · ★ 62,766 · ⑂ 5,275",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "tldr 是命令行工具的协作速查表集合，提供简化且实用的命令示例。适合快速查阅常用命令，替代冗长的 man 手册。"
+      "summary": "社区驱动的命令行速查表项目，提供常用命令的简洁示例和用法。替代冗长的 man 手册，适合开发者快速回忆命令参数。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5254,7 +4684,7 @@
       "meta": "Markdown · ★ 2,244 · ⑂ 461",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "MADR（Markdown Architectural Decision Records）是一种用 Markdown 记录架构决策的模板规范。帮助团队以轻量方式追踪和文档化技术决策。"
+      "summary": "Markdown 格式的架构决策记录（ADR），帮助团队记录和追踪软件架构决策。提供模板和最佳实践，适用于需要长期维护协作的项目。"
     },
     {
       "sourceId": "sciencedaily-ai",
@@ -5264,7 +4694,7 @@
       "publishedAt": "2026-05-19T00:23:26.000Z",
       "category": "tech",
       "source": "ScienceDaily AI",
-      "summary": "宾夕法尼亚大学研究人员创造了一种光-物质混合粒子，可大幅加速AI计算并降低能耗，有望用超高效光技术替代部分电子计算。"
+      "summary": "宾夕法尼亚大学研究人员创造出一种光-物质混合粒子，可大幅提升AI计算速度并降低能耗，有望以超高效光基技术替代部分电子计算过程。"
     },
     {
       "sourceId": "sciencedaily-ai",
@@ -5274,7 +4704,7 @@
       "publishedAt": "2026-05-15T08:13:15.000Z",
       "category": "tech",
       "source": "ScienceDaily AI",
-      "summary": "NASA正在测试新一代耐辐射太空计算机芯片，性能比当前航天计算机高出数百倍，可让航天器在深空独立运行。"
+      "summary": "NASA正在测试新一代抗辐射太空芯片，性能比现有航天计算机高出数百倍，可使航天器在深空更独立地运行，无需频繁地面指令。"
     },
     {
       "sourceId": "sciencedaily-ai",
@@ -5536,7 +4966,7 @@
       "publishedAt": "2026-06-04T10:25:38.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "AAAI公布2026年度会士名单，本文专访会士Sanmay Das，探讨多智能体系统领域的研究进展与贡献。"
+      "summary": "AAAI每年评选对人工智能领域做出重大持续贡献的学者授予Fellow称号。该访谈采访了2026年AAAI Fellow Sanmay Das，探讨其在多智能体系统方面的研究。"
     },
     {
       "sourceId": "aihub",
@@ -5546,7 +4976,7 @@
       "publishedAt": "2026-06-03T07:10:44.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "俄勒冈州立大学研究显示，通过设计让AI系统在使用前提示用户考虑能耗与环境影响，可减少不必要的AI使用，促进负责任用AI。"
+      "summary": "俄勒冈州立大学研究显示，通过设计让AI系统在用户使用前暂停并提示考虑能耗和环境影响，可减少不必要的AI使用，促进环境保护。"
     },
     {
       "sourceId": "aihub",
@@ -5556,7 +4986,7 @@
       "publishedAt": "2026-06-02T07:29:49.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "OpenAI内部人工智能解决了困扰数学界80年的平面点集单位距离问题，新排列方案令数学家震惊。"
+      "summary": "OpenAI近日公开其内部AI成果，解决了数学领域一个80年未解的平面点排列问题，令数学界震惊。该AI找到了一种新的单位距离点对最佳排列方式。"
     },
     {
       "sourceId": "aihub",
@@ -5566,7 +4996,7 @@
       "publishedAt": "2026-06-01T08:01:40.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "本文列出2026年6月至7月期间举办的免费AI相关线上研讨会，涵盖无人机、群体智能、网络物理社会等主题。"
+      "summary": "文章列出了2026年6月1日至7月31日期间免费的AI相关在线研讨会，包括无人机与群体智能、网络物理社会未来等主题。"
     },
     {
       "sourceId": "aihub",
@@ -5576,7 +5006,7 @@
       "publishedAt": "2026-05-29T09:15:17.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "Alan Warburton推出动画短片《Image Empire》，以童话形式探讨当代AI模型中真实与虚拟的融合，并附带研究论文与卫星活动。"
+      "summary": "Alan Warburton创作了动画短片《Image Empire》，以童话形式展现当代AI模型中真实与虚拟的融合。该片是其研究项目的一部分，还包括研究论文和系列活动。"
     },
     {
       "sourceId": "aihub",
@@ -5586,7 +5016,7 @@
       "publishedAt": "2026-05-28T07:14:44.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "AIhub五月摘要回顾：AI for science、彩票假说、世界模型、透明可信AI研究等主题的近期报道与活动。"
+      "summary": "AIhub五月文摘汇总：涵盖AI用于科学、彩票假说、世界模型、透明可信AI等研究主题，并回顾了近期活动和新闻。"
     },
     {
       "sourceId": "aihub",
@@ -5596,7 +5026,7 @@
       "publishedAt": "2026-05-27T10:03:11.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "密歇根大学研究指出，数亿人每日使用AI聊天机器人，而机器人可能在回复中悄悄植入广告，用户很难察觉。"
+      "summary": "密歇根大学研究人员指出，每天数亿人使用AI聊天机器人，若在其中植入广告，用户可能难以察觉，从而引发对AI伦理和商业化的担忧。"
     },
     {
       "sourceId": "aihub",
@@ -5606,7 +5036,7 @@
       "publishedAt": "2026-05-26T11:03:03.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "播客《The Good Robot》邀请Friederike von Franqué探讨数据中心未来与数字主权，讨论云基础设施的治理与所有权问题。"
+      "summary": "播客《The Good Robot》本期邀请Friederike von Franqué讨论数据中心未来和数字主权问题，探讨云基础设施的归属与治理。"
     },
     {
       "sourceId": "aihub",
@@ -5616,7 +5046,7 @@
       "publishedAt": "2026-05-22T10:49:47.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "AIhub咖啡角邀请多位AI专家探讨世界模型：什么是世界模型，以及它们有哪些潜在应用。"
+      "summary": "AIhub咖啡角本期聚焦世界模型，邀请Sanmay Das、Rina Dechter等专家探讨世界模型的概念及其在AI领域的潜力。"
     },
     {
       "sourceId": "aihub",
@@ -5626,7 +5056,7 @@
       "publishedAt": "2026-05-21T18:08:00.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "UNSW Sydney的Toby Walsh撰文分析：全球银行担忧Anthropic最新AI模型，因其可能被用于金融犯罪，一如大盗Sutton所言“因为钱在那里”。"
+      "summary": "新南威尔士大学Toby Walsh撰文，引用银行劫匪Willie Sutton的话“因为钱在那里”，解释全球银行业为何对Anthropic最新AI模型感到担忧。"
     },
     {
       "sourceId": "aihub",
@@ -5636,7 +5066,7 @@
       "publishedAt": "2026-05-20T15:27:39.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "ACM SIGAI专访Jonathan Frankle，讨论彩票假说及其获得2023年AAAI/ACM博士论文奖后的研究与应用。"
+      "summary": "ACM SIGAI旗下AI Matters采访Jonathan Frankle，探讨其提出的彩票假说（获2023年AAAI/ACM博士论文奖），以及如何将实证研究转化为现实影响。"
     },
     {
       "sourceId": "aihub",
@@ -5646,7 +5076,7 @@
       "publishedAt": "2026-05-19T12:58:55.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "由于AI增长，预计到2028年数据中心将消耗美国12%的电力。研究人员提出更快的AI功耗估算方法。"
+      "summary": "随着AI爆发式增长，预计到2028年数据中心将消耗美国12%的电力。研究人员提出一种更快的AI功耗估算方法，以应对能源挑战。"
     },
     {
       "sourceId": "aihub",
@@ -5656,7 +5086,7 @@
       "publishedAt": "2026-05-18T07:29:28.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "系统故障每年造成超万亿美元损失。ARFBench是一个基于真实事故的时间序列问答基准，用于帮助工程师快速排查故障。"
+      "summary": "每年系统故障造成超过万亿美元损失。ARFBench是基于真实事件的时间序列问答基准，帮助工程师快速分析可观测性指标以排除故障。"
     },
     {
       "sourceId": "aihub",
@@ -5666,7 +5096,7 @@
       "publishedAt": "2026-05-15T10:46:33.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "联邦遗忘（即从AI中移除用户数据）能否提升隐私？里贾纳大学等学者指出，这可能带来新的网络安全风险。"
+      "summary": "里贾纳大学等研究者探讨联邦遗忘学习在AI中的应用：该技术旨在从模型中删除用户数据以提升隐私，但可能引入新的网络安全风险。"
     },
     {
       "sourceId": "aihub",
@@ -5676,7 +5106,7 @@
       "publishedAt": "2026-05-14T14:04:53.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "本文回顾AIES 2025会议，重点讨论了大语言模型在临床使用与人权背景下的对话与报告。"
+      "summary": "文章回顾了AIES 2025会议，重点概述了关于大语言模型在临床使用与人权背景下的讨论和演讲，由ACM SIAGI发布。"
     },
     {
       "sourceId": "aihub",
@@ -5821,7 +5251,7 @@
       "publishedAt": "2026-05-27T13:00:00.000Z",
       "category": "tech",
       "source": "Science News AI",
-      "summary": "科学家会依据实验证据修正想法，但AI智能体难以从证据中学习，无法识别明显错误观点，引发对AI科学可信度的质疑。"
+      "summary": "科学家通过实验重新审视观点，但AI智能体难以从证据中学习，也无法识别明显错误的观点，引发对AI在科学领域可信度的质疑。"
     },
     {
       "sourceId": "sciencenews-ai",
@@ -5831,7 +5261,7 @@
       "publishedAt": "2026-05-19T16:30:00.000Z",
       "category": "tech",
       "source": "Science News AI",
-      "summary": "旧金山湾的灰鲸面临船只碰撞风险，AI技术通过热成像检测鲸鱼体温，可帮助预警，减少伤害。"
+      "summary": "一种利用热成像检测鲸鱼体温的AI技术，可帮助警告可能撞击灰鲸的船只，有望保护旧金山湾的灰鲸免受船舶碰撞。"
     },
     {
       "sourceId": "sciencenews-ai",
@@ -5841,7 +5271,7 @@
       "publishedAt": "2026-05-14T15:00:00.000Z",
       "category": "tech",
       "source": "Science News AI",
-      "summary": "AI技术旨在减少生活中的摩擦与思考努力，但文章指出，适度的努力本身也有价值，完全消除可能带来代价。"
+      "summary": "AI技术（如聊天机器人）承诺让生活更轻松，但消除思考的努力可能带来代价，例如削弱批判性思维，适度努力亦有裨益。"
     },
     {
       "sourceId": "sciencenews-ai",
@@ -6005,7 +5435,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 1. 修正了一项猪肾移植到人体的研究，分析了其生理和免疫反应，为未来异种器官移植提供了关键参考。"
+      "summary": "[生物] 1. 摘要：更正了关于猪肾移植到已故者体内的生理与免疫研究数据，为未来异种器官移植的临床安全性提供更准确参考。"
     },
     {
       "sourceId": "nature",
@@ -6016,7 +5446,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "材料",
-      "summary": "[材料] 新设备能“嗅出”聚变反应堆是否秘密生产核弹原料，可能用于监测核不扩散，提升全球安全。"
+      "summary": "[材料] 摘要：新型探测设备能灵敏识别核聚变反应堆是否被用于秘密生产核武器原料，有助于加强全球核不扩散监控。"
     },
     {
       "sourceId": "nature",
@@ -6027,7 +5457,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 给父母提供经济补贴有助于改善新生儿出生体重，对母婴健康有积极影响。"
+      "summary": "[交叉] 摘要：研究发现，对贫困家庭父母提供经济补助，可显著改善新生儿出生体重，从而促进婴幼儿健康发育。"
     },
     {
       "sourceId": "nature",
@@ -6038,7 +5468,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "医学",
-      "summary": "[医学] 一种影响数百万人的神秘肺病，在小鼠实验中显示新药有治疗潜力，为患者带来新希望。"
+      "summary": "[医学] 摘要：一种针对不明原因肺病的候选药物在老鼠实验中显示出疗效，为数百万患者带来新治疗希望。"
     },
     {
       "sourceId": "nature",
@@ -6049,7 +5479,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 研究表明，有军事应用的科学论文被引用次数比纯民用研究更多，凸显军事科研对学术影响力的作用。"
+      "summary": "[交叉] 摘要：分析表明，具有军事应用潜力的科学研究相比纯民用研究，被引次数更高，反映出防务需求对科研影响力的推动作用。"
     },
     {
       "sourceId": "nature",
@@ -6060,7 +5490,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 1. 本文探究中国通讯作者数量长期偏高的原因，分析科研评价体系和国际合作模式的影响，揭示这一现象背后的制度性因素。"
+      "summary": "[交叉] 1. 这篇论文探讨了中国通讯作者数量异常高的背后原因，分析了科研评价体系、合作模式等影响因素，揭示了当前科研生态的特点。"
     },
     {
       "sourceId": "nature",
@@ -6071,7 +5501,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 本编辑声明对一篇利用体内诱导蛋白水解鉴定DNA复制蛋白的功能蛋白质组学研究提出关注，提醒读者该论文存在需进一步核实的问题。"
+      "summary": "[生物] 该论文发布编辑关注声明，针对先前发表的DNA复制蛋白功能蛋白质组学研究中使用体内诱导蛋白水解方法可能存在的问题，提醒读者注意。"
     },
     {
       "sourceId": "nature",
@@ -6082,7 +5512,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 人工智能在科学招聘中是敌是友？邀请您参加免费网络研讨会，探讨AI如何影响科研人才选拔的公平性与效率。"
+      "summary": "[交叉] 这篇报道介绍了一场免费网络研讨会，讨论人工智能在科学招聘中的角色是利是弊，邀请参与者共同探讨AI如何影响科研人才选拔。"
     },
     {
       "sourceId": "nature",
@@ -6093,7 +5523,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 你的手机可通过检测皮肤颜色的微小变化来测量心率，这项技术无需额外设备，利用摄像头即可实时监测健康指标。"
+      "summary": "[交叉] 这项研究发现，智能手机能通过捕捉皮肤颜色的细微变化来测量心率，无需额外设备，为日常健康监测提供了便捷新方法。"
     },
     {
       "sourceId": "nature",
@@ -6104,7 +5534,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 回复关于热带植被总初级生产力规模的评论，本文通过修正数据和方法，重新评估了热带地区光合作用的碳吸收总量。"
+      "summary": "[交叉] 这篇回复文章就热带植被总初级生产力规模问题展开学术讨论，对先前研究的方法和结论提出不同看法，促进该领域认识的深入。"
     },
     {
       "sourceId": "nature",
@@ -6115,7 +5545,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究估算了热带植被的总初级生产力，为理解全球碳循环和气候变化提供了关键数据。"
+      "summary": "[交叉] 1. 研究估算了热带植被光合作用吸收二氧化碳的总量，揭示其对全球碳循环的关键作用，有助于理解气候变化与植被固碳能力的关系。"
     },
     {
       "sourceId": "nature",
@@ -6126,7 +5556,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 一种天然抗生素通过结合细菌核糖体的E位点抑制蛋白质合成，有望成为新型抗菌药物。"
+      "summary": "[生物] 发现一种天然缩肽类抗生素能特异性结合细菌核糖体的E位点，阻断蛋白质合成，为开发新型抗菌药物提供了重要靶点。"
     },
     {
       "sourceId": "nature",
@@ -6137,7 +5567,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 地球东西方向的反照率呈现对称性，这有助于改进气候模型，理解全球能量平衡。"
+      "summary": "[地球/环境] 发现地球东西半球的反射率呈现出高度对称性，这一现象反映了全球云层和地表特性的平衡，对改进气候模型有重要意义。"
     },
     {
       "sourceId": "nature",
@@ -6148,7 +5578,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "物理",
-      "summary": "[物理] 研究发现木星弓形激波能加速电子至相对论能量，解释高能粒子在太阳系中的传播机制。"
+      "summary": "[物理] 观测到木星弓形激波区域能高效加速电子至相对论能量，甚至波及更远空间，揭示了行星激波在粒子加速中的重要作用。"
     },
     {
       "sourceId": "nature",
@@ -6159,7 +5589,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 研究揭示了IDH突变型胶质瘤进展中基因和细胞状态的变化，为靶向治疗提供新线索。"
+      "summary": "[生物] 揭示了IDH突变神经胶质瘤进展中发生的遗传改变和细胞状态转化，为理解肿瘤恶性演进机制及开发靶向治疗策略提供了新线索。"
     },
     {
       "sourceId": "nature",
@@ -6170,7 +5600,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究揭示撒哈拉以南非洲的采矿活动会导致周边大面积额外森林砍伐，远超矿区本身范围，对生态系统造成严重破坏。"
+      "summary": "[交叉] 1. 研究发现撒哈拉以南非洲的采矿活动会导致远超矿区本身的大规模森林砍伐，破坏生态环境。"
     },
     {
       "sourceId": "nature",
@@ -6181,7 +5611,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 发现植物在低温诱导下产生的特定肽信号能保护花粉抗逆性，确保作物产量稳定，为农业育种提供新思路。"
+      "summary": "[交叉] 低温诱导的肽信号能增强花粉抗逆性，保障作物在寒冷条件下的产量，对粮食安全具有重要意义。"
     },
     {
       "sourceId": "nature",
@@ -6192,7 +5622,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 野生玉米中特定基因可提升氮素吸收效率，在保持产量的同时提高籽粒蛋白质含量，有望改良现代玉米品种。"
+      "summary": "[生物] 大刍草（玉米祖先）的基因能提高玉米氮利用效率并增加籽粒蛋白质含量，为培育高蛋白玉米提供新途径。"
     },
     {
       "sourceId": "nature",
@@ -6203,7 +5633,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 通过分析肠道不同细胞类型的遗传差异，发现特定细胞内的基因变异会显著增加炎症性肠病风险，为精准治疗提供新靶点。"
+      "summary": "[生物] 不同细胞类型中的遗传变异会影响炎症性肠病的发病风险，揭示了个体化治疗的新靶点。"
     },
     {
       "sourceId": "nature",
@@ -6214,7 +5644,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 研究揭示玉米细胞中“质体小球”作为独立隔室参与氮素同化过程，为作物氮利用效率改良提供了新的细胞生物学基础。"
+      "summary": "[交叉] 玉米叶片中的质体小球体是氮素同化的关键场所，这一发现为改良作物氮利用效率提供了新思路。"
     },
     {
       "sourceId": "nature",
@@ -6225,7 +5655,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 1. 探讨塑料包装后分拣的利弊，分析其在回收效率与成本间的平衡，为优化回收策略提供参考。"
+      "summary": "[交叉] 1. 研究分析了塑料包装分拣后处理中的权衡关系，探讨如何平衡回收效率与成本，为塑料废弃物管理提供优化建议。"
     },
     {
       "sourceId": "nature",
@@ -6236,7 +5666,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 研究发现亚精胺是人体内天然铁螯合剂，能有效抑制铁死亡，为相关疾病治疗提供新思路。"
+      "summary": "[交叉] 研究发现精胺能作为体内铁螯合剂，通过结合铁离子抑制铁死亡，为相关疾病治疗提供新思路。"
     },
     {
       "sourceId": "nature",
@@ -6247,7 +5677,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "材料",
-      "summary": "[材料] 在室温下观察到钙钛矿超晶格产生手性超荧光，为新型光电器件发展开辟新途径。"
+      "summary": "[材料] 在室温下，钙钛矿超晶格中实现了手性超荧光现象，为开发新型光电器件和量子技术提供可能。"
     },
     {
       "sourceId": "nature",
@@ -6258,7 +5688,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "化学",
-      "summary": "[化学] 通过引入力敏交联，显著提升聚合物吸收高速冲击能量的能力，为防弹材料设计提供新方法。"
+      "summary": "[化学] 引入机械力响应交联能增强聚合物在高速冲击下的能量耗散能力，有望用于防弹材料设计。"
     },
     {
       "sourceId": "nature",
@@ -6269,7 +5699,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 肠道有益菌产生的乙酰胆碱能增强黏膜免疫教育，帮助免疫系统正常发育，揭示微生物与免疫的互动。"
+      "summary": "[生物] 肠道共生菌产生的乙酰胆碱可增强黏膜免疫教育，揭示微生物与免疫系统互作的新机制。"
     },
     {
       "sourceId": "nature",
@@ -6280,7 +5710,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 1. 原子核的内部结构决定了质子与中子如何短程配对，这一发现有助于理解核力和原子核性质。"
+      "summary": "[交叉] 1. 研究发现原子核内的核子配对行为受核壳结构调控，揭示了原子核内部粒子间相互作用的深层规律。"
     },
     {
       "sourceId": "nature",
@@ -6291,7 +5721,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "物理",
-      "summary": "[物理] 利用Mamyshev振荡器研制出高脉冲能量集成锁模激光器，为光通信和精密测量提供高效光源。"
+      "summary": "[物理] 新型集成锁模激光器采用马梅舍夫振荡器技术，能产生高能量脉冲，为激光通信和精密测量提供更优方案。"
     },
     {
       "sourceId": "nature",
@@ -6302,7 +5732,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "物理",
-      "summary": "[物理] LASER蛋白将溶酶体损伤信号与修复机制相连，指导细胞及时修补受损细胞器，维持细胞健康。"
+      "summary": "[物理] LASER蛋白能感知溶酶体损伤信号，并召集ESCRT蛋白进行修复，为细胞维持健康提供了一种自我维护机制。"
     },
     {
       "sourceId": "nature",
@@ -6313,7 +5743,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 公共物品分配中，合作行为常与公平原则相冲突，研究揭示了两者权衡的内在机制。"
+      "summary": "[交叉] 在分配公共资源时，追求合作与追求平等可能相互冲突，这一发现对理解社会决策和公平原则有重要意义。"
     },
     {
       "sourceId": "nature",
@@ -6324,7 +5754,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "材料",
-      "summary": "[材料] 人类从食肉到农业的饮食转变，导致牙釉质纳米晶体取向偏差增大，反映了饮食习惯对牙齿微观结构的影响。"
+      "summary": "[材料] 研究表明，人类从狩猎转向农耕和增加肉类消费后，牙釉质纳米晶体的排列变得更加错乱，反映了饮食结构对牙齿微观结构的影响。"
     },
     {
       "sourceId": "science",
@@ -6335,7 +5765,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 1. 探讨当前专利制度存在的缺陷，分析其对创新和社会的负面影响，呼吁进行根本性改革以应对现实需求。"
+      "summary": "[交叉] 1. 指出当前专利制度存在缺陷，如阻碍创新、加剧不平等，并探讨改革方向，以平衡保护与公共福利。"
     },
     {
       "sourceId": "science",
@@ -6346,7 +5776,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 回顾一个50年前提出的进化观点，至今仍具震撼力，探讨其在现代生物学中的持续影响和科学意义。"
+      "summary": "[交叉] 回顾一个引发争议的进化理论50年来的影响，该观点挑战传统达尔文主义，重塑了人们对生物演化的理解。"
     },
     {
       "sourceId": "science",
@@ -6357,7 +5787,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 通过模型植物群落实验发现，物种竞争能促进植物快速适应温暖环境边界，为理解气候变化下生态适应提供新视角。"
+      "summary": "[交叉] 实验表明，植物群落中物种间的竞争能加速它们向更温暖地区扩张的适应过程，帮助应对气候变暖。"
     },
     {
       "sourceId": "science",
@@ -6368,7 +5798,7 @@
       "category": "research",
       "source": "Science",
       "meta": "生物",
-      "summary": "[生物] 研究发现严重肥胖会改变心力衰竭患者心肌收缩蛋白的结构与功能，为治疗射血分数保留型心衰提供新方向。"
+      "summary": "[生物] 研究发现，严重肥胖会改变心力衰竭患者心肌收缩蛋白的功能和排列，加重心脏功能障碍。"
     },
     {
       "sourceId": "science",
@@ -6379,7 +5809,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 利用高分辨率卫星数据精确量化全球树木覆盖损失规模，揭示农业扩张、森林砍伐等主要驱动因素。"
+      "summary": "[交叉] 利用高分辨率卫星数据，研究量化了全球树木覆盖损失的面积和主要驱动因素，指出农业扩张是最大原因。"
     },
     {
       "sourceId": "science",
@@ -6390,7 +5820,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究发现远程工作增加孤立感，对心理健康产生负面影响，需重视工作模式调整与社会联系维护。"
+      "summary": "[交叉] 1. 研究远程工作如何导致人们感到孤独，并影响心理健康。发现长期在家办公会增加社交隔离感，进而引发抑郁和焦虑，提示需要平衡远程工作的益处和社交需求。"
     },
     {
       "sourceId": "science",
@@ -6401,7 +5831,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 研究揭示人类合作行为的内在本质，表明合作是进化形成的本能，促进社会发展和群体生存。"
+      "summary": "[交叉] 探讨人类合作行为的本质，通过实验揭示合作并非单纯利他，而是基于互惠和信任。研究为理解社会协作提供了新视角，有助于促进团队合作和社会治理。"
     },
     {
       "sourceId": "science",
@@ -6412,7 +5842,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 美国山火频发导致臭氧污染反弹，逆转了此前空气质量改善成果，对公众健康构成新威胁。"
+      "summary": "[交叉] 研究发现美国近年来野火频发，导致臭氧污染加剧，逆转了之前空气质量改善的成果。提醒人们注意气候变化对空气质量的潜在威胁，需要更严格的污染控制措施。"
     },
     {
       "sourceId": "science",
@@ -6423,7 +5853,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 科学家开发光催化技术，利用二氧化碳作为氧源将烯烃高效转化为有用化学品，实现低碳转化新路径。"
+      "summary": "[交叉] 开发了一种利用二氧化碳作为氧源，在光催化下将烯烃高效转化为醛酮等化合物的新方法。这项技术为绿色化学合成提供了可行途径，有望减少传统氧化工艺的污染。"
     },
     {
       "sourceId": "science",
@@ -6434,7 +5864,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 研究发现睡眠中记忆再激活过程能根据白天经历动态调节睡眠深度，帮助巩固重要记忆。"
+      "summary": "[交叉] 揭示记忆重新激活如何帮助大脑根据过往经验自动调节睡眠。研究表明，学习后的记忆回放会优化睡眠结构，使睡眠更好地服务于记忆巩固和情绪调节。"
     },
     {
       "sourceId": "science",
@@ -6445,7 +5875,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究在1纳米极限下控制生长出扶手椅型二硫化钼纳米管，为构建超小尺寸电子器件提供了新材料方案。"
+      "summary": "[交叉] 1. 研究在1纳米极限下控制生长扶手椅型二硫化钼纳米管的方法，为开发新型纳米电子器件提供了可能，具有重要科学意义。"
     },
     {
       "sourceId": "science",
@@ -6456,7 +5886,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 开发一种新型自由基反应，能高效连接烷基并保持分子立体构型，为复杂药物分子合成提供精准工具。"
+      "summary": "[交叉] 提出一种立体保留的自由基烷基-烷基交叉偶联方法，能高效构建复杂分子，对药物合成和材料化学有重要应用价值。"
     },
     {
       "sourceId": "science",
@@ -6467,7 +5897,7 @@
       "category": "research",
       "source": "Science",
       "meta": "能源",
-      "summary": "[能源] 在硒化铅材料中添加微量铬，大幅提升热电制冷性能，实现全硒化铅体系的高效制冷，有望用于精密温控。"
+      "summary": "[能源] 通过超低铬掺杂实现全硒化铅热电冷却，显著提升制冷性能，为环保热电材料的开发提供了新思路。"
     },
     {
       "sourceId": "science",
@@ -6478,7 +5908,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 实验发现熊蜂能通过观察和尝试解决不熟悉的难题，表明其具备自发解决问题的能力，挑战了传统认知。"
+      "summary": "[交叉] 发现大黄蜂能自发解决复杂问题，揭示昆虫具有一定的认知灵活性和问题解决能力，扩展了对动物智能的理解。"
     },
     {
       "sourceId": "science",
@@ -6489,7 +5919,7 @@
       "category": "research",
       "source": "Science",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 分析近四十年卫星数据发现，全球红树林面积先减少后意外增长，显示自然恢复力和保护政策的积极效果。"
+      "summary": "[地球/环境] 过去四十年全球红树林面积意外增加并恢复，表明生态保护措施有效，对气候变化应对和海岸带管理有重要启示。"
     },
     {
       "sourceId": "science",
@@ -6500,7 +5930,7 @@
       "category": "research",
       "source": "Science",
       "meta": "天文",
-      "summary": "[天文] 1. 利用恒星动力学测量了红移2处一个不活跃黑洞的质量，为研究早期宇宙黑洞演化提供了新方法。"
+      "summary": "[天文] 1. 科学家利用恒星动力学方法，成功测量了红移2处一个不活跃黑洞的质量，为理解早期宇宙黑洞成长提供了新依据。"
     },
     {
       "sourceId": "science",
@@ -6511,7 +5941,7 @@
       "category": "research",
       "source": "Science",
       "meta": "生物",
-      "summary": "[生物] 植物免疫受体通过分子模拟病原体毒力靶标，揭示了植物如何“伪装”成病原体目标来激活免疫防御。"
+      "summary": "[生物] 研究发现植物免疫受体能模仿病原体毒力靶标的分子结构，从而“诱骗”病原体，揭示植物抗病新机制。"
     },
     {
       "sourceId": "science",
@@ -6522,7 +5952,7 @@
       "category": "research",
       "source": "Science",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 提出景观效率前沿概念，权衡生物多样性、气候缓解和经济效益，为土地利用规划提供优化方案。"
+      "summary": "[地球/环境] 研究提出“景观效率前沿”概念，权衡生物多样性保护、气候缓解和经济效益，为土地规划提供最优方案。"
     },
     {
       "sourceId": "science",
@@ -6533,7 +5963,7 @@
       "category": "research",
       "source": "Science",
       "meta": "生物",
-      "summary": "[生物] 本期其他期刊摘要：涵盖多学科最新研究进展，包括生物、物理、医学等领域的重要发现和突破。"
+      "summary": "[生物] 本期《科学》杂志其他栏目报道了多个学科的最新研究进展，包括生物、医学、物理等领域亮点。"
     },
     {
       "sourceId": "science",
@@ -6544,7 +5974,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 探讨归属感信念如何影响个人在科学领域的参与和坚持，强调身份认同对科研职业发展的关键作用。"
+      "summary": "[交叉] 文章探讨“归属感”对个人成长的重要性，强调在科学社区中建立自信和认同感对科研生涯的积极影响。"
     },
     {
       "sourceId": "science",
@@ -6555,7 +5985,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究发现野火烟雾中的臭氧会增加死亡率，提醒人们注意森林大火对健康的长期危害。"
+      "summary": "[交叉] 1. 野火产生的烟羽中臭氧含量升高，会增加当地居民的死亡风险，亟需加强野火健康影响评估。"
     },
     {
       "sourceId": "science",
@@ -6566,7 +5996,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 超加工食品与肥胖的关系被重新审视，现有证据并不简单，需要谨慎解读因果关系。"
+      "summary": "[交叉] 超加工食品与肥胖的关联证据需谨慎解读，其因果关系和机制仍有争议，不能简单归咎于食品加工。"
     },
     {
       "sourceId": "science",
@@ -6577,7 +6007,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 坏记忆会干扰睡眠，睡眠不好又加深坏记忆，形成恶性循环，影响心理健康。"
+      "summary": "[交叉] 睡眠中糟糕的记忆会干扰情绪和认知，影响睡眠质量，揭示睡眠与记忆的复杂相互作用。"
     },
     {
       "sourceId": "science",
@@ -6588,7 +6018,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 现代工作环境缺少社交互动，以往工作中自然形成的社交网络正在消失，影响人际关系。"
+      "summary": "[交叉] 现代工作环境逐渐失去社交基础设施，如茶水间等，削弱了员工间的非正式交流与协作，影响工作满意度。"
     },
     {
       "sourceId": "science",
@@ -6599,7 +6029,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 水上光伏（水伏）的发展存在知识空白，这些未知因素可能削弱其预期效益，亟需研究填补。"
+      "summary": "[交叉] 水上光伏（渔光互补）存在知识盲区，如对水体生态和鱼类生长的影响，这些未知削弱了其实际效益，需更多研究。"
     },
     {
       "sourceId": "science",
@@ -6610,7 +6040,7 @@
       "category": "research",
       "source": "Science",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 1. 葡萄酒产业因气候变暖面临品质下降等问题，这为全球农业应对气候变化敲响了警钟，提示需尽快调整种植策略。"
+      "summary": "[地球/环境] 1. 葡萄酒行业警告气候变化对农业的影响，提醒农民需调整种植策略应对全球变暖挑战。"
     },
     {
       "sourceId": "science",
@@ -6621,7 +6051,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 中国大规模地下基础设施建设（如地铁、管道）对地面沉降、水文地质及生态环境产生显著影响，需加强科学规划与监测。"
+      "summary": "[交叉] 中国地下基础设施建设对生态系统和城市发展的综合影响被揭示，研究为规划提供科学依据。"
     },
     {
       "sourceId": "science",
@@ -6632,7 +6062,7 @@
       "category": "research",
       "source": "Science",
       "meta": "医学",
-      "summary": "[医学] 对之前关于“陆地生态系统入侵影响”研究论文中出现的错误进行勘误，更正了部分数据分析与结论。"
+      "summary": "[医学] 针对《入侵生物对陆地生态系统的影响：全球模式与预测》研究论文的勘误说明已发布。"
     },
     {
       "sourceId": "science",
@@ -6643,7 +6073,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 对之前关于“预防心肌收缩无力引起成纤维细胞扩张缓解扩张型心肌病”研究论文中的错误进行勘误。"
+      "summary": "[交叉] 关于《防止低收缩性诱发成纤维细胞扩张缓解扩张型心肌病》研究论文的勘误内容已公布。"
     },
     {
       "sourceId": "science",
@@ -6654,7 +6084,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 科学家提出在轨道上部署类似安全气囊的装置，通过磁场偏转或吸收太阳风暴粒子，保护地球卫星与电力系统。"
+      "summary": "[交叉] 科学家提出在太空中安装“安全气囊”式装置，通过磁场屏障阻挡太阳风暴对地球的威胁。"
     },
     {
       "sourceId": "nature-chem",
@@ -6665,7 +6095,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "化学",
-      "summary": "[化学] 1. 研究了一种新型双分子马达中的光化学转子偏置机制，通过光驱动实现定向旋转，为分子机器设计提供新思路。"
+      "summary": "[化学] 1. 研究了一种双分子马达中光化学转子偏置的机制，通过对光驱动分子旋转行为的调控，为设计更高效的纳米机器提供了新思路。"
     },
     {
       "sourceId": "nature-chem",
@@ -6676,7 +6106,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "化学",
-      "summary": "[化学] 报道了一种通过结构重组和质子转移驱动的超强分子马达，能高效产生定向运动，在纳米技术中有应用前景。"
+      "summary": "[化学] 介绍了一种通过结构改变和质子转移实现超快运动的分子马达，其工作原理类似超级电容器充放电，有望应用于分子机器和智能材料。"
     },
     {
       "sourceId": "nature-chem",
@@ -6687,7 +6117,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "化学",
-      "summary": "[化学] 开发了新方法解锁拥挤的三维分子结构，可创造复杂药物分子，加速新药发现过程。"
+      "summary": "[化学] 开发了制备拥挤三维分子结构的新方法，这些结构可用于药物发现中，帮助设计更具活性和选择性的候选药物分子。"
     },
     {
       "sourceId": "nature-chem",
@@ -6698,7 +6128,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "化学",
-      "summary": "[化学] 利用阳离子导向组装和逐步功能化，构建了高性能多阴离子有机框架，能用于高功率燃料电池。"
+      "summary": "[化学] 报道了利用阳离子引导组装和逐步功能化制备的超质子多阴离子有机框架材料，该材料在高功率燃料电池中展现出优异的质子传导性能。"
     },
     {
       "sourceId": "nature-chem",
@@ -6709,7 +6139,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "材料",
-      "summary": "[材料] 制备了自由站立超薄二维肽晶体，这种材料具有独特结构和性能，在生物纳米领域有潜在应用。"
+      "summary": "[材料] 展示了首例独立超薄二维肽晶体，这种新型材料具有高度有序的分子排列，为纳米器件和生物材料应用提供了新平台。"
     },
     {
       "sourceId": "nature-chem",
@@ -6720,7 +6150,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "化学",
-      "summary": "[化学] 1. 提出一种模块化方法，通过三重态氮宾介导的环扩张，非对映选择性合成受阻环丁烷氨基腈，简化了这类重要分子的制备。"
+      "summary": "[化学] 1. 研究通过三重态氮烯介导的环扩张，实现了受阻环丁烷氨基腈的模块化立体选择性合成，为构建复杂环状分子提供了新方法。"
     },
     {
       "sourceId": "nature-chem",
@@ -6731,7 +6161,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "交叉",
-      "summary": "[交叉] 开发了温和的氧化还原中性酮-烯烃偶联反应，通过将酮转化为类似酮基的自由基，实现了高效、绿色合成。"
+      "summary": "[交叉] 该方法利用温和条件将酮转化为酮基型自由基，实现氧化还原中性的酮-烯烃偶联，避免了额外还原剂或氧化剂的使用。"
     },
     {
       "sourceId": "nature-chem",
@@ -6742,7 +6172,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "能源",
-      "summary": "[能源] 设计可逆自组装的聚合物固体电解质，既能提升锂电池性能，又能方便回收，为可持续能源存储提供新方案。"
+      "summary": "[能源] 开发了一种可逆自组装的聚合物固体电解质，使锂电池在回收时能高效分离材料，有望降低电池废弃物污染。"
     },
     {
       "sourceId": "cell",
@@ -6753,7 +6183,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 两项空间转录组学研究推翻嗅觉受体带状模型，发现受体沿连续梯度有序分布，重塑了对嗅觉地图的认知。"
+      "summary": "[生物] 空间转录组学研究表明，嗅觉受体并非按传统分区分布，而是沿连续梯度排列，这颠覆了对嗅觉组织机制的长期认知。"
     },
     {
       "sourceId": "cell",
@@ -6764,7 +6194,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 研究发现部分长新冠患者的自身抗体可直接引起疼痛、疲劳等症状，为理解异质性疾病机制提供了关键线索。"
+      "summary": "[生物] 研究发现部分长新冠患者的自身抗体可直接导致疼痛和疲劳等症状，为理解这种异质性疾病的机制提供了新线索。"
     },
     {
       "sourceId": "cell",
@@ -6775,7 +6205,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 1. 研究发现B细胞在运动时能通过分泌TGF-β1调节肝脏代谢，增加血液和肌肉中的谷氨酸，从而提升运动能力。这揭示了B细胞独立于免疫功能的意外作用。"
+      "summary": "[生物] 1. B细胞在运动中出乎意料地扮演了非免疫角色，通过分泌TGF-β1调控肝脏谷氨酰胺代谢，促进肌肉功能，揭示了运动生理中多器官通讯的新机制。"
     },
     {
       "sourceId": "cell",
@@ -6786,7 +6216,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "化学",
-      "summary": "[化学] 衰老过程中，细胞逐渐失去原有身份，转而获得间质细胞特征。这种“间质漂移”融合并加剧了衰老的各种标志，可能成为延缓衰老的新靶点。"
+      "summary": "[化学] 这篇综述提出“间质漂移”框架：衰老中细胞逐渐丧失原有身份、获得间质特征，驱动衰老标志的产生，为抗衰老干预提供新靶点。"
     },
     {
       "sourceId": "cell",
@@ -6797,7 +6227,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "医学",
-      "summary": "[医学] 将长期新冠患者的抗体注入小鼠，小鼠出现疼痛行为并伴随神经纤维损伤。实验表明，自身抗体与新冠后遗症的神经症状存在直接因果关联。"
+      "summary": "[医学] 长新冠患者的抗体被动转移给小鼠，直接引发疼痛和神经损伤，证实自身抗体与神经系统症状存在因果关系。"
     },
     {
       "sourceId": "cell",
@@ -6808,7 +6238,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 针对I型干扰素的中和性自身抗体，源于机体先前的自身免疫反应并经过长期亲和力成熟。这类抗体与人类严重病毒感染密切相关，AI分析帮助揭示了其形成机制。"
+      "summary": "[生物] 针对I型干扰素的亲和成熟自身抗体，源于预存自身免疫和长期生发中心成熟，是导致严重病毒感染的关键原因。"
     },
     {
       "sourceId": "cell",
@@ -6819,7 +6249,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] B细胞通过分泌TGF-β1，促使肝脏将谷氨酰胺转化为谷氨酸，提升肌肉中谷氨酸水平，从而增强运动能力。缺乏B细胞会限制运动表现。"
+      "summary": "[生物] B细胞缺乏会限制运动能力，因为B细胞分泌的TGF-β1促进肝脏谷氨酰胺转化为谷氨酸，提高血液和肌肉中谷氨酸水平，维持肌肉功能。"
     },
     {
       "sourceId": "cell",
@@ -6830,7 +6260,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 1. 研究发现哺乳动物皮肤出生后失去再生能力，是因为伤口处成纤维细胞导致过度神经支配。减少神经支配可恢复再生潜力，为治疗提供新思路。"
+      "summary": "[生物] 1. 研究发现，哺乳动物皮肤在胚胎期能再生，但出生后伤口特异性成纤维细胞导致过度神经支配，抑制再生。减少损伤部位的过度神经可恢复再生能力。"
     },
     {
       "sourceId": "cell",
@@ -6841,7 +6271,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 新方法SAMENT能无偏标记骨转移微环境，发现一种特殊巨噬细胞通过阻止免疫细胞进入，促进癌细胞扩散，为治疗骨转移提供新靶点。"
+      "summary": "[生物] 新方法SAMENT能无偏标记转移灶微环境，发现ERα⁺巨噬细胞阻止T细胞浸润，促进骨转移。这为治疗骨转移提供了新靶点。"
     },
     {
       "sourceId": "cell",
@@ -6852,7 +6282,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 干旱导致植物根部富集链霉菌，并非植物主动“求救”，而是通过抑制自身免疫和铁吸收。菌群内部相互作用决定最终是否有利植物生长。"
+      "summary": "[生物] 干旱时链霉菌在根中富集，并非植物主动求救，而是由于植物抑制铁吸收和免疫，链霉菌内部相互作用决定不同菌株对植物生长的影响。"
     },
     {
       "sourceId": "cell",
@@ -6863,7 +6293,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 通过分析微生物的蛋白质合成，提出MIND框架预测微生物间的竞争和食物偏好，从而设计针对性的益生元和益生菌，精准调控肠道菌群。"
+      "summary": "[生物] 通过翻译谱分析微生物资源分配，建立MIND框架预测微生物竞争和底物偏好，为精准设计益生元和益生菌提供方法。"
     },
     {
       "sourceId": "cell",
@@ -6874,7 +6304,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 大规模多队列研究找到影响血液蛋白水平的基因位点，揭示相关细胞类型和信号通路，为疾病诊断和药物开发提供重要线索。"
+      "summary": "[生物] 大规模蛋白质组研究鉴定出影响血液蛋白水平的遗传位点，揭示调控循环蛋白质组的通路和细胞类型，为疾病理解及潜在治疗机会提供证据。"
     },
     {
       "sourceId": "cell",
@@ -6885,7 +6315,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 1. 研究发现鼻子中嗅觉神经元的位置决定了它选择哪种气味受体，从而在鼻子和大脑中形成精确对齐的气味图谱。"
+      "summary": "[生物] 1. 研究发现鼻子中嗅觉神经元的位置决定其受体选择，形成精确受体图谱，并与大脑中肾小球图谱对齐，揭示了嗅觉空间编码机制。"
     },
     {
       "sourceId": "cell",
@@ -6896,7 +6326,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 通过绘制小鼠嗅觉神经元分布和投射图谱，揭示了精确的空间结构，并找到了社交气味激活的特定脑区。"
+      "summary": "[生物] 通过绘制小鼠嗅觉神经元分布和轴突投射图谱，揭示了精确的拓扑组织，并定义了社会气味激活的空间区域。"
     },
     {
       "sourceId": "cell",
@@ -6907,7 +6337,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 肌肉发育时，核内膜会出芽包裹极长的基因转录本并输出细胞核，UIF蛋白引导RNA进入，ESCRT-III帮助完成运输，这是一种新的大分子输出方式。"
+      "summary": "[生物] 肌肉发育时，核内膜出芽输出超长肌节转录本。UIF控制RNA进入芽，ESCRT-III介导内化，揭示了大转录本输出的新途径。"
     },
     {
       "sourceId": "cell",
@@ -6918,7 +6348,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "化学",
-      "summary": "[化学] 研究用上转换纳米颗粒长期追踪活细胞中的ErbB受体，发现HER2和HER3会自己组成一对，并揭示了癌变突变和配体如何改变这种配对。"
+      "summary": "[化学] 利用上转换纳米颗粒实现活细胞长时单粒子追踪，发现HER2和HER3组成型同源二聚化，并显示癌突变和配体刺激如何影响二聚化动力学。"
     },
     {
       "sourceId": "cell",
@@ -6929,7 +6359,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 通过合理设计只激活Gi信号通路的大麻素受体激动剂，既止痛又避免了副作用，为开发新一代非阿片类药物提供了思路。"
+      "summary": "[生物] 合理设计大麻素受体激动剂，将治疗镇痛与非期望靶点效应解耦，为下一代非阿片类疗法建立蓝图。"
     },
     {
       "sourceId": "cell",
@@ -6940,7 +6370,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "化学",
-      "summary": "[化学] 1. 研究人员通过肽引导策略，发现能激活抑癌蛋白PAK1的小分子药物，为癌症治疗提供新途径。"
+      "summary": "[化学] 1. 研究发现小分子PAK1变构激活剂，通过靶向蛋白自抑制机制激活该酶，有望开发新型治疗药物，克服传统激活剂难以开发的难题。"
     },
     {
       "sourceId": "cell",
@@ -6951,7 +6381,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 开发出电磁场诱导的基因开关，可远程精准控制基因表达，用于抗衰老和阿尔茨海默病等研究。"
+      "summary": "[生物] 开发出一种电磁场诱导的基因开关，可远程、精准控制体内基因表达。利用钙振荡机制，成功在小鼠中实现抗衰老重编程和阿尔茨海默病模型研究。"
     },
     {
       "sourceId": "cell",
@@ -6962,7 +6392,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "化学",
-      "summary": "[化学] 建立可扩展的平台，全面绘制小鼠全身各器官和细胞类型的分子图谱，助力疾病机制分析。"
+      "summary": "[化学] 建立可扩展的实验与计算平台，对小鼠全身所有器官和细胞类型进行分子与细胞图谱绘制，有助于全面理解组织结构和疾病响应机制。"
     },
     {
       "sourceId": "cell",
@@ -6973,7 +6403,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 将封装好的线粒体移植到体内，可有效改善线粒体功能障碍及帕金森病模型的症状。"
+      "summary": "[生物] 将封装好的线粒体移植到模型动物体内，能有效改善线粒体功能障碍和帕金森病症状，为能量代谢相关疾病提供新治疗思路。"
     },
     {
       "sourceId": "pnas",
@@ -6984,7 +6414,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 本期文章介绍了多个前沿成果，包括药物发现、基因调控、系统图谱和疾病治疗等。"
+      "summary": "[交叉] 本期介绍多项前沿研究，涵盖基因调控、神经退行性疾病、细胞图谱等方向，展示了跨学科方法在生物医学领域的突破性应用。"
     },
     {
       "sourceId": "pnas",
@@ -6995,7 +6425,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 1. 研究发现，植物基因组加倍（多倍体）能增强对干旱、病虫害等胁迫的耐受性，为培育更抗逆的农作物提供重要进化线索。"
+      "summary": "[生物] 1. 论文研究多倍体（基因组加倍）如何提升植物抵抗干旱、病害等逆境的能力，为培育更强大的农作物提供新思路，以应对气候变化。"
     },
     {
       "sourceId": "pnas",
@@ -7006,7 +6436,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 当植物遭遇毒素、病原体或物理伤害时，常会触发全基因组加倍作为应激反应，这种适应机制既有助生存也可能带来生长代价。"
+      "summary": "[地球/环境] 面对毒素、病原体等环境压力，生物常通过全基因组加倍来适应。论文分析了压力诱导多倍体的益处与风险，帮助理解生物进化。"
     },
     {
       "sourceId": "pnas",
@@ -7017,7 +6447,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 借鉴异源四倍体棉花的进化经验，利用多倍体技术可培育耐气候变化的作物，为应对全球变暖提供新的育种策略。"
+      "summary": "[地球/环境] 为应对气候变化，可利用多倍体特性培育耐逆作物。论文以棉花为进化模型，总结如何借鉴自然经验，开发气候适应性品种。"
     },
     {
       "sourceId": "pnas",
@@ -7028,7 +6458,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "物理",
-      "summary": "[物理] 三位科学家因发现宏观量子隧穿效应获得2025年诺贝尔物理学奖，该发现推动了超导量子计算等尖端技术的发展。"
+      "summary": "[物理] 2025年诺贝尔物理学奖授予三位科学家，表彰他们发现宏观量子隧穿效应，这一突破为超导量子计算等前沿技术奠定基础。"
     },
     {
       "sourceId": "pnas",
@@ -7039,7 +6469,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 当前生态学领域尚不具备成熟条件大规模应用人工智能，盲目依赖AI可能忽视关键生态过程和现场数据的重要性。"
+      "summary": "[交叉] 人工智能在生态学中的应用面临数据不足、模型复杂等难题，生态学尚未准备好。论文警告需谨慎整合AI，避免误导生态研究。"
     },
     {
       "sourceId": "pnas",
@@ -7050,7 +6480,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 1. 残余的光感受器会改变退化视网膜对电刺激的反应，影响人工视觉假体的效果。这一发现对改善老年性黄斑变性患者的视觉修复很有意义。"
+      "summary": "[生物] 1. 研究发现，残存的感光细胞会显著改变退化视网膜对电刺激的反应，这为改进光伏视网膜假体以恢复盲人视力提供了重要启示。"
     },
     {
       "sourceId": "pnas",
@@ -7061,7 +6491,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 人类活动，特别是农业施肥和城市化，显著放大了全球小型水体的温室气体排放。研究提醒我们，这些被忽视的小型水体在气候变化中起重要作用。"
+      "summary": "[地球/环境] 小型水体是全球碳循环的关键但常被忽视。研究表明，农业施肥和城市化等人为活动会显著加剧其温室气体排放，对气候产生放大效应。"
     },
     {
       "sourceId": "pnas",
@@ -7072,7 +6502,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 通过对古代人骨同位素分析，发现东非最早的牧民饮食相当多样，既吃野生食物也吃家养产物。这揭示了从采集狩猎到畜牧生产的饮食变化过程。"
+      "summary": "[交叉] 通过分析东非最早牧民的骨骼同位素，发现他们的饮食多样性在从采集转向畜牧过程中有显著变化，揭示了古代人类适应环境的生存策略。"
     },
     {
       "sourceId": "pnas",
@@ -7083,7 +6513,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 晚白垩世北极生态系统促进了哺乳动物的扩散和多样化，在恐龙灭绝前就塑造了它们的演化。这表明极地并非演化死胡同，而是连接大陆的重要通道。"
+      "summary": "[生物] 从阿拉斯加晚白垩纪化石发现，北极生态系统曾是哺乳动物扩散和多样化的关键区域，其在恐龙灭绝前就推动了物种演化，挑战了极地是进化死水的观点。"
     },
     {
       "sourceId": "pnas",
@@ -7094,7 +6524,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 竹节虫的杂交发生是一种介于有性生殖和孤雌生殖之间的特殊繁殖方式。研究揭示了这种半克隆遗传的中间步骤，有助于理解无性生殖的演化过程。"
+      "summary": "[生物] 竹节虫的杂交繁殖存在一种中间模式：仅克隆传递一半基因组并丢弃另一半。这为理解从有性生殖到孤雌生殖的演化步骤提供了新视角。"
     },
     {
       "sourceId": "pnas",
@@ -7105,7 +6535,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 1. 研究发现，隐球菌巨大细胞通过类似减数分裂的基因降低染色体数量以产生后代，揭示了真菌在感染中持久存在的新机制。"
+      "summary": "[生物] 1. 研究发现隐球菌巨细胞中的减数分裂相关蛋白S基因能帮助多倍体巨细胞减少染色体数量，产生后代，这对理解真菌如何持久感染很关键。"
     },
     {
       "sourceId": "pnas",
@@ -7116,7 +6546,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 多倍化是基因组加倍产生的大突变，能改变物种大小和特征，推动生物进化并具有重要的农业经济潜力。"
+      "summary": "[生物] 多倍化是基因组加倍的宏突变，能重塑生物特征和大小，推动生态和经济新发展，对农业和进化有重要启示。"
     },
     {
       "sourceId": "pnas",
@@ -7127,7 +6557,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 研究提出八项兼顾环保、经济和公平的土地保护设计原则，为可持续发展项目提供实用指导。"
+      "summary": "[地球/环境] 土地保护需兼顾环境、经济和公平，八项设计原则包括保护区、社区管理和付费服务，助力可持续人类-环境系统。"
     },
     {
       "sourceId": "pnas",
@@ -7138,7 +6568,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 研究建立大规模框架估算近40年全球土壤碳、氮、pH和盐度变化，清晰揭示人类活动与气候对土壤健康的影响。"
+      "summary": "[地球/环境] 基于1985-2023年数据，新框架可预测土壤碳、氮、pH和盐分变化，帮助应对气候和人为压力，保障粮食和生态安全。"
     },
     {
       "sourceId": "pnas",
@@ -7149,7 +6579,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 分析显示，俯冲带热状态变化调控地球大气长期氧化过程，为理解氧气起源提供了关键新线索。"
+      "summary": "[地球/环境] 俯冲带热状态变化是地球长期氧化的关键因素，通过分析变质岩石温度压力比，揭示其如何调节大气氧气含量。"
     },
     {
       "sourceId": "pnas",
@@ -7160,7 +6590,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究表明，衰老会占用更多大脑皮层资源来维持身体平衡，揭示了老年人平衡能力下降的神经机制。"
+      "summary": "[交叉] 1. 研究发现，老年人维持静态平衡时需要调动更多大脑资源，这可能解释了为何平衡能力随年龄增长而下降，有助于理解老年人跌倒风险增加的原因。"
     },
     {
       "sourceId": "pnas",
@@ -7171,7 +6601,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "医学",
-      "summary": "[医学] 研究开发了一种环保简单的方法，将宣纸转化为吸附剂从工业废料中回收黄金，有助于资源可持续利用。"
+      "summary": "[医学] 研究提出一种简单环保的方法，将宣纸转化为吸附剂，用于从工业废水中回收黄金，为可持续金回收提供了新思路。"
     },
     {
       "sourceId": "pnas",
@@ -7182,7 +6612,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 研究发现，中国的独生子女政策因不同家庭生育率差异，加剧了代际之间的经济不平等，不利于弱势儿童。"
+      "summary": "[生物] 研究表明，中国的独生子女政策通过加剧家庭生育差异，放大了代际不平等，尤其影响了贫困家庭孩子的经济机会。"
     },
     {
       "sourceId": "pnas",
@@ -7193,7 +6623,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 新工具能预测蛋白质发生聚集或相分离的倾向，有助于理解阿尔茨海默病等疾病的发生机制。"
+      "summary": "[生物] 研究开发了两种预测工具，分别用于预测蛋白质形成淀粉样聚集和液-液相分离的倾向，有助于理解细胞组织及相关疾病如阿尔茨海默病。"
     },
     {
       "sourceId": "pnas",
@@ -7204,7 +6634,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 研究指出，理性顾问可能为个人利益迎合领导，增加决策失误和灾难性风险，警示组织需注意用人。"
+      "summary": "[交叉] 研究分析了理性“马屁精”如何影响决策，指出领导者若依赖迎合自己的顾问，可能导致忽视风险，增加灾难性决策的可能性。"
     },
     {
       "sourceId": "pnas",
@@ -7215,7 +6645,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 1. 这项研究从神经科学角度解释思考和意识的关系，提出想法如何从无意识转变为有意识的具体过程，为理解决策机制提供新视角。"
+      "summary": "[交叉] 1. 从决策神经科学视角提出思维运作机制，区分有意识与无意识思维，揭示思维转化为意识的特定神经过程。"
     },
     {
       "sourceId": "pnas",
@@ -7226,7 +6656,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "医学",
-      "summary": "[医学] 研究发现，无论聋人还是听力正常者，阅读能力都与大脑处理视觉语音形成的抽象音位表征有关，这有助于解释聋童阅读困难的成因。"
+      "summary": "[医学] 研究发现，聋人和听力正常者的阅读能力都与视觉语言（如唇读）引发的抽象语音神经表征相关，这有助于理解聋童阅读困难根源。"
     },
     {
       "sourceId": "pnas",
@@ -7237,7 +6667,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 微管切割酶会在损伤位点提取旧微管蛋白并补充新蛋白，这一过程影响微管修复频率和关键蛋白寿命，对细胞功能维持很重要。"
+      "summary": "[生物] 微管切割酶在纳米损伤位点抽取微管蛋白并引导新蛋白修复，调控微管重启频率及EB1蛋白寿命，对细胞过程至关重要。"
     },
     {
       "sourceId": "pnas",
@@ -7248,7 +6678,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 线虫的感觉运动反射依赖多条冗余的神经通路，即使部分基因受损也能保证逃跑反应正常，揭示了神经系统应对扰动的稳健性。"
+      "summary": "[生物] 线虫感觉运动反射通过突触和神经通路冗余确保稳健性，即使基因变异也能有效逃避捕食，揭示了神经系统的容错机制。"
     },
     {
       "sourceId": "pnas",
@@ -7259,7 +6689,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 研究揭示了Hv1质子通道在激活状态下存在一个特殊收缩区域（负水化），该区域是通道调控酸碱平衡和免疫反应的关键结构。"
+      "summary": "[生物] 研究发现Hv1质子通道激活时形成一种脱水收缩区，该结构调控质子流动，对精子、癌细胞等生理过程有重要意义。"
     },
     {
       "sourceId": "pnas",
@@ -7270,7 +6700,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 1. 人们常忽视少数群体在社交场合的缺席，这种“盲点”会导致重要问题的被忽略，揭示了社会认知中的偏差。"
+      "summary": "[交叉] 1. 研究发现人们常忽略社会场景中少数群体的缺席，即使这种缺席很重要。这种“忽视少数群体缺席”的现象源于认知偏差，提醒我们需要更关注社会多样性。"
     },
     {
       "sourceId": "pnas",
@@ -7281,7 +6711,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "能源",
-      "summary": "[能源] 用原子层沉积技术控制锌电池的晶体生长，能有效抑制氢气产生，大幅提升水系锌电池的循环寿命和安全性。"
+      "summary": "[能源] 新型原子层沉积技术可在锌电池表面形成保护层，有效控制锌的沉积形态并抑制氢气产生。这项技术有望大幅提升水系锌电池的循环寿命，推动其在大规模储能领域的应用。"
     },
     {
       "sourceId": "pnas",
@@ -7292,7 +6722,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 研究发现HHIP基因在肺部伤口愈合中发挥关键动态作用，其功能异常可能增加慢阻肺易感性，为疾病机制提供新线索。"
+      "summary": "[生物] 研究表明HHIP基因在皮肤伤口愈合中发挥动态调控作用，其功能异常可能增加慢性阻塞性肺疾病（COPD）的易感性。这为理解COPD发病机制提供了新线索。"
     },
     {
       "sourceId": "pnas",
@@ -7303,7 +6733,95 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 人们依靠已有的语义知识进行创新，这种认知过程推动文化不断演化，揭示了创新背后的思维规律。"
+      "summary": "[生物] 人类创新不仅依赖社会学习，更受语义知识网络的引导。研究发现已有知识结构如何驱动新想法的产生，解释了文化进化的认知基础。"
+    },
+    {
+      "sourceId": "nature-phys",
+      "title": "Scaling matters of cell fate",
+      "url": "https://www.nature.com/articles/s41567-026-03327-y",
+      "excerpt": "",
+      "publishedAt": "2026-06-04T00:00:00.000Z",
+      "category": "research",
+      "source": "Nature Physics",
+      "meta": "生物",
+      "summary": "[生物] 细胞命运决定具有尺度依赖性：在单细胞和群体层面，基因调控方式存在根本差异。这一发现挑战了传统观点，为理解组织发育和疾病发生提供了新视角。"
+    },
+    {
+      "sourceId": "nature-phys",
+      "title": "Evidence for the generic existence of two local structures in liquid water",
+      "url": "https://www.nature.com/articles/s41567-026-03301-8",
+      "excerpt": "",
+      "publishedAt": "2026-06-04T00:00:00.000Z",
+      "category": "research",
+      "source": "Nature Physics",
+      "meta": "生物",
+      "summary": "[生物] 1. 研究发现液态水中普遍存在两种不同的局部结构，这有助于理解水的独特性质，比如密度异常和溶解能力。"
+    },
+    {
+      "sourceId": "nature-phys",
+      "title": "Decoupling adhesion from jamming in phase transitions drives tissue organization",
+      "url": "https://www.nature.com/articles/s41567-026-03282-8",
+      "excerpt": "",
+      "publishedAt": "2026-06-02T00:00:00.000Z",
+      "category": "research",
+      "source": "Nature Physics",
+      "meta": "交叉",
+      "summary": "[交叉] 研究揭示细胞粘附与材料堵塞在相变中可独立调控，这种解耦作用驱动了组织结构的形成与重塑。"
+    },
+    {
+      "sourceId": "nature-phys",
+      "title": "Adhesion-driven rigidity transition decoupled from density-driven jamming triggers epithelial organization in embryonic tissues",
+      "url": "https://www.nature.com/articles/s41567-026-03276-6",
+      "excerpt": "",
+      "publishedAt": "2026-06-02T00:00:00.000Z",
+      "category": "research",
+      "source": "Nature Physics",
+      "meta": "交叉",
+      "summary": "[交叉] 胚胎组织中细胞粘附引起刚性变化，这种变化与密度导致的堵塞无关，从而触发了上皮组织的有序排列过程。"
+    },
+    {
+      "sourceId": "nature-phys",
+      "title": "Suppression of coherent light scattering in a three-dimensional atomic array",
+      "url": "https://www.nature.com/articles/s41567-026-03300-9",
+      "excerpt": "",
+      "publishedAt": "2026-06-02T00:00:00.000Z",
+      "category": "research",
+      "source": "Nature Physics",
+      "meta": "交叉",
+      "summary": "[交叉] 实验展示了一种方法，通过精确排列原子阵列来抑制光散射，为量子信息处理中的低噪声光子传输提供新思路。"
+    },
+    {
+      "sourceId": "nature-phys",
+      "title": "Hong–Ou–Mandel interference of more than ten indistinguishable atoms",
+      "url": "https://www.nature.com/articles/s41567-026-03302-7",
+      "excerpt": "",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "category": "research",
+      "source": "Nature Physics",
+      "meta": "交叉",
+      "summary": "[交叉] 在超过十个原子的全同粒子之间实现了Hong-Ou-Mandel干涉，显著扩展了量子干涉的实验规模，推动量子计算发展。"
+    },
+    {
+      "sourceId": "nature-phys",
+      "title": "Single- and two-mode magnon thermal squeezing",
+      "url": "https://www.nature.com/articles/s41567-026-03294-4",
+      "excerpt": "",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "category": "research",
+      "source": "Nature Physics",
+      "meta": "交叉",
+      "summary": "[交叉] 1. 摘要  \n研究磁振子在热噪声下的单模与双模压缩现象，揭示了热平衡态中量子关联的保持机制，为量子信息处理提供新思路。"
+    },
+    {
+      "sourceId": "nature-phys",
+      "title": "Thorium-229 lifetime locked down",
+      "url": "https://www.nature.com/articles/s41567-026-03310-7",
+      "excerpt": "",
+      "publishedAt": "2026-05-29T00:00:00.000Z",
+      "category": "research",
+      "source": "Nature Physics",
+      "meta": "交叉",
+      "summary": "[交叉] 摘要  \n通过精确锁定钍-229核同质异能态的寿命，为发展超高精度核时钟奠定基础，有望推动基础物理与计时技术的突破。"
     }
   ]
 }

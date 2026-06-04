@@ -1,137 +1,138 @@
 {
-  "hero_headline": "Broadcom单日市值蒸发2850亿美元",
-  "daily_overview": "美芯片巨头Broadcom因营收展望欠佳股价暴跌12%，创史上最大单日市值蒸发，拖累科技板块。金融市场上，比特币遭遇战略抛售大幅下挫，但华尔街看好SpaceX AI业务百倍增长。中东局势再趋紧张，真主党拒绝以色列与黎巴嫩达成的停火协议，冲突持续。科技领域，微软发布新一代MAI-Thinking-1推理模型，OpenAI推出ChatGPT记忆新系统「Dreaming」，同时美国NSA被曝利用Anthropic模型增强网络攻击能力，引发安全担忧。五眼联盟指控中国通过招聘平台招募线人，中国反驳为恶意诽谤。",
+  "hero_headline": "博通市值蒸发2850亿美元 科技股承压",
+  "daily_overview": "当日科技领域多项重磅消息齐发：微软推出MAI-Thinking-1推理模型，性能超越主流竞品；DeepSeek启动新一轮融资，AI投资热度不减；OpenAI上线ChatGPT记忆系统「Dreaming」。金融市场大幅波动，博通因营收指引不佳股价暴跌12%，市值蒸发约2850亿美元；比特币持续下挫，黄金持稳。地缘政治方面，泽连斯基致信普京提议面对面谈判；五眼联盟指中国利用招聘平台招募线人，中方驳斥；真主党拒绝以黎停火协议，中东局势再添变量。",
   "tech_briefs": [
     {
-      "title": "微软发布MAI-Thinking-1推理模型及MAI系列",
+      "title": "微软发布MAI-Thinking-1推理模型，性能超越Sonnet 4.6",
       "url": "https://news.smol.ai/issues/26-06-02-msft-mai-2/",
       "source": "Smol AI News",
-      "summary": "微软推出MAI-Thinking-1（35B参数MoE模型，256K上下文，AIME 2025达97%），性能超越Sonnet 4.6。（多家报道）",
-      "importance": 8
-    },
-    {
-      "title": "OpenAI推出ChatGPT记忆系统「Dreaming」",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "source": "OpenAI News",
-      "summary": "ChatGPT引入新记忆系统，能更好地记住用户偏好，跨对话保持上下文连贯性。",
-      "importance": 7
-    },
-    {
-      "title": "美国NSA被曝利用Anthropic模型实施网络攻击",
-      "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
-      "source": "Financial Times",
-      "summary": "美国国家安全局使用Anthropic旗下的Mythos模型进行网络攻击，该AI实验室正与五角大楼陷入法律纠纷。",
+      "summary": "微软推出35B参数MoE模型MAI-Thinking-1，支持256K上下文，在AIME 2025上达97%准确率，多项指标超越Claude Sonnet 4.6。（多家报道）",
       "importance": 9
     },
     {
-      "title": "Headroom：压缩LLM令牌消耗60%-95%",
+      "title": "DeepSeek启动新一轮融资，估值受关注",
+      "url": "https://tldr.tech/ai/2026-06-04",
+      "source": "TLDR AI",
+      "summary": "人工智能初创公司DeepSeek正在进行新一轮融资，具体金额未披露，市场高度关注其估值变化。",
+      "importance": 9
+    },
+    {
+      "title": "OpenAI推出ChatGPT「Dreaming」记忆系统",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "source": "OpenAI News",
+      "summary": "ChatGPT引入新记忆系统，可在对话中更好地记住用户偏好，保持上下文连续性和相关性。",
+      "importance": 8
+    },
+    {
+      "title": "开源工具Headroom：将LLM输入token减少60-95%",
       "url": "https://github.com/chopratejas/headroom",
       "source": "GitHub Trending",
-      "summary": "开源工具Headroom可压缩工具输出、日志等文件，在大幅减少令牌消耗的同时保持回答质量，支持库、代理和MCP服务器。",
-      "importance": 6
+      "summary": "Headroom是一个压缩工具，可在将文本送入LLM前减少60-95%的token数量，同时保持答案质量；支持库、代理和MCP服务器模式，降低AI应用成本。",
+      "importance": 7
+    },
+    {
+      "title": "Anthropic开源Claude Code，终端编程代理工具",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub 科研 Trending",
+      "summary": "Claude Code是一款终端代理编程工具，能理解整个代码库，自动执行常规任务、解释复杂代码并处理Git工作流，提升开发者效率。",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "Broadcom暴跌12% 市值蒸发2850亿美元",
+      "title": "博通市值蒸发2850亿美元，创单日纪录",
       "url": "https://www.ft.com/content/c8d506d3-7e81-49be-bb72-24ae289b9240",
       "source": "Financial Times",
-      "summary": "芯片公司Broadcom因营收展望不及预期股价大跌12%，创史上最大单日市值蒸发。",
+      "summary": "芯片巨头博通因营收指引不及预期，股价暴跌12%，市值蒸发约2850亿美元，创下全球科技公司单日市值损失纪录。",
       "importance": 10
     },
     {
-      "title": "比特币大跌 因战略抛售令交易员恐慌",
+      "title": "比特币大幅下挫，Strategy抛售引发恐慌",
       "url": "https://www.ft.com/content/06bb85c7-ab3c-4cc2-bdcf-679976b6e901",
       "source": "Financial Times",
-      "summary": "Strategy卖出比特币引发市场恐慌，加密货币创自2022年11月来最大周跌幅。",
+      "summary": "加密货币比特币持续下跌，Strategy公司的大规模抛售加剧市场忧虑，本周跌幅或为2022年11月以来最大。",
+      "importance": 9
+    },
+    {
+      "title": "黄金价格持稳，美伊谈判前景不明",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/gold-steadies-as-uncertainty-surrounds-progress-in-us-iran-talks",
+      "source": "Bloomberg Markets",
+      "summary": "受美国与伊朗谈判进展不确定性影响，黄金价格窄幅震荡，市场等待中东局势进一步明朗。",
       "importance": 8
     },
     {
-      "title": "华尔街预测SpaceX AI收入到2030年增长百倍",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/wall-street-sees-spacex-s-ai-revenue-100-times-higher-by-2030",
+      "title": "Sempra在墨西哥启动LNG出口，新增亚太供应",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/sempra-unit-starts-producing-lng-at-new-export-plant-in-mexico",
       "source": "Bloomberg Markets",
-      "summary": "分析师为潜在SpaceX IPO建模，预测AI部门收入将在本十年末暴涨100倍。",
+      "summary": "桑普拉基础设施公司在墨西哥西海岸的LNG出口终端开始生产，计划向亚洲出口，有望缓解全球天然气供应紧张。",
       "importance": 7
     },
     {
-      "title": "韩国Kospi指数暴涨105%后显现裂痕",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/cracks-emerge-in-kospi-s-105-rally-as-breadth-concerns-mount",
-      "source": "Bloomberg Markets",
-      "summary": "韩国4.9万亿美元股市在创历史大涨后出现广度隐忧，部分指标显示市场过热。",
-      "importance": 6
-    },
-    {
-      "title": "HSBC瑞士子公司因黎巴嫩央行案遭正式调查",
-      "url": "https://www.ft.com/content/2f4c6b4f-c8eb-4be1-b041-22ac2a7b282d",
+      "title": "美国NSA利用Anthropic模型进行网络攻击",
+      "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
       "source": "Financial Times",
-      "summary": "法国检方对汇丰瑞士子行提出初步指控，涉及原黎巴嫩央行行长腐败丑闻。",
-      "importance": 7
+      "summary": "美国国家安全局采用Anthropic的Mythos模型用于网络攻击行动，而Anthropic正与五角大楼就Claude模型发生法律纠纷。",
+      "importance": 8
     }
   ],
   "politics_briefs": [
     {
-      "title": "真主党拒绝以色列与黎巴嫩停火协议",
-      "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
-      "source": "NYT World",
-      "summary": "真主党领导人称该组织未参与美斡旋谈判，认为停火等于投降。UN维和人员遭迫击炮攻击一死多伤。（多家报道）",
+      "title": "泽连斯基致信普京，提议面对面和谈",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o",
+      "source": "BBC World",
+      "summary": "乌克兰总统泽连斯基在公开信中呼吁俄罗斯总统普京进行直接谈判，称只有面对面接触才能结束战争。（多家报道）",
+      "importance": 10
+    },
+    {
+      "title": "五眼联盟警告：中国特工借招聘平台招募线人",
+      "url": "https://www.dw.com/zh/五眼联盟：中国特工借招聘平台招募线人-中国：恶意诽谤/a-77424097",
+      "source": "DW 中文",
+      "summary": "五眼联盟安全机构指中国情报部门通过职业社交平台以虚假招聘招募可接触敏感信息人员；中方驳斥为恶意诽谤。",
       "importance": 9
     },
     {
-      "title": "五眼联盟指中国特工借招聘平台招募线人",
-      "url": "https://www.dw.com/zh/五眼联盟：中国特工借招聘平台招募线人-中国：恶意诽谤/a-77424097?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
-      "summary": "五眼联盟警告中国通过职业社交网站及招聘网站假信息接触敏感岗位人员以获取情报。中方驳斥为恶意诽谤。",
-      "importance": 8
-    },
-    {
-      "title": "泽连斯基致信普京呼吁面对面谈判",
-      "url": "https://www.theguardian.com/world/2026/jun/04/zelenskyy-calls-for-face-to-face-negotiations-letter-putin-ukraine-russia-trump",
-      "source": "The Guardian",
-      "summary": "乌克兰总统泽连斯基提议在第三国进行面对面和谈，特朗普称双方都必须做出妥协。",
+      "title": "真主党拒绝以色列-黎巴嫩停火协议",
+      "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
+      "source": "NYT World",
+      "summary": "黎巴嫩真主党领导人拒绝美方斡旋的停火协议，称协议相当于投降；此前以黎政府已达成初步共识。（多家报道）",
       "importance": 8
     }
   ],
   "research_briefs": [],
-  "editor_note": "AI前沿突破与安全漏洞并存，金融资产剧烈波动，地缘冲突风险未减，投资者需保持警惕。",
+  "editor_note": "AI从模型竞赛走向应用落地，安全与军用化争议升温；金融市场对地缘与业绩敏感度极高，投资者需警惕多重不确定性。",
   "keywords": [
-    "Broadcom",
+    "博通",
+    "AI推理模型",
+    "DeepSeek",
     "比特币",
-    "AI模型",
-    "真主党停火",
+    "美伊谈判",
+    "泽连斯基",
     "五眼联盟",
-    "乌克兰和谈",
-    "OpenAI记忆",
-    "市场波动"
+    "真主党"
   ],
   "trading": {
-    "market_overview": "美股三大指数技术面整体偏强：标普500、纳斯达克及道琼斯均接近52周高点，价格运行于所有主要均线上方，呈多头排列。但MACD信号出现分化——标普和纳斯达克的MACD柱已转负（MACD下穿信号线），显示短期动量有所衰减；道琼斯MACD柱仍为正，金叉形态延续，相对强势。中概资产表现分化：上证指数位于20日线下方但仍在50日、200日线上方，RSI 46.8中性，MACD死叉未明显恶化；恒生指数则显著承压，单日下跌3.01%，价格已跌破短期、中期及长期均线，形成空头排列，MACD绿柱扩大。商品方面，黄金期货价格低于20日及50日均线，MACD持续死叉，RSI 44.3偏弱，短期趋势承压。辅助背景中，加密市场恐慌贪婪指数仅12（极度恐慌），加密总市值24小时缩水1.88%至2.28T，与传统股指的强势形成反差，整体市场风险偏好分化明显。",
+    "market_overview": "当前市场技术面呈现显著分化。美股三大指数（标普、纳指、道指）均运行于MA20/50/200上方，维持多头排列格局，其中道指近1日上涨1.73%且MACD金叉，偏强信号明显；标普及纳指虽趋势看多，但MACD均出现死叉，RSI接近70，短期动能有所衰减。中概方面，上证指数日线下跌0.43%，收盘于SMA20下方，MACD死叉且柱线为负，力量偏弱；恒生指数大跌3.01%，均线系统全面空头，MACD深度负值死叉，下行压力突出。商品端黄金期货近1日反弹1.25%，但价格仍低于短期均线，RSI低于50，MACD死叉运行，技术面尚未摆脱弱势。辅助背景中，加密恐慌贪婪指数跌至12（极度恐慌），加密总市值24小时缩水1.5%至2.29T，BTC主导率55.8%显示资金向龙头集中，市场情绪极端谨慎。整体看，美股相对强势，而中概、商品及加密资产普遍承压，需关注资金轮动风险。",
     "watchlist": [
       {
         "symbol": "^DJI",
-        "display_name": "道琼斯指数 (^DJI)",
+        "display_name": "道琼斯指数",
         "stance": "偏上行",
-        "rationale": "价格51561.93，距52周高点仅差0.19%，运行于sma20（50266.09）、sma50（48982.27）、sma200（47862.25）之上，多头排列明确。MACD柱为正（589.18减528.84=60.34），金叉延续，短期动量偏多。RSI 67.3未超买，仍有上行空间。"
+        "rationale": "当前价格51561.93，近1日上涨1.73%，近5日上涨1.76%，距52周高点仅-0.19%。均线系统多头排列（SMA20 50266.09 < SMA50 48982.27 < SMA200 47862.25），价格远高于所有均线。RSI14为67.3，处于正常偏强区间；MACD快线589.18高于信号线528.84形成金叉，柱线为正，短期动量向上。综合显示技术结构偏强，上行倾向占优。"
       },
       {
         "symbol": "^HSI",
-        "display_name": "恒生指数 (^HSI)",
+        "display_name": "恒生指数",
         "stance": "偏下行",
-        "rationale": "单日下跌3.01%，价格25253.4已跌破所有主要均线（sma20=25851.57，sma50=25726.33，sma200=26027.18），呈空头排列。MACD柱为负（-124.97减-109.32=-15.65），死叉且绿柱扩大，空头动能增强。RSI 48.3处于中性偏弱区域，短期下行风险较大。"
-      },
-      {
-        "symbol": "GC=F",
-        "display_name": "黄金期货 (GC=F)",
-        "stance": "偏下行",
-        "rationale": "价格4499.4低于sma20（4565.35）和sma50（4628.79），仅高于sma200（4393.54），短期均线构成压力。MACD柱为负（-53.56减-51.36=-2.20），处于死叉状态。RSI 44.3偏低，反映弱势。虽5日无变化，但中期趋势偏空。"
+        "rationale": "当前价格25253.4，近1日暴跌3.01%，距52周高点-9.99%，近5日微跌0.3%。均线系统空头排列：价格低于SMA20(25851.57)、SMA50(25726.33)、SMA200(26027.18)。RSI14为48.3，中性偏弱；MACD快线-124.97低于信号线-109.32，且均为负值，死叉运行，柱线为负。各项指标均指向下行压力，技术setup偏空。"
       },
       {
         "symbol": "^GSPC",
-        "display_name": "标普500 (^GSPC)",
+        "display_name": "标普500指数",
         "stance": "中性",
-        "rationale": "价格7584.31位于所有均线上方（sma20=7477.18, sma50=7140.12, sma200=6853.4），多头排列未破坏。但MACD柱已转负（117.29减124.11=-6.82），MACD下穿信号线形成死叉，短期动量减弱。RSI 69接近超买但未破70，方向不明朗。"
+        "rationale": "当前价格7584.31，近1日上涨0.41%，近5日上涨0.27%，距52周高点仅-0.48%。均线多头排列（SMA20 7477.18 < SMA50 7140.12 < SMA200 6853.4），价格高于所有均线。但RSI14为69，接近超买阈值；MACD快线117.29低于信号线124.11形成死叉，柱线为负，显示多头趋势中动能衰减。多空信号交织，短期处于平衡状态。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，技术指标仅反映历史价格数据生成的客观状态。本报告仅供技术指标解读参考，不构成任何投资建议，投资者需独立判断并承担风险。",
+    "risk_caveat": "过去走势不代表未来表现，本文仅基于技术指标进行客观描述，不构成任何投资建议。所有结论仅供技术指标解读参考，请投资者结合自身情况独立判断。",
     "tickers": [
       {
         "symbol": "^GSPC",
@@ -286,18 +287,18 @@
         "group": "indices",
         "currency": "USD",
         "exchangeName": "CMX",
-        "currentPrice": 4499.4,
-        "pct1Day": 1.4132080584066458,
-        "pct5Day": 0.002226909004713352,
-        "pct52WeekHigh": -19.455085747019446,
-        "pct52WeekLow": 38.28139406232711,
-        "sma20": 4565.35498046875,
-        "sma50": 4628.78798828125,
-        "sma200": 4393.544986572266,
-        "rsi14": 44.29247437185067,
-        "macd": -53.55949883736321,
-        "macdSignal": -51.357092621777134,
-        "macdHistogram": -2.2024062155860733,
+        "currentPrice": 4492,
+        "pct1Day": 1.2464174330716737,
+        "pct5Day": -0.1622431268059722,
+        "pct52WeekHigh": -19.58755504636425,
+        "pct52WeekLow": 38.05396766857213,
+        "sma20": 4564.9849853515625,
+        "sma50": 4628.639990234375,
+        "sma200": 4393.507987060547,
+        "rsi14": 43.65824197954225,
+        "macd": -54.149804437434796,
+        "macdSignal": -51.47515374179145,
+        "macdHistogram": -2.6746506956433436,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -310,13 +311,13 @@
       "timestamp": "2026-06-04T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2277274526938.2065,
-      "total24hVolumeUsd": 214646650046.14117,
-      "marketCapChangePct24h": -1.8837399465658329,
-      "btcDominance": 55.7568828195303,
-      "ethDominance": 9.333920268699359,
+      "totalMarketCapUsd": 2286103195458.047,
+      "total24hVolumeUsd": 206734149102.58588,
+      "marketCapChangePct24h": -1.5033572012395846,
+      "btcDominance": 55.83005638138512,
+      "ethDominance": 9.329194600229824,
       "activeCryptocurrencies": 17380
     },
-    "generated_at": "2026-06-04T23:23:32.974Z"
+    "generated_at": "2026-06-04T23:52:38.586Z"
   }
 }
