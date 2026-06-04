@@ -6,140 +6,140 @@
       "title": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "excerpt": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "meta": "Python · ★ 12,303 · 🍴 803 · 📈 3,139 stars today",
+      "meta": "Python · ★ 12,374 · 🍴 807 · 📈 3,139 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "压缩工具输出、日志、文件和RAG摘要，在送入LLM前减少60-95%的token消耗且不改变答案。提供库、代理和MCP服务器，适用于降低大模型调用成本的场景。"
+      "summary": "Headroom 是一个压缩工具，在将工具输出、日志、文件和 RAG 片段送入 LLM 之前进行压缩，可减少 60-95% 的 token 而保持答案不变。提供库、代理和 MCP 服务器模式，适合需要节省 LLM 调用成本的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "excerpt": "The agent that grows with you",
-      "meta": "Python · ★ 180,876 · 🍴 31,019 · 📈 1,951 stars today",
+      "meta": "Python · ★ 180,910 · 🍴 31,033 · 📈 1,951 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个能与用户共同成长的AI代理项目，强调持续学习和个性化适应，适合需要动态扩展能力的智能体场景。"
+      "summary": "Hermes Agent 是一个可随用户共同成长的 AI 代理，专注于个性化交互与持续学习。其设计强调自适应能力，适用于需要长期陪伴或逐步优化的智能助手场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 207,130 · 🍴 31,800 · 📈 1,736 stars today",
+      "meta": "JavaScript · ★ 207,172 · 🍴 31,805 · 📈 1,736 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "针对Claude Code、Codex、Opencode、Cursor等工具的代理性能优化系统，提供技能、直觉、记忆和安全模块，采用研究优先的开发方法提升编码代理效率。"
+      "summary": "ECC 是一个代理性能优化系统，为 Claude Code、Codex、OpenCode、Cursor 等编码工具赋予技能、直觉、记忆和安全能力。采用研究优先的开发方式，适合需要增强 AI 编程助手能力的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "PaddlePaddle/PaddleOCR",
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "excerpt": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "meta": "Python · ★ 79,807 · 🍴 10,597 · 📈 105 stars today",
+      "meta": "Python · ★ 79,831 · 🍴 10,597 · 📈 105 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "轻量级OCR工具包，可将PDF和图片文档转换为结构化数据，支持100+语言，专为连接图像/PDF与LLM设计，适合文档数字化和AI数据预处理。"
+      "summary": "PaddleOCR 是基于 PaddlePaddle 的轻量级 OCR 工具包，可将 PDF 或图片文档转换为结构化数据，支持 100+ 语言。专为连接图像/PDF 与 LLM 设计，适合数据提取、文档数字化等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "excerpt": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "meta": "Python · ★ 108,531 · 🍴 9,593 · 📈 311 stars today",
+      "meta": "Python · ★ 108,549 · 🍴 9,594 · 📈 311 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub推出的规范驱动开发工具包，帮助开发者以规范为先导进行API和系统开发，提升协作效率和一致性。"
+      "summary": "Spec Kit 是 GitHub 推出的规范驱动开发（Spec-Driven Development）入门工具包，帮助开发者遵循“先定规范再编码”的流程。适合需要规范先行、减少返工的团队使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "NVIDIA/cosmos",
       "url": "https://github.com/NVIDIA/cosmos",
       "excerpt": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "meta": "Jupyter Notebook · ★ 8,954 · 🍴 578 · 📈 244 stars today",
+      "meta": "Jupyter Notebook · ★ 8,973 · 🍴 579 · 📈 244 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "NVIDIA开源的世界模型平台，提供数据集和工具，用于构建机器人、自动驾驶、智能基础设施等领域的物理AI系统。"
+      "summary": "NVIDIA Cosmos 是一个开放的世界模型平台，包含数据集和工具，用于构建面向机器人、自动驾驶、智能基础设施等领域的物理 AI。提供完整的训练与部署资源。"
     },
     {
       "sourceId": "github-trending",
       "title": "lfnovo/open-notebook",
       "url": "https://github.com/lfnovo/open-notebook",
       "excerpt": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "meta": "TypeScript · ★ 24,918 · 🍴 2,907 · 📈 482 stars today",
+      "meta": "TypeScript · ★ 24,962 · 🍴 2,910 · 📈 482 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Notebook LM的开源实现，提供更多灵活性和功能，支持多模态内容管理与交互，适合个人知识管理和AI辅助笔记。"
+      "summary": "Open Notebook 是 Notebook LM 的开源实现，提供更灵活的功能和更多控制。支持笔记管理与 AI 辅助，适合需要本地化、可定制的知识整理场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "Open-LLM-VTuber/Open-LLM-VTuber",
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "excerpt": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "meta": "Python · ★ 9,539 · 🍴 1,144 · 📈 583 stars today",
+      "meta": "Python · ★ 9,559 · 🍴 1,148 · 📈 583 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "与任意LLM进行免提语音交互，支持语音打断和Live2D面部动画，完全本地运行且跨平台。适用于虚拟主播、语音助手等场景。"
+      "summary": "Open-LLM-VTuber 是一个开源的 LLM 虚拟主播工具，支持免提语音交互、语音打断和 Live2D 面部，可跨平台本地运行。适合想要与任意 LLM 进行实时语音对话的创作者和用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "jwasham/coding-interview-university",
       "url": "https://github.com/jwasham/coding-interview-university",
       "excerpt": "A complete computer science study plan to become a software engineer.",
-      "meta": "★ 349,672 · 🍴 83,224 · 📈 740 stars today",
+      "meta": "★ 349,689 · 🍴 83,224 · 📈 740 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "完整的计算机科学自学计划，涵盖算法、数据结构、系统设计等面试核心内容，帮助学习者系统准备软件工程师面试。"
+      "summary": "这是一份完整的计算机科学学习计划，旨在帮助学习者系统准备软件工程师面试。涵盖算法、数据结构、系统设计等核心知识，适合求职者自学使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "excerpt": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "meta": "Java · ★ 8,938 · 🍴 1,209 · 📈 107 stars today",
+      "meta": "Java · ★ 8,954 · 🍴 1,210 · 📈 107 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub Copilot的多平台SDK，支持将Copilot Agent集成到应用和服务中，方便开发者扩展AI编码能力。"
+      "summary": "GitHub Copilot SDK 是一个多平台 SDK，用于将 GitHub Copilot Agent 集成到各类应用和服务中。开发者可借此快速嵌入 AI 编程助手功能。"
     },
     {
       "sourceId": "github-trending",
       "title": "aquasecurity/trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "excerpt": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "meta": "Go · ★ 35,653 · 🍴 431 · 📈 255 stars today",
+      "meta": "Go · ★ 35,656 · 🍴 430 · 📈 255 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "全栈安全扫描工具，可检测容器镜像、Kubernetes集群、代码仓库和云环境中的漏洞、错误配置、密钥泄露及SBOM，适用于DevSecOps流程。"
+      "summary": "Trivy 是一款安全扫描工具，可检测容器、Kubernetes、代码仓库和云环境中的漏洞、错误配置、密钥和 SBOM。支持多种扫描目标，适合 DevSecOps 流程中的自动化安全审计。"
     },
     {
       "sourceId": "github-trending",
       "title": "openclaw/openclaw-windows-node",
       "url": "https://github.com/openclaw/openclaw-windows-node",
       "excerpt": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-      "meta": "C# · ★ 1,301 · 🍴 166 · 📈 358 stars today",
+      "meta": "C# · ★ 1,310 · 🍴 167 · 📈 358 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenClaw在Windows端的配套套件，包含系统托盘应用、共享库、Node支持和PowerToys命令面板扩展，用于增强本地操作。"
+      "summary": "OpenClaw Windows 配套套件，包含系统托盘应用、共享库、Node 支持和 PowerToys 命令面板扩展。为 OpenClaw 提供 Windows 平台的便捷操作能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "reconurge/flowsint",
       "url": "https://github.com/reconurge/flowsint",
       "excerpt": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "meta": "TypeScript · ★ 5,267 · 🍴 637 · 📈 308 stars today",
+      "meta": "TypeScript · ★ 5,286 · 🍴 637 · 📈 308 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "现代化的图形化调查平台，支持可视化、灵活且可扩展的基于图的调查流程，专为网络安全分析师和调查人员设计。"
+      "summary": "Flowsint 是一个现代化的图式调查平台，支持可视化、灵活且可扩展的图分析。专为网络安全分析师和调查人员设计，适用于复杂数据关联与取证分析。"
     },
     {
       "sourceId": "github-trending",
       "title": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "excerpt": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "meta": "Python · ★ 27,525 · 🍴 2,342 · 📈 173 stars today",
+      "meta": "Python · ★ 27,543 · 🍴 2,345 · 📈 173 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI代理技能，可自动搜集Reddit、X、YouTube、Hacker News、Polymarket等平台上的话题信息，并生成有据可查的总结摘要。"
+      "summary": "Last30days Skill 是一个 AI 代理技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 等平台搜索任意话题，并生成基于证据的摘要报告。适合快速舆情调研和内容聚合。"
     },
     {
       "sourceId": "openai-news",
@@ -149,7 +149,7 @@
       "publishedAt": "2026-06-04T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Endava利用AI代理、ChatGPT Enterprise和Codex加速软件交付、自动化工作流，并在企业内部构建AI原生文化，提升开发效率。"
+      "summary": "Endava利用AI代理、ChatGPT Enterprise和Codex加速软件交付、自动化工作流程，并在企业中构建AI原生文化。"
     },
     {
       "sourceId": "openai-news",
@@ -159,7 +159,7 @@
       "publishedAt": "2026-06-04T09:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "ChatGPT推出新记忆系统“Dreaming”，能更准确地记住用户偏好，在跨对话中保持上下文的一致性，提升助手的有用性。"
+      "summary": "ChatGPT推出名为「Dreaming」的新记忆系统，能够更好地记住用户偏好，跨对话保持上下文的相关性和新鲜度。"
     },
     {
       "sourceId": "openai-news",
@@ -169,7 +169,7 @@
       "publishedAt": "2026-06-04T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布“智能时代的生物防御”行动计划，提出利用AI增强生物韧性，应对未来生物威胁的框架。"
+      "summary": "OpenAI发布《智能时代的生物防御》行动计划，提出利用AI增强生物弹性的方案，以应对生物安全威胁。"
     },
     {
       "sourceId": "openai-news",
@@ -179,7 +179,7 @@
       "publishedAt": "2026-06-03T13:15:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI为GPT-Rosalind增强生物推理、药物化学、基因组分析和实验工作流能力，推动生命科学研究智能化。"
+      "summary": "OpenAI为GPT-Rosalind增加新能力，包括增强的生物推理、药物化学专长、基因组学分析和实验工作流，推动生命科学研究。"
     },
     {
       "sourceId": "openai-news",
@@ -189,22 +189,22 @@
       "publishedAt": "2026-06-03T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Wasmer利用OpenAI Codex与GPT-5.5构建边缘Node.js运行时，开发速度提升10至20倍，交付时间从数月缩短至数周。"
-    },
-    {
-      "sourceId": "openai-news",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "excerpt": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "publishedAt": "2026-06-03T10:00:00.000Z",
-      "category": "tech",
-      "source": "OpenAI News"
+      "summary": "Wasmer利用Codex与GPT-5.5构建边缘Node.js运行时，开发速度提升10至20倍，数周内完成原本需要数月的工作。"
     },
     {
       "sourceId": "openai-news",
       "title": "OpenAI public policy agenda",
       "url": "https://openai.com/index/public-policy-agenda",
       "excerpt": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "publishedAt": "2026-06-03T10:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "excerpt": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
       "publishedAt": "2026-06-03T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News"
@@ -355,18 +355,18 @@
     },
     {
       "sourceId": "openai-news",
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "excerpt": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "excerpt": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News"
     },
     {
       "sourceId": "openai-news",
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "excerpt": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "excerpt": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News"
@@ -409,9 +409,9 @@
     },
     {
       "sourceId": "openai-news",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "excerpt": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "excerpt": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "publishedAt": "2026-05-20T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News"
@@ -694,7 +694,7 @@
       "publishedAt": "2026-06-04T18:57:45.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Nvidia发布Nemotron 3.5内容安全模型，为企业AI提供可定制的多模态安全检测，支持文本、图像等模态，帮助全球企业部署安全的AI应用。"
+      "summary": "NVIDIA推出Nemotron 3.5内容安全方案，提供可定制的多模态安全能力，面向全球企业AI应用。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -704,7 +704,7 @@
       "publishedAt": "2026-06-04T12:24:58.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "ServiceNow AI发布EVA-Bench Data 2.0，涵盖3个领域、121个工具和213个场景，用于评估AI代理在复杂任务上的表现。"
+      "summary": "EVA-Bench Data 2.0发布，涵盖3个领域、121个工具和213个场景，用于评估AI代理的综合能力。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -714,7 +714,7 @@
       "publishedAt": "2026-06-04T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face推出专为AI代理优化的hf CLI工具，简化与Hub的交互，帮助开发者更高效地管理模型和数据集。"
+      "summary": "Hugging Face设计新的CLI工具，为AI代理优化与Hub的交互方式，提升开发效率。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -724,7 +724,7 @@
       "publishedAt": "2026-06-03T12:55:11.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Dharma AI探讨将直接偏好优化（DPO）应用于聊天机器人之外的场景，拓展其在强化学习和模型对齐中的潜力。"
+      "summary": "文章探讨直接偏好优化（DPO）在聊天机器人之外的应用，如内容生成和推荐系统。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -962,6 +962,16 @@
     },
     {
       "sourceId": "huggingface-papers",
+      "title": "Measuring the Symmetry--Data Exchange Rate",
+      "url": "https://huggingface.co/papers/2606.01090",
+      "excerpt": "Equivariance theory predicts that an architectural symmetry prior reduces sample complexity by a factor of |G|; this is widely cited but rarely measured as a scaling law with controls that separate the prior from its confounds. On a controlled C_n-symmetric task, we report three findings. First, a w",
+      "publishedAt": "2026-05-31T00:00:00.000Z",
+      "meta": "👍 1",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
       "title": "Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning",
       "url": "https://huggingface.co/papers/2606.03965",
       "excerpt": "Large language models improve final-answer accuracy through extended chain-of-thought reasoning, but often spend tokens inefficiently and offer little inference-time control. Existing efficient reasoning methods control thinking length by shortening, early-stopping, or compressing traces, leaving ho",
@@ -1126,7 +1136,7 @@
       "url": "https://huggingface.co/papers/2606.02859",
       "excerpt": "How can a population of agents self-orchestrate and self-adapt into stronger collective intelligence without centralized control? Inspired by Friedrich Hayek's economic theory of decentralized coordination in markets, we study this question through an agent economy in which agents compete via auctio",
       "publishedAt": "2026-06-01T00:00:00.000Z",
-      "meta": "👍 3",
+      "meta": "👍 5",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1136,7 +1146,7 @@
       "url": "https://huggingface.co/papers/2606.04923",
       "excerpt": "Rubric-based reinforcement learning (RL) uses an LLM-as-a-Judge (LaaJ) to score model outputs according to rubrics as rewards. However, policy models may exploit latent biases in the judge, leading to reward hacking and ineffective or unsafe training outcomes. In real-world rubric-based RL, such hac",
       "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 34",
+      "meta": "👍 35",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1146,7 +1156,7 @@
       "url": "https://huggingface.co/papers/2605.27492",
       "excerpt": "LLM agents are rapidly evolving from coding assistants into autonomous software engineering systems. However, existing evaluation methodologies remain largely centered on static, isolated, and short-horizon benchmarks that fail to capture the dynamic complexity of real-world production workflows. As",
       "publishedAt": "2026-05-26T00:00:00.000Z",
-      "meta": "👍 19",
+      "meta": "👍 20",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1251,16 +1261,6 @@
       "source": "HuggingFace Trending Papers"
     },
     {
-      "sourceId": "huggingface-papers",
-      "title": "MeshWeaver: Sparse-Voxel-Guided Surface Weaving for Autoregressive Mesh Generation",
-      "url": "https://huggingface.co/papers/2606.04688",
-      "excerpt": "Autoregressive mesh generation has gained attention by tokenizing meshes into sequences and training models in a language-modeling fashion. However, existing approaches suffer from two fundamental limitations: (i) low tokenization efficiency, which yields long token sequences and prevents scaling to",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
       "sourceId": "tldr-ai",
       "title": "DeepSeek fundraising 💰, Meta model delays ⌛ , Gemma 4 12B 🤖",
       "url": "https://tldr.tech/ai/2026-06-04",
@@ -1268,7 +1268,7 @@
       "publishedAt": "2026-06-04T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI简报：DeepSeek进行新一轮融资，Meta模型发布延迟，Google推出Gemma 4 12B模型。"
+      "summary": "今日AI要闻：DeepSeek进行融资；Meta模型延迟发布；谷歌推出Gemma 4 12B模型。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1719,7 +1719,7 @@
       "publishedAt": "2026-06-04T20:39:18.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Andon Labs的Lukas Petersson和Axel Backlund探讨VendingBench评估Claude系列模型（从Haiku到Mythos），并分享如何从零构建领先且持久的前沿评估体系。"
+      "summary": "与VendingBench作者讨论对Claude系列模型（从Haiku到Mythos）的评估，以及他们如何从头构建领先且持久的尖端评估体系。"
     },
     {
       "sourceId": "latent-space",
@@ -1729,7 +1729,7 @@
       "publishedAt": "2026-06-04T03:24:07.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Reve 2与Ideogram 4更新，增强图像生成中的布局控制能力，提升AI在复杂构图场景下的表现。"
+      "summary": "AINews报道Reve 2和Ideogram 4模型在图像生成布局方面的新进展，当天市场消息较为平静。"
     },
     {
       "sourceId": "latent-space",
@@ -1739,7 +1739,7 @@
       "publishedAt": "2026-06-03T19:27:49.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Axiom Math的Carina Hong探讨验证生成与复合智能，强调通过严谨验证推动AI超越非正式推理，实现可扩展的智能。"
+      "summary": "Carina Hong在Axiom Math讨论通过验证生成和复合智能，扩展超越非正式AI的边界。"
     },
     {
       "sourceId": "latent-space",
@@ -1749,7 +1749,7 @@
       "publishedAt": "2026-06-03T17:13:57.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "微软CEO萨提亚·纳德拉在Microsoft Build大会上首次亮相Latent Space访谈，分享AI战略、代理应用及微软未来方向。"
+      "summary": "微软CEO萨提亚·纳德拉在Microsoft Build大会上首次亮相Latent Space，分享对AI未来的见解。"
     },
     {
       "sourceId": "latent-space",
@@ -1903,7 +1903,7 @@
       "publishedAt": "2026-06-04T10:50:18.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "美国科罗拉多州联邦治安法官Maritza Braswell每天处理大量无律师当事人提交的文件，法院正面临AI生成诉讼潮的挑战，需应对相关法律与程序问题。"
+      "summary": "美国科罗拉多州联邦治安法官Maritza Braswell每天处理大量由AI生成的诉讼文件，这些文件多由无律师的当事人提交，法院正努力应对AI引发的诉讼潮。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1995,7 +1995,7 @@
       "category": "tech",
       "meta": "@elpresidank · 116 粉丝 · 2.9M 阅 · 543 赞 · 35 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI 智能体记忆基于 embedding 的架构已被证明会遗忘存储内容并自信捏造。作者从拓扑学视角解释记忆失效根本原因，指出结构而非内容才是关键，为改进记忆系统提供新思路。"
+      "summary": "指出基于 embedding 的 AI agent 记忆系统存在根本缺陷：会遗忘已存储信息，并自信地编造从未存储的内容。提供理论证明。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2005,7 +2005,8 @@
       "publishedAt": "2026-06-03T11:00:55.000Z",
       "category": "tech",
       "meta": "@0xCodez · 3.3K 粉丝 · 637.2K 阅 · 510 赞 · 59 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "Claude Code 动态工作流教程：6 种模式和 14 个步骤，来自 Anthropic 工程师。指出 90% 的构建者仍手动链式提示，未利用动态工作流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2015,7 +2016,8 @@
       "publishedAt": "2026-06-03T17:12:23.000Z",
       "category": "tech",
       "meta": "@Saboo_Shubham_ · 116.2K 粉丝 · 263.3K 阅 · 517 赞 · 74 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "生成式 UI 成为新前端趋势：2026 年界面不再固定，部分由 agent 实时绘制。设计师和工程师的角色被重构。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2025,7 +2027,8 @@
       "publishedAt": "2026-06-02T14:49:52.000Z",
       "category": "tech",
       "meta": "@mem0ai · 17.6K 粉丝 · 82.8K 阅 · 520 赞 · 60 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "Agent Harness 是 AI 实际运行的环境（Cursor、Devin、Claude Code、Codex），它们管理上下文、工具编排、代理协调，并日益加强内存管理。本文综述现状。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2035,7 +2038,8 @@
       "publishedAt": "2026-06-02T20:26:32.000Z",
       "category": "tech",
       "meta": "@trq212 · 263.1K 粉丝 · 75.7K 阅 · 542 赞 · 36 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "Claude Code 发布动态工作流功能：Claude 可即时编写自定义 harness，针对当前任务定制。默认 harness 适配编码，新功能拓展到更多场景。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2045,7 +2049,8 @@
       "publishedAt": "2026-06-03T18:57:10.000Z",
       "category": "tech",
       "meta": "@drfeifei · 738.0K 粉丝 · 72.2K 阅 · 699 赞 · 144 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "提出世界模型功能分类学。从维特根斯坦哲学出发，论述世界非由语言构成，强调空间智能是 AI 的下一个前沿。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2055,7 +2060,8 @@
       "publishedAt": "2026-06-03T16:57:47.000Z",
       "category": "tech",
       "meta": "@sydneyrunkle · 7.5K 粉丝 · 69.5K 阅 · 511 赞 · 74 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "构建实用 Agent 的关键是定制：将 agent 连接到正确的上下文、数据和环境。核心是模型调用工具。提供构建自定义 Agent Harness 的指南。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2065,7 +2071,19 @@
       "publishedAt": "2026-06-02T18:28:06.000Z",
       "category": "tech",
       "meta": "@mvanhorn · 27.6K 粉丝 · 54.5K 阅 · 545 赞 · 44 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "作者更新「每个 Agentic 工程技巧」系列（2026 年 6 月）。此前帖子获 91.3 万浏览，主张不用 IDE，只用 plan.md 文件和语音控制。分享前线实战经验。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Your token spend is an AI architecture problem, not just a model problem ",
+      "url": "https://x.com/jainarvind/status/2062294414714945764",
+      "excerpt": "Enterprise AI token spend is scaling quickly, especially as the technology shifts from simple chat assistants into coding agents, AI coworkers, and long-running workflows. These systems do far more",
+      "publishedAt": "2026-06-03T22:04:38.000Z",
+      "category": "tech",
+      "meta": "@jainarvind · 9.3K 粉丝 · 53.7K 阅 · 505 赞 · 68 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "企业 AI token 支出快速增长，原因是技术从简单聊天转向编码 agent、AI 同事和长时间工作流。作者认为这是架构问题，而非单纯模型问题。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2075,7 +2093,8 @@
       "publishedAt": "2026-06-03T09:16:21.000Z",
       "category": "tech",
       "meta": "@IBuzovskyi · 1.2K 粉丝 · 50.1K 阅 · 500 赞 · 51 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "分享 10 个 Hermes Agent 技巧，每周节省 15+ 小时。适用于内容、软件开发、业务运营、客户管理、研究、销售等重复性工作流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2085,7 +2104,8 @@
       "publishedAt": "2026-06-03T16:04:20.000Z",
       "category": "tech",
       "meta": "@delba_oliveira · 74.0K 粉丝 · 37.4K 阅 · 533 赞 · 38 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "介绍反馈循环方法：让 Claude Code 自我验证工作成果，从而更独立地处理长时间运行的任务，减少人工监督。提升 AI 自主性。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2095,7 +2115,8 @@
       "publishedAt": "2026-06-03T15:45:36.000Z",
       "category": "tech",
       "meta": "@ericzakariasson · 67.9K 粉丝 · 37.3K 阅 · 507 赞 · 27 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "指出 Agent 修复 bug 时常凭猜测，效率低下。解决方案：为 agent 提供运行时上下文（如错误栈、变量值），避免盲目尝试，提高修复准确率。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2105,17 +2126,88 @@
       "publishedAt": "2026-06-02T14:40:07.000Z",
       "category": "tech",
       "meta": "@OptimaiNetwork · 98.8K 粉丝 · 5.7K 阅 · 542 赞 · 110 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "OptimAI 回顾五月进展：从证明产品转向扩展平台。市场趋势一致：AI 不再仅是模型，而是向 Agent 原生互联网演进。"
     },
     {
       "sourceId": "bloomberg-markets",
       "title": "Oil Steadies After First Drop This Week on Peace Talk Optimism",
       "url": "https://www.bloomberg.com/news/articles/2026-06-04/latest-oil-market-news-and-analysis-for-june-5",
-      "excerpt": "Oil was steady after its first decline this week on optimism that ceasefire talks between the US and Iran will see energy flows resume through the Strait of Hormuz.",
+      "excerpt": "Oil was steady after its first decline this week on optimism that talks between the US and Iran will see energy flows resume through the Strait of Hormuz.",
       "publishedAt": "2026-06-04T22:01:15.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "油价企稳，此前因美国与伊朗停火谈判带来霍尔木兹海峡能源流动恢复的希望而出现本周首次下跌。"
+      "summary": "因美伊谈判有望恢复霍尔木兹海峡能源流通，油价在本周首次下跌后企稳。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Thinking Machines’ Murati on AI’s Next Chapter",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-04/thinking-machines-murati-on-ai-s-next-chapter-video",
+      "excerpt": "Mira Murati, Co-Founder & CEO of Thinking Machines Lab, discusses the future of human-AI interaction, evolving AI products and the biggest opportunities ahead with Bloomberg’s Emily Chang at Bloomberg Tech 2026 in San Francisco. (Source: Bloomberg)",
+      "publishedAt": "2026-06-04T22:39:34.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "Thinking Machines Lab联合创始人兼CEO Mira Murati在彭博科技2026大会上，讨论人机交互未来、AI产品演进及最大机遇。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&amp;P",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "excerpt": "S&P Dow Jones Indices will keep its existing eligibility requirements for main benchmarks like the S&P 500 Index, rejecting proposals that would have made it faster for mega-cap companies such as Elon Musk’s SpaceX to gain rapid entry into the benchmark after going public.",
+      "publishedAt": "2026-06-04T21:56:19.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "标普道琼斯指数维持现有规则，拒绝为SpaceX等大型IPO提供快速纳入标普500的通道。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Cracks Emerge in Kospi’s 105% Rally as Breadth Concerns Mount",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/cracks-emerge-in-kospi-s-105-rally-as-breadth-concerns-mount",
+      "excerpt": "South Korea’s $4.9 trillion stock market is starting to flash signs of strain after a world-beating rally.",
+      "publishedAt": "2026-06-04T22:30:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "韩国Kospi指数在累计上涨105%后出现疲态，市场广度问题引发担忧，4.9万亿美元股市承压。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Wall Street Sees SpaceX’s AI Revenue 100 Times Higher by 2030",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/wall-street-sees-spacex-s-ai-revenue-100-times-higher-by-2030",
+      "excerpt": "Research analysts across Wall Street are telling would-be SpaceX IPO buyers that they’re modeling for the company’s artificial intelligence division to see 100 times revenue growth at the end of the decade, to help justify a targeted $1.8 trillion valuation.",
+      "publishedAt": "2026-06-04T22:28:16.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "华尔街分析师预计SpaceX的AI业务收入到2030年将增长100倍，以支撑其1.8万亿美元目标估值。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Music Producer Hit-Boy on AI Democratizing Creativity",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-04/music-producer-hit-boy-on-ai-democratizing-creativity-video",
+      "excerpt": "Hit-Boy, Grammy-Winning Artist & Producer discusses AI tools, music production and creative experimentation with Bloomberg’s Emily Chang and Tom Giles at Bloomberg Tech 2026 in San Francisco. (Source: Bloomberg)",
+      "publishedAt": "2026-06-04T22:27:08.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "格莱美获奖制作人Hit-Boy在彭博科技2026上探讨AI工具、音乐制作及创意民主化。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "World Labs' Fei-Fei Li on Creating Large World Models",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-04/world-labs-fei-fei-li-on-creating-large-world-models-video",
+      "excerpt": "Fei-Fei Li, Co-Founder & CEO at World Labs discusses spatial intelligence, large world models and real-world AI applications with Bloomberg’s Emily Chang at Bloomberg Tech 2026 in San Francisco. (Source: Bloomberg)",
+      "publishedAt": "2026-06-04T22:22:26.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "World Labs联合创始人兼CEO李飞飞在彭博科技2026上讨论空间智能、大型世界模型及AI现实应用。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asian Stocks Poised to Edge Lower, Oil Steadies: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/asian-stocks-poised-to-edge-lower-oil-steadies-markets-wrap",
+      "excerpt": "Stocks in Asia were set to edge lower on Friday as investors grappled with a pullback in artificial-intelligence shares and hopes of a diplomatic resolution to tensions in the Middle East.",
+      "publishedAt": "2026-06-04T22:12:54.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "亚洲股市周五料小幅走低，投资者权衡AI股回调及中东外交缓和预期，油价企稳。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2124,8 +2216,7 @@
       "excerpt": "Raffi Krikorian, chief technology officer at Mozilla, said that it's important identify and start to close a bunch of critical vulnerabilities to mitigate risks as AI dependence builds up. Krikorian said that a major consideration is making sure models are on your side and consumers are not living i",
       "publishedAt": "2026-06-04T21:32:26.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "Mythos AI模型在Firefox中发现数百个漏洞。Mozilla首席技术官强调识别并修复关键漏洞以降低AI依赖风险。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2152,8 +2243,7 @@
       "excerpt": "As chipmakers suffered their worst day in more than two weeks, there were signs that some traders are betting the selloff will be short-lived.",
       "publishedAt": "2026-06-04T21:15:11.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "芯片股遭遇两周多来最大跌幅，但部分交易员押注抛售短暂，华尔街重拾“逢低买入”习惯。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2171,8 +2261,7 @@
       "excerpt": "Meghan Robson, head of US credit strategy at BNP Paribas, and Sonali Pier, portfolio manager: multi-sector credit at PIMCO, join Katie Greifeld on \"Bloomberg Real Yield.\" Cliffwater, Blackstone, and Partners Group all capped certain fund redemptions this week. The moves put private markets back into",
       "publishedAt": "2026-06-04T20:41:03.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "法国巴黎银行和太平洋投资管理公司官员认为私人信贷恶化缓慢且可控。Cliffwater、黑石和合众集团本周限制了部分基金赎回。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2208,8 +2297,7 @@
       "excerpt": "Hatch known for devices that help babies sleep, is getting into sleep-tracking for adults with a new bedside tracker called the Hatch Sleep Clock. Ann Crady Weiss, CEO, of Hatch joins to discuss the importance of sleep health. (Source: Bloomberg)",
       "publishedAt": "2026-06-04T20:11:40.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "婴儿睡眠设备公司Hatch推出面向成人的睡眠时钟，可无线监测睡眠。CEO强调睡眠健康的重要性。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2245,8 +2333,7 @@
       "excerpt": "Bloomberg's Janet Lorin joins Katie Greifeld on \"Bloomberg Real Yield.\" Princeton University’s endowment is backtracking on its pledge to divest from publicly traded oil and gas companies, four years after it said it would exit such holdings as way to move toward a net-zero portfolio. (Source: Bloom",
       "publishedAt": "2026-06-04T20:05:45.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "普林斯顿大学捐赠基金放弃四年前作出的从公开交易石油和天然气公司撤资的承诺，此举曾被视为迈向净零组合的一步。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2255,8 +2342,7 @@
       "excerpt": "Aaron David Miller, a senior fellow at the Carnegie Endowment for International Peace, joined Balance of Power to discuss the latest developments in the Iran War. He said he thinks Israel is not going to have much say in how the Iran war ends. Miller also talks about President Trump's relationship w",
       "publishedAt": "2026-06-04T19:06:06.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "卡内基国际和平基金会高级研究员米勒认为，以色列在伊朗战争结束方式上不会有太多发言权，并谈到特朗普总统的角色。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2301,8 +2387,7 @@
       "excerpt": "The US Education Department says hundreds of colleges face financial distress and many won't survive the decade. Under Secretary Nicholas Kent join Bloomberg Open Interest to explain why the administration wants to speed up college mergers, defend private capital's role in higher education, and use ",
       "publishedAt": "2026-06-04T19:21:27.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "美国教育部表示数百所大学面临财务困境，许多将无法存活到2030年，推动加快大学合并，并捍卫私人资本的作用。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2319,70 +2404,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-04/bloomberg-economics-previews-friday-s-us-jobs-report-video",
       "excerpt": "Bloomberg Economics chief US economist Anna Wong joins Katie Greifeld on \"Bloomberg Real Yield.\" The team expects the May payrolls report to show a solid increase, suggesting the hot March and April reports reflected underlying momentum rather than just a rebound from earlier weakness. (Source: Bloo",
       "publishedAt": "2026-06-04T19:04:41.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "彭博经济首席美国经济学家预计5月非农就业报告将显示稳健增长，表明3月和4月的强劲数据反映潜在动能而非短暂反弹。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Gold Advances as Traders Weigh Fragile Israel-Lebanon Truce",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-03/gold-holds-drop-as-us-iran-clashes-keep-inflation-risks-in-focus",
-      "excerpt": "Gold advanced after Israel and Lebanon agreed to a conditional ceasefire, a possible step toward resolving the wider Middle East conflict that’s upended global energy markets and raised inflation risks.",
-      "publishedAt": "2026-06-03T23:21:46.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Illinois Passes $56B Budget as Bears Deal Stalled",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-04/illinois-passes-56b-budget-as-bears-deal-stalled-video",
-      "excerpt": "Bloomberg's Shruti Singh joins Katie Greifeld on \"Bloomberg Real Yield.\" Illinois legislators early Monday morning passed a nearly $56 billion budget for the fiscal year starting July 1, aiming to ease higher health-care and housing costs while bracing for potential federal funding cuts. (Source: Bl",
-      "publishedAt": "2026-06-04T19:04:01.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Being Selective in Credit Is ‘Critical,’ Pimco’s Pier Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-04/being-selective-in-credit-is-critical-pier-video",
-      "excerpt": "Sonali Pier, portfolio manager: multi-sector credit at PIMCO, and Meghan Robson, head of US credit strategy at BNP Paribas, join Katie Greifeld on \"Bloomberg Real Yield.\" US investment-grade bond sales reached $1 trillion sooner than in any year since 2020 as historically low spreads and a spending ",
-      "publishedAt": "2026-06-04T19:01:51.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Muni Tobacco Bonds Have First-Ever Default as Smoking Declines",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/muni-tobacco-bonds-have-first-ever-default-as-smoking-declines",
-      "excerpt": "The municipal bond market’s $80 billion tobacco bond sector had its first-ever default after a Nassau County, New York, agency failed to make a $36 million principal payment on June 1.",
-      "publishedAt": "2026-06-04T18:58:27.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Easy Money With an Uneasy Economy",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-04/easy-money-with-an-uneasy-economy",
-      "excerpt": "Markets are flying, businesses feel less sure.",
-      "publishedAt": "2026-06-04T18:56:49.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Inside Nike’s 2026 World Cup Playbook",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-04/inside-nike-s-2026-world-cup-playbook-video",
-      "excerpt": "Bloomberg Television's Romaine Bostick sits down with Nike Global Football Vice President Camilo Andrade to discuss the company's strategy around the FIFA World Cup 2026, international expansion opportunities, and the leadership of CEO Elliott Hill. (Source: Bloomberg)",
-      "publishedAt": "2026-06-04T18:55:21.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Private Credit’s Resurgent Redemptions",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-04/private-credit-s-resurgent-redemptions-video",
-      "excerpt": "Bloomberg's Katie Greifeld and Olivia Fishlow speak with Jason Dillow, co-head of US private credit & head of US opportunistic credit at Man Group, on \"Bloomberg Real Yield.\" Cliffwater, Blackstone, and Partners Group all capped certain fund redemptions this week. The moves put private markets back ",
-      "publishedAt": "2026-06-04T18:49:30.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2573,8 +2594,7 @@
       "excerpt": "Chip company notches one of the biggest valuation wipeouts on record as shares drop 12% on Thursday",
       "publishedAt": "2026-06-04T20:16:20.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "博通因营收展望不及预期，股价周四下跌12%，市值蒸发2850亿美元，创下史上最大单日估值损失之一。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2800,7 +2820,27 @@
       "publishedAt": "2026-06-04T21:53:25.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "Anthropic联合创始人杰克·克拉克警告称，人工智能可能发展到无需人类输入的程度，需要设置“刹车踏板”以控制风险。"
+      "summary": "Anthropic联合创始人Jack Clark警告，AI可能发展到无需人类输入即可自我演进，需要「刹车踏板」。"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Single 20-somethings need AI to make first move on dating apps - Hinge boss",
+      "url": "https://www.bbc.com/news/articles/c052397y6ygo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Jackie Jantos says loneliness and lack of confidence were challenges for young adults looking for relationships.",
+      "publishedAt": "2026-06-04T23:05:54.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "Hinge首席执行官表示，20多岁的单身人士因孤独和缺乏自信，需要AI帮助在约会应用上迈出第一步。"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
+      "publishedAt": "2026-06-04T23:05:39.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "Meta任职最久的员工Naomi Gleit经历多次争议，仍称其工作为「梦想工作」，并谈及AI与就业。"
     },
     {
       "sourceId": "bbc-business",
@@ -2822,6 +2862,16 @@
     },
     {
       "sourceId": "bbc-business",
+      "title": "The ancient trick making food waste useful and tasty",
+      "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
+      "publishedAt": "2026-06-04T23:10:26.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "发酵技术正将食品加工副产品转化为有价值的食物，减少浪费。"
+    },
+    {
+      "sourceId": "bbc-business",
       "title": "Why is government spending £1.3bn on Universal UK?",
       "url": "https://www.bbc.com/news/articles/c1e2wdzn751o?at_medium=RSS&at_campaign=rss",
       "excerpt": "The government is committing many millions of pounds to the new theme park planned for Bedfordshire.",
@@ -2835,15 +2885,6 @@
       "url": "https://www.bbc.com/news/articles/c15215lz3k0o?at_medium=RSS&at_campaign=rss",
       "excerpt": "The number of people withdrawing money from a LISA is outpacing the number using one to buy a home. Why?",
       "publishedAt": "2026-06-04T05:06:33.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "'By the grace of God': Miners dig on as lab-grown diamonds change market",
-      "url": "https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The rising popularity of lab-grown diamonds heaps pressure on those hunting for the natural gems.",
-      "publishedAt": "2026-06-03T23:00:45.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -2872,8 +2913,7 @@
       "excerpt": "Residents are advised to keep windows and doors closed as crews battle the fire in Port Talbot.",
       "publishedAt": "2026-06-04T20:27:16.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "塔塔钢铁在塔尔伯特港的工厂发生“末日般”大火，对生产线造成“重大”损坏，居民被建议关闭门窗。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
@@ -3021,19 +3061,10 @@
     },
     {
       "sourceId": "bbc-business",
-      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
-      "publishedAt": "2026-06-01T18:58:26.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "Abusive passengers could be banned from all airlines under new proposal",
-      "url": "https://www.bbc.com/news/articles/c707pknywjno?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The scheme would allow airlines to share information on disruptive passengers and potentially restrict their access to flights.",
-      "publishedAt": "2026-06-01T13:42:12.000Z",
+      "title": "'By the grace of God': Miners dig on as lab-grown diamonds change market",
+      "url": "https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The rising popularity of lab-grown diamonds heaps pressure on those hunting for the natural gems.",
+      "publishedAt": "2026-06-03T23:00:45.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -3052,15 +3083,6 @@
       "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
       "publishedAt": "2026-05-31T23:19:32.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "Humanoid robots 'the future' of car making, says BMW",
-      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
-      "publishedAt": "2026-05-28T23:36:45.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -3342,7 +3364,7 @@
       "publishedAt": "2026-06-04T21:34:14.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "乌克兰总统泽连斯基在公开信中向普京提议面对面谈判，称只有两国直接接触才能结束战争，而美国目前聚焦于伊朗。"
+      "summary": "乌克兰总统泽连斯基在致普京的公开信中提议举行面对面谈判，称只有“直接接触”才能结束战争，而美国正聚焦伊朗。"
     },
     {
       "sourceId": "bbc-world",
@@ -3370,7 +3392,17 @@
       "publishedAt": "2026-06-04T21:34:49.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "迪拜统治者侄子的前妻Zeynab Javadli被检方称已拘留，她自周二起与朋友失联。"
+      "summary": "迪拜统治者侄子前妻Zeynab Javadli被检方拘留，自周二起与所有朋友失联。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "publishedAt": "2026-06-04T23:11:15.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "全球红树林森林在经历数十年人类破坏后正在恢复，这对沿海社区和气候带来积极影响。"
     },
     {
       "sourceId": "bbc-world",
@@ -3380,6 +3412,16 @@
       "publishedAt": "2026-06-04T17:48:36.000Z",
       "category": "politics",
       "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Here's why election results in the second largest US city are so slow",
+      "url": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "It could take weeks - or even a month - before we know who won elections in California and Los Angeles.",
+      "publishedAt": "2026-06-04T22:20:24.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "美国第二大城洛杉矶及加州选举结果可能需数周甚至一个月才能公布。"
     },
     {
       "sourceId": "bbc-world",
@@ -3536,21 +3578,13 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
-      "publishedAt": "2026-06-03T20:05:58.000Z",
+      "title": "Tough cookies: How pop group Le Sserafim overcame internal conflict and internet trolls",
+      "url": "https://www.bbc.com/news/articles/c7752znyle6o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The K-pop band say accepting their flaws and embracing humour took them to a new level of success.",
+      "publishedAt": "2026-06-04T22:22:56.000Z",
       "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Foreign nationals among at least 21 killed in Delhi fire",
-      "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives.",
-      "publishedAt": "2026-06-03T11:54:25.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "K-pop组合Le Sserafim通过接受自身缺点并拥抱幽默，克服内部冲突和网络攻击，达到了新的成功水平。"
     },
     {
       "sourceId": "bbc-world",
@@ -3594,15 +3628,6 @@
       "url": "https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Canada is the first G7 country to approve the lower cost weight-loss drugs, which are rolling out in pharmacies this month.",
       "publishedAt": "2026-06-03T23:34:48.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Costly fuel pushes more Indians to buy electric cars but challenges remain",
-      "url": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss",
-      "excerpt": "High fuel prices are strengthening the case for EV adoption in the world's third largest auto market.",
-      "publishedAt": "2026-06-03T23:28:31.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3700,7 +3725,7 @@
       "sourceId": "guardian-world",
       "title": "Nauru issues rare statement after whistleblower alleges violent threats against Australia’s non-citizens",
       "url": "https://www.theguardian.com/australia-news/2026/jun/04/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb",
-      "excerpt": "Nauran government says its citizens are ‘friendly’ after MP spoke of serious threats allegedly made against former Australian detainees Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Nauruan government has issued a rare statemen",
+      "excerpt": "Nauran government says its citizens are ‘friendly’ after MP spoke of serious threats allegedly made against former detainees Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Nauruan government has issued a rare statement insisting",
       "publishedAt": "2026-06-04T15:00:09.000Z",
       "category": "politics",
       "source": "The Guardian"
@@ -3743,13 +3768,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia news live: Julian Hill claims Labor has ‘won the debate’ on housing tax changes; homelessness soars in NSW",
+      "title": "Australia news live: Jane Hume says Labor being ‘sneaky’ on tax changes; John Howard signs open letter urging gambling reforms",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb",
-      "excerpt": "Follow today’s news live Get our breaking news email, free app or daily news podcast John Howard among signatories of open letter calling for stronger gambling reforms Former prime minister John Howard and a cohort of other current and former lawmakers signed an open letter urging the Albanese gover",
-      "publishedAt": "2026-06-04T21:53:36.000Z",
+      "excerpt": "Follow today’s news live Get our breaking news email, free app or daily news podcast Jane Hume, the deputy opposition leader, accused the government of being “sneaky”, saying discussions around tax reforms in parliament were much too short to properly address so-called “generational” tax reforms. “W",
+      "publishedAt": "2026-06-04T23:09:02.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚工党议员Julian Hill称工党在住房税改辩论中获胜；新南威尔士州无家可归者激增；前总理霍华德等联名呼吁加强博彩改革。"
+      "summary": "澳大利亚反对党副领袖Jane Hume指责工党在税收改革上“耍滑头”；前总理John Howard签署公开信，呼吁进行赌博改革。"
     },
     {
       "sourceId": "guardian-world",
@@ -3789,13 +3814,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Zelenskyy calls for face-to-face negotiations in letter to Putin",
+      "title": "Zelenskyy calls for face-to-face Ukraine war negotiations in letter to Putin",
       "url": "https://www.theguardian.com/world/2026/jun/04/zelenskyy-calls-for-face-to-face-negotiations-letter-putin-ukraine-russia-trump",
       "excerpt": "Ukrainian president proposes meeting in neutral third country as Trump says both sides have to ‘make compromises’ The Ukrainian president, Volodymyr Zelenskyy, has called for face-to-face negotiations in a public letter addressed directly to the Russian president, Vladimir Putin. The letter, the fir",
-      "publishedAt": "2026-06-04T21:40:58.000Z",
+      "publishedAt": "2026-06-04T22:30:37.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "乌克兰总统泽连斯基公开致函俄罗斯总统普京，提议在第三方中立国举行面对面谈判，特朗普表示双方需作出让步。"
+      "summary": "乌克兰总统泽连斯基在致普京的公开信中呼吁举行面对面谈判，提议在第三方中立国会面。特朗普称双方需做出妥协。"
     },
     {
       "sourceId": "guardian-world",
@@ -3840,8 +3865,7 @@
       "excerpt": "Announcement seeks to close a difficult chapter for the company after the Guardian revealed its platform was used in mass surveillance of Palestinians Microsoft has said it will tighten human-rights controls when working with national security agencies after an inquiry into how the Israeli military ",
       "publishedAt": "2026-06-04T21:23:36.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "微软宣布将加强在国家安全机构合作中的人权管控，此前《卫报》调查发现以色列使用其技术对巴勒斯坦人进行大规模监控。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3884,10 +3908,10 @@
       "title": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
       "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
       "excerpt": "Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, said a truce worked out between Israel and the Lebanese government amounted to surrender for his group.",
-      "publishedAt": "2026-06-04T21:25:26.000Z",
+      "publishedAt": "2026-06-04T22:08:37.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "黎巴嫩真主党拒绝由美国斡旋的以色列与黎巴嫩停火协议，真主党领导人称该协议等于向其投降，真主党未被纳入谈判。"
+      "summary": "真主党领导人拒绝美国斡旋的黎巴嫩与以色列停火协议，称该协议意味着真主党投降。真主党未参与谈判。"
     },
     {
       "sourceId": "nyt-world",
@@ -3933,7 +3957,7 @@
       "publishedAt": "2026-06-04T21:37:47.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "索马里首都摩加迪沙爆发枪战，忠于竞争政治派别的武装人员发生冲突，居民称这是多年以来最激烈的战斗。"
+      "summary": "索马里首都摩加迪沙爆发枪战，忠于对立政治人物的武装团体激烈交火。居民称这是多年来最严重的战斗。"
     },
     {
       "sourceId": "nyt-world",
@@ -4005,8 +4029,7 @@
       "excerpt": "All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.",
       "publishedAt": "2026-06-04T21:01:09.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "法国网球公开赛所有顶尖选手均已出局，导致赛事结果难以预测且非常精彩。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4025,7 +4048,7 @@
       "publishedAt": "2026-06-04T21:52:21.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "特朗普政府收紧对古巴经济限制，多家国际酒店连锁企业宣布撤出古巴，显示制裁效果显著。"
+      "summary": "特朗普政府收紧对古巴经济限制，多家国际酒店集团宣布将撤离古巴。"
     },
     {
       "sourceId": "nyt-world",
@@ -4053,7 +4076,7 @@
       "publishedAt": "2026-06-04T22:02:20.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "刚果（金）埃博拉疫情中心矿区城镇，居民因悲痛与不信任拒绝承认疾病存在，救治和埋葬工作受阻。"
+      "summary": "刚果（金）偏远矿业城镇的埃博拉疫情中，居民的悲痛和不信任情绪加剧，部分人否认疾病存在，给医疗工作带来困难。"
     },
     {
       "sourceId": "nyt-world",
@@ -4089,8 +4112,7 @@
       "excerpt": "",
       "publishedAt": "2026-06-04T20:51:06.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "中东地区（涉及伊朗、以色列、黎巴嫩）最新局势更新。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4517,13 +4539,52 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Ivory Coast beat France in World Cup warning to one of the favourites",
+      "url": "https://www.aljazeera.com/sports/2026/6/4/ivory-coast-beat-france-in-world-cup-warning-to-one-of-the-favourites?traffic_source=rss",
+      "excerpt": "Ivory Coast beat France 2-1 in friendly ahead of the 2026 World Cup, as Manchester United's Amad Diallo seals win.",
+      "publishedAt": "2026-06-04T23:00:36.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’",
+      "url": "https://www.aljazeera.com/news/2026/6/4/democrats-force-vote-on-trumps-1-8bn-settlement-fund-in-vote-a-rama?traffic_source=rss",
+      "excerpt": "Republicans seek to pass $70bn immigration-enforcement funding, but must endure series of votes on controversial issues.",
+      "publishedAt": "2026-06-04T22:57:15.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "美国民主党在“投票马拉松”中迫使就特朗普18亿美元和解基金进行投票。共和党则寻求通过700亿美元移民执法资金。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Kenyan president defends US Ebola facility amid deadly protests",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/clip-kenyan-president-ebola-facility?traffic_source=rss",
+      "excerpt": "Kenyan President William Ruto said allowing the US to build an Ebola quarantine facility in Kenya was the “right thing”.",
+      "publishedAt": "2026-06-04T22:38:37.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "肯尼亚总统威廉·鲁托（William Ruto）为美国在肯建设埃博拉隔离设施辩护，称这是“正确的事”。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Why is the US so invested in Colombia’s election?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss",
+      "excerpt": "Al Jazeera’s Hala Al Shami explains why US officials are invested in Colombia's presidential elections.",
+      "publishedAt": "2026-06-04T22:05:23.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "Al Jazeera记者哈拉·沙米（Hala Al Shami）解释美国官员为何高度关注哥伦比亚总统选举。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
       "excerpt": "Al Jazeera’s Obaida Hitto has the latest from Lebanon where a new diplomatic push has done little to quell violence.",
       "publishedAt": "2026-06-04T21:40:08.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "黎巴嫩真主党拒绝美国提出的和平方案，以色列继续发动攻击，外交努力未能平息战火。"
+      "summary": "黎巴嫩最新消息：真主党拒绝美国提出的计划，以色列继续发动攻击，新外交努力未能平息暴力。"
     },
     {
       "sourceId": "aljazeera",
@@ -4532,8 +4593,7 @@
       "excerpt": "Hezbollah has condemned a US-brokered ceasefire framework accepted by Israel and Lebanon",
       "publishedAt": "2026-06-04T21:07:18.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "真主党谴责美国斡旋的以色列与黎巴嫩停火框架，拒绝接受此协议。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4542,8 +4602,7 @@
       "excerpt": "The Trump administration has supported Bolivian President Rodrigo Paz after his electoral victory over left-wing MAS.",
       "publishedAt": "2026-06-04T21:01:12.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "美国国防部长将玻利维亚的抗议活动比作“推翻政府”，特朗普政府支持总统Rodrigo Paz在左翼运动后的执政。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4552,8 +4611,7 @@
       "excerpt": "The murder of Henry Nowak has sparked a political storm in the UK, with renewed claims of ‘two-tier policing’.",
       "publishedAt": "2026-06-04T20:59:33.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "亨利·诺瓦克谋杀案在英国引发政治风波，重新点燃对“双重标准执法”的争论。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4705,42 +4763,6 @@
       "url": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss",
       "excerpt": "Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.",
       "publishedAt": "2026-06-04T15:41:15.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "MAHA moms test their influence in US glyphosate fight",
-      "url": "https://www.aljazeera.com/economy/2026/6/4/maha-moms-test-their-influence-in-us-glyphosate-fight?traffic_source=rss",
-      "excerpt": "'Make America Healthy Again' activists see legislative wins, White House disappointments and questions for the midterms.",
-      "publishedAt": "2026-06-04T15:36:41.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Black Lung Rising",
-      "url": "https://www.aljazeera.com/video/fault-lines/2026/6/4/black-lung-rising?traffic_source=rss",
-      "excerpt": "Fault Lines investigates a surge in black lung among younger coal miners in Appalachia, and gaps in dust protections.",
-      "publishedAt": "2026-06-04T15:30:00.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Lebanon’s latest truce: What is different from the April agreement?",
-      "url": "https://www.aljazeera.com/news/2026/6/4/lebanons-latest-truce-what-is-different-from-the-april-agreement?traffic_source=rss",
-      "excerpt": "The ceasefire's prospects appear uncertain before its implementation has even started.",
-      "publishedAt": "2026-06-04T14:58:15.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Thousands protest in Albania against coastal resort linked to Jared Kushner",
-      "url": "https://www.aljazeera.com/news/2026/6/4/thousands-protest-kushner-linked-coastal-resort-project-in-albania?traffic_source=rss",
-      "excerpt": "Environmental organisations have called for the project's suspension, citing threats to biodiversity.",
-      "publishedAt": "2026-06-04T14:55:30.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
@@ -5019,50 +5041,50 @@
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "excerpt": "Python tool for converting files and office documents to Markdown.",
-      "meta": "Python · ★ 144,171 · ⑂ 9,861",
+      "meta": "Python · ★ 144,218 · ⑂ 9,865",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "Microsoft开源的Python工具，能将Word、Excel、PPT等办公文档转换为Markdown格式，方便文档处理和AI流水线集成。"
+      "summary": "MarkItDown 是微软开发的 Python 工具，用于将文件及 Office 文档转换为 Markdown 格式。支持多种输入格式，适合文档预处理、知识库构建等场景。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "excerpt": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "meta": "Python · ★ 130,154 · ⑂ 21,149",
+      "meta": "Python · ★ 130,163 · ⑂ 21,151",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "Anthropic推出的终端AI编码工具，能理解整个代码库，协助执行日常任务、解释复杂代码、管理Git工作流，加速软件开发。"
+      "summary": "Claude Code 是 Anthropic 推出的终端编码代理，能理解整个代码库，帮助开发者执行常规任务、解释复杂代码和处理 Git 工作流。支持命令行交互，适合加速日常开发工作。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "Genesis-Embodied-AI/genesis-world",
       "url": "https://github.com/Genesis-Embodied-AI/genesis-world",
       "excerpt": "Simulation platform for general-purpose robotics & embodied AI learning.",
-      "meta": "Python · ★ 29,239 · ⑂ 2,762",
+      "meta": "Python · ★ 29,240 · ⑂ 2,762",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "面向通用机器人和具身AI学习的仿真平台，提供高保真物理环境，用于训练和测试机器人控制算法。"
+      "summary": "Genesis World 是一个面向通用机器人和具身 AI 学习的仿真平台，提供物理环境和训练接口。适合研究人员和开发者进行机器人控制与强化学习实验。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "stefan-jansen/machine-learning-for-trading",
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "excerpt": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "meta": "Jupyter Notebook · ★ 19,031 · ⑂ 5,277",
+      "meta": "Jupyter Notebook · ★ 19,032 · ⑂ 5,277",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "《Machine Learning for Algorithmic Trading》第二版的代码仓库，提供基于机器学习的量化交易策略实现示例。"
+      "summary": "该项目是《Machine Learning for Algorithmic Trading》第二版的配套代码，涵盖机器学习在算法交易中的应用。适合量化交易者和数据科学家学习实战案例。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "microsoft/ML-For-Beginners",
       "url": "https://github.com/microsoft/ML-For-Beginners",
       "excerpt": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "meta": "Jupyter Notebook · ★ 86,348 · ⑂ 20,933",
+      "meta": "Jupyter Notebook · ★ 86,350 · ⑂ 20,932",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "微软出品的机器学习入门课程，共12周26节课和52个测验，覆盖经典机器学习算法，适合零基础学习者。"
+      "summary": "微软推出的机器学习入门课程，共 12 周 26 节课和 52 个测验，涵盖经典机器学习算法。适合零基础学习者系统掌握 ML 基础。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5072,7 +5094,7 @@
       "meta": "Jupyter Notebook · ★ 1,249 · ⑂ 266",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "NVIDIA Nemotron模型的开发者资源中心，提供训练配方、使用指南、数据集和端到端参考示例，帮助快速上手。"
+      "summary": "NVIDIA Nemotron 开发者资源中心，提供训练配方、使用手册、数据集和端到端参考示例。一站式帮助开发者基于 Nemotron 模型构建 AI 应用。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5082,17 +5104,17 @@
       "meta": "Jupyter Notebook · ★ 260 · ⑂ 184",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "微软IQ系列（Foundry IQ、Work IQ、Fabric IQ）的实践学习课程，通过视频和动手实验理解企业级AI集成。"
+      "summary": "IQ Series 是微软推出的企业级智能层学习体验，涵盖 Foundry IQ、Work IQ 和 Fabric IQ 的实践教程。适合希望掌握 Microsoft 统一 AI 平台的开发者。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "mrdbourke/zero-to-mastery-ml",
       "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
       "excerpt": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
-      "meta": "Jupyter Notebook · ★ 5,375 · ⑂ 4,000",
+      "meta": "Jupyter Notebook · ★ 5,376 · ⑂ 4,000",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "Zero to Mastery机器学习和数据科学课程的全部资料，覆盖从零到精通的完整学习路径。"
+      "summary": "《Zero to Mastery Machine Learning and Data Science》课程的全套资料，包含代码、笔记和项目。适合希望从零开始成为机器学习工程师的学习者。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5102,7 +5124,7 @@
       "meta": "Jupyter Notebook · ★ 16,292 · ⑂ 5,336",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "微软开源的MCP（Model Context Protocol）入门课程，跨多种语言（.NET、Java、TypeScript、Rust等）提供实际示例，适合初学者。"
+      "summary": "微软推出的 MCP（模型上下文协议）入门课程，使用 .NET、Java、TypeScript、JavaScript、Rust 和 Python 的多语言真实示例，帮助开发者掌握该协议的基础应用。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5112,7 +5134,7 @@
       "meta": "R · ★ 6,944 · ⑂ 2,132",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "R语言中实现“图形语法”的数据可视化包，提供灵活且强大的统计图形绘制功能，是数据科学的标准工具。"
+      "summary": "ggplot2 是 R 语言中基于图形语法的数据可视化包，通过图层方式构建统计图形。广泛用于数据分析和科研绘图，是 R 生态的核心可视化工具。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5122,7 +5144,7 @@
       "meta": "R · ★ 5,058 · ⑂ 4,421",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "对应《R for Data Science》一书，提供使用R进行数据科学的系统学习材料，包括数据清洗、可视化和建模。"
+      "summary": "《R for Data Science》一书的官方仓库，由 Hadley Wickham 编写，系统介绍使用 R 进行数据清洗、可视化和建模的方法，适合 R 语言数据科学入门。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5132,7 +5154,7 @@
       "meta": "R · ★ 621 · ⑂ 107",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "R语言工具包，可从单细胞和空间转录组数据推断细胞间通信网络，并进行可视化和分析，适用于生物信息学研究。"
+      "summary": "CellChat 是 R 语言工具包，用于从单细胞和空间转录组数据推断、可视化和分析细胞间通讯。适合生物信息学研究人员进行细胞交互网络研究。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5142,27 +5164,27 @@
       "meta": "R · ★ 2,743 · ⑂ 988",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "R语言中用于单细胞基因组学分析的工具包，支持数据标准化、聚类、差异表达等标准流程。"
+      "summary": "Seurat 是用于单细胞基因组学的 R 工具包，提供数据标准化、降维、聚类和差异表达分析等功能。是单细胞 RNA-seq 分析的行业标准工具之一。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "posquit0/Awesome-CV",
       "url": "https://github.com/posquit0/Awesome-CV",
       "excerpt": "📄 Awesome CV is LaTeX template for your outstanding job application",
-      "meta": "TeX · ★ 27,660 · ⑂ 5,283",
+      "meta": "TeX · ★ 27,661 · ⑂ 5,283",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "精美的LaTeX简历模板，专为求职申请设计，排版专业且易于定制，适合技术岗位。"
+      "summary": "Awesome CV 是一个 LaTeX 简历模板，设计精美且易于定制。适合求职者快速生成专业排版的中英文简历。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "billryan/resume",
       "url": "https://github.com/billryan/resume",
       "excerpt": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
-      "meta": "TeX · ★ 11,152 · ⑂ 2,846",
+      "meta": "TeX · ★ 11,151 · ⑂ 2,846",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "优雅的LaTeX简历模板，简洁美观，提供大陆镜像下载，适合求职者快速制作专业简历。"
+      "summary": "这是一个优雅的 LaTeX 简历模板，支持中文排版。提供简洁清晰的格式，适合求职者或学术申请使用。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5172,7 +5194,7 @@
       "meta": "TeX · ★ 1,521 · ⑂ 145",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "多智能体系统领域的经典与前沿论文合集，为研究人员提供精选文献列表。"
+      "summary": "该项目收录了多智能体领域最优秀的论文，涵盖协作、竞争和通信等方向。适合研究人员和开发者快速了解该领域的最新进展。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5182,7 +5204,7 @@
       "meta": "TeX · ★ 37,286 · ⑂ 9,139",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "Ian Goodfellow《深度学习》一书的中文翻译项目，提供完整的中文译本，方便中文读者学习。"
+      "summary": "《深度学习》一书的简体中文翻译版，涵盖深度学习基础理论和实践。适合中文读者系统学习深度学习的经典教材。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5192,7 +5214,7 @@
       "meta": "TeX · ★ 10,385 · ⑂ 2,240",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "数学建模资源合集，包括竞赛优秀论文、算法、LaTeX模板、参考书籍、Matlab教程和思维导图，适合参赛者备考。"
+      "summary": "数学建模资源合集，包含研究生/本科生数学建模竞赛的优秀论文、算法、LaTeX 模板、思维导图和 Matlab 教程。适合参赛学生备战数学建模竞赛。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5202,7 +5224,7 @@
       "meta": "TeX · ★ 6,280 · ⑂ 412",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "现代Vim/Neovim的LaTeX文件类型插件，提供语法高亮、编译、补全等增强功能，提升写作体验。"
+      "summary": "VimTeX 是 Vim 和 Neovim 的 LaTeX 文件类型插件，提供语法高亮、编译、预览和代码补全等现代功能。适合使用 Vim 编写 LaTeX 文档的用户。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5212,17 +5234,17 @@
       "meta": "Julia · ★ 62 · ⑂ 58",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "Julia语言的全栈量子硬件模拟器，从底层物理模拟到高层网络动力学，支持离散事件模拟和量子对象的符号表示。"
+      "summary": "QuantumSavory.jl 是 Julia 语言中的量子硬件全栈模拟器，从底层模拟物理到高层网络动态，包含离散事件模拟和量子对象符号表示。适合量子网络和量子计算研究。"
     },
     {
       "sourceId": "github-research-trending",
       "title": "tldr-pages/tldr",
       "url": "https://github.com/tldr-pages/tldr",
       "excerpt": "Collaborative cheatsheets for console commands 📚.",
-      "meta": "Markdown · ★ 62,764 · ⑂ 5,275",
+      "meta": "Markdown · ★ 62,765 · ⑂ 5,275",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "社区维护的命令行工具速查表，为常用命令提供简洁实用的用法示例，替代冗长的man手册。"
+      "summary": "tldr 是命令行工具的协作速查表集合，提供简化且实用的命令示例。适合快速查阅常用命令，替代冗长的 man 手册。"
     },
     {
       "sourceId": "github-research-trending",
@@ -5232,7 +5254,7 @@
       "meta": "Markdown · ★ 2,244 · ⑂ 461",
       "category": "tech",
       "source": "GitHub 科研 Trending",
-      "summary": "使用Markdown记录架构决策的轻量级方法，帮助团队追踪设计决策及其理由。"
+      "summary": "MADR（Markdown Architectural Decision Records）是一种用 Markdown 记录架构决策的模板规范。帮助团队以轻量方式追踪和文档化技术决策。"
     },
     {
       "sourceId": "sciencedaily-ai",
@@ -5242,7 +5264,7 @@
       "publishedAt": "2026-05-19T00:23:26.000Z",
       "category": "tech",
       "source": "ScienceDaily AI",
-      "summary": "宾夕法尼亚大学发明杂化光-物质粒子，可大幅提升 AI 计算速度并降低能耗，有望替代部分电子计算。"
+      "summary": "宾夕法尼亚大学研究人员创造了一种光-物质混合粒子，可大幅加速AI计算并降低能耗，有望用超高效光技术替代部分电子计算。"
     },
     {
       "sourceId": "sciencedaily-ai",
@@ -5252,7 +5274,7 @@
       "publishedAt": "2026-05-15T08:13:15.000Z",
       "category": "tech",
       "source": "ScienceDaily AI",
-      "summary": "NASA 测试新一代抗辐射空间计算机芯片，性能比当前航天计算机高出数百倍，可使航天器在深空更自主运行。"
+      "summary": "NASA正在测试新一代耐辐射太空计算机芯片，性能比当前航天计算机高出数百倍，可让航天器在深空独立运行。"
     },
     {
       "sourceId": "sciencedaily-ai",
@@ -5514,7 +5536,7 @@
       "publishedAt": "2026-06-04T10:25:38.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "AAAI 2026 会士 Sanmay Das 接受专访，讨论多智能体系统。他因对人工智能领域的持续贡献获此殊荣。"
+      "summary": "AAAI公布2026年度会士名单，本文专访会士Sanmay Das，探讨多智能体系统领域的研究进展与贡献。"
     },
     {
       "sourceId": "aihub",
@@ -5524,7 +5546,7 @@
       "publishedAt": "2026-06-03T07:10:44.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "俄勒冈州立大学研究显示，通过设计调整让 AI 系统提示用户考虑能耗与环境影响，可减少不必要的 AI 使用。"
+      "summary": "俄勒冈州立大学研究显示，通过设计让AI系统在使用前提示用户考虑能耗与环境影响，可减少不必要的AI使用，促进负责任用AI。"
     },
     {
       "sourceId": "aihub",
@@ -5534,7 +5556,7 @@
       "publishedAt": "2026-06-02T07:29:49.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "OpenAI 内部 AI 解决了一个困扰数学家 80 年的平面点排列问题，新方案令数学界震惊。"
+      "summary": "OpenAI内部人工智能解决了困扰数学界80年的平面点集单位距离问题，新排列方案令数学家震惊。"
     },
     {
       "sourceId": "aihub",
@@ -5544,7 +5566,7 @@
       "publishedAt": "2026-06-01T08:01:40.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "AIhub 列出 2026 年 6 月至 7 月免费在线 AI 研讨会，涵盖无人机、群体智能、网络物理社会等主题。"
+      "summary": "本文列出2026年6月至7月期间举办的免费AI相关线上研讨会，涵盖无人机、群体智能、网络物理社会等主题。"
     },
     {
       "sourceId": "aihub",
@@ -5554,7 +5576,7 @@
       "publishedAt": "2026-05-29T09:15:17.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "Alan Warburton 动画短片《Image Empire》探讨 AI 模型中真实与虚拟的融合，基于研究项目并包含论文和卫星活动。"
+      "summary": "Alan Warburton推出动画短片《Image Empire》，以童话形式探讨当代AI模型中真实与虚拟的融合，并附带研究论文与卫星活动。"
     },
     {
       "sourceId": "aihub",
@@ -5564,7 +5586,7 @@
       "publishedAt": "2026-05-28T07:14:44.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "AIhub 5 月文摘回顾：AI 用于科学、彩票假说、世界模型、透明可信 AI 等话题。"
+      "summary": "AIhub五月摘要回顾：AI for science、彩票假说、世界模型、透明可信AI研究等主题的近期报道与活动。"
     },
     {
       "sourceId": "aihub",
@@ -5574,7 +5596,7 @@
       "publishedAt": "2026-05-27T10:03:11.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "密歇根大学研究显示，数百万用户每天咨询聊天机器人，若 AI 在回复中插入广告，用户可能难以察觉。"
+      "summary": "密歇根大学研究指出，数亿人每日使用AI聊天机器人，而机器人可能在回复中悄悄植入广告，用户很难察觉。"
     },
     {
       "sourceId": "aihub",
@@ -5584,7 +5606,7 @@
       "publishedAt": "2026-05-26T11:03:03.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "《The Good Robot》播客探讨数据中心未来与数字主权，嘉宾 Friederike von Franqué 讨论云基础设施的治理与控制。"
+      "summary": "播客《The Good Robot》邀请Friederike von Franqué探讨数据中心未来与数字主权，讨论云基础设施的治理与所有权问题。"
     },
     {
       "sourceId": "aihub",
@@ -5594,7 +5616,7 @@
       "publishedAt": "2026-05-22T10:49:47.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "AIhub 咖啡角邀请 Sanmay Das 等专家讨论世界模型定义及其潜力。"
+      "summary": "AIhub咖啡角邀请多位AI专家探讨世界模型：什么是世界模型，以及它们有哪些潜在应用。"
     },
     {
       "sourceId": "aihub",
@@ -5604,7 +5626,7 @@
       "publishedAt": "2026-05-21T18:08:00.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "Toby Walsh 撰文分析银行对 Anthropic 最新 AI 模型的担忧，引用银行劫匪 Willie Sutton 的话说明数据价值。"
+      "summary": "UNSW Sydney的Toby Walsh撰文分析：全球银行担忧Anthropic最新AI模型，因其可能被用于金融犯罪，一如大盗Sutton所言“因为钱在那里”。"
     },
     {
       "sourceId": "aihub",
@@ -5614,7 +5636,7 @@
       "publishedAt": "2026-05-20T15:27:39.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "Jonathan Frankle 接受访谈，讨论彩票假说及其实证方法，他曾凭此获 2023 年 AAAI/ACM 博士论文奖。"
+      "summary": "ACM SIGAI专访Jonathan Frankle，讨论彩票假说及其获得2023年AAAI/ACM博士论文奖后的研究与应用。"
     },
     {
       "sourceId": "aihub",
@@ -5624,7 +5646,7 @@
       "publishedAt": "2026-05-19T12:58:55.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "研究提出更快估算 AI 功耗的方法。预计到 2028 年，数据中心将消耗美国 12% 的电力。"
+      "summary": "由于AI增长，预计到2028年数据中心将消耗美国12%的电力。研究人员提出更快的AI功耗估算方法。"
     },
     {
       "sourceId": "aihub",
@@ -5634,7 +5656,7 @@
       "publishedAt": "2026-05-18T07:29:28.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "ARFBench 是一个基于真实事件的时间序列问答基准，旨在帮助工程师快速排查系统故障，每年损失超万亿美元。"
+      "summary": "系统故障每年造成超万亿美元损失。ARFBench是一个基于真实事故的时间序列问答基准，用于帮助工程师快速排查故障。"
     },
     {
       "sourceId": "aihub",
@@ -5644,7 +5666,7 @@
       "publishedAt": "2026-05-15T10:46:33.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "研究探讨联邦遗忘学习对数据隐私的影响，指出其在提升隐私的同时可能带来新的网络安全风险。"
+      "summary": "联邦遗忘（即从AI中移除用户数据）能否提升隐私？里贾纳大学等学者指出，这可能带来新的网络安全风险。"
     },
     {
       "sourceId": "aihub",
@@ -5654,7 +5676,7 @@
       "publishedAt": "2026-05-14T14:04:53.000Z",
       "category": "tech",
       "source": "AIhub",
-      "summary": "AIhub 回顾 AIES 2025 会议，总结关于大语言模型在临床和 human rights 背景下的讨论。"
+      "summary": "本文回顾AIES 2025会议，重点讨论了大语言模型在临床使用与人权背景下的对话与报告。"
     },
     {
       "sourceId": "aihub",
@@ -5798,7 +5820,8 @@
       "excerpt": "Scientists rethink their ideas after experiments. AI agents struggle to learn from evidence and recognize when an idea is obviously incorrect.",
       "publishedAt": "2026-05-27T13:00:00.000Z",
       "category": "tech",
-      "source": "Science News AI"
+      "source": "Science News AI",
+      "summary": "科学家会依据实验证据修正想法，但AI智能体难以从证据中学习，无法识别明显错误观点，引发对AI科学可信度的质疑。"
     },
     {
       "sourceId": "sciencenews-ai",
@@ -5807,7 +5830,8 @@
       "excerpt": "An AI trained to use thermal images to detect whale body heat could help warn ships at risk of colliding with the marine mammals.",
       "publishedAt": "2026-05-19T16:30:00.000Z",
       "category": "tech",
-      "source": "Science News AI"
+      "source": "Science News AI",
+      "summary": "旧金山湾的灰鲸面临船只碰撞风险，AI技术通过热成像检测鲸鱼体温，可帮助预警，减少伤害。"
     },
     {
       "sourceId": "sciencenews-ai",
@@ -5816,7 +5840,8 @@
       "excerpt": "Technologies, including chatbots, promise to make life easier. But removing the friction, or effort involved in thinking, has costs.",
       "publishedAt": "2026-05-14T15:00:00.000Z",
       "category": "tech",
-      "source": "Science News AI"
+      "source": "Science News AI",
+      "summary": "AI技术旨在减少生活中的摩擦与思考努力，但文章指出，适度的努力本身也有价值，完全消除可能带来代价。"
     },
     {
       "sourceId": "sciencenews-ai",
@@ -5980,7 +6005,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 1. 一项猪肾移植到人体的研究，修正了先前的错误，展示了跨物种器官移植的可能性和免疫挑战。"
+      "summary": "[生物] 1. 修正了一项猪肾移植到人体的研究，分析了其生理和免疫反应，为未来异种器官移植提供了关键参考。"
     },
     {
       "sourceId": "nature",
@@ -5991,7 +6016,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "材料",
-      "summary": "[材料] 新设备能嗅出秘密制造核弹材料的聚变反应堆，帮助监控核不扩散。"
+      "summary": "[材料] 新设备能“嗅出”聚变反应堆是否秘密生产核弹原料，可能用于监测核不扩散，提升全球安全。"
     },
     {
       "sourceId": "nature",
@@ -6002,7 +6027,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 向父母支付补助金改善了婴儿出生体重，表明经济支持对胎儿发育有积极影响。"
+      "summary": "[交叉] 给父母提供经济补贴有助于改善新生儿出生体重，对母婴健康有积极影响。"
     },
     {
       "sourceId": "nature",
@@ -6013,7 +6038,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "医学",
-      "summary": "[医学] 一种神秘肺病影响数百万人，小鼠实验显示新药有望治疗，带来希望。"
+      "summary": "[医学] 一种影响数百万人的神秘肺病，在小鼠实验中显示新药有治疗潜力，为患者带来新希望。"
     },
     {
       "sourceId": "nature",
@@ -6024,7 +6049,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 有军事应用的科学研究比纯民用研究被引用更多，凸显安全相关研究的学术影响力。"
+      "summary": "[交叉] 研究表明，有军事应用的科学论文被引用次数比纯民用研究更多，凸显军事科研对学术影响力的作用。"
     },
     {
       "sourceId": "nature",
@@ -6035,7 +6060,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 1. 本文探讨中国通讯作者数量创历史新高背后的原因，分析科研评价体系、合作模式和政策激励等因素的影响，揭示这一现象对学术生态的深远意义。"
+      "summary": "[交叉] 1. 本文探究中国通讯作者数量长期偏高的原因，分析科研评价体系和国际合作模式的影响，揭示这一现象背后的制度性因素。"
     },
     {
       "sourceId": "nature",
@@ -6046,7 +6071,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 本编辑表达关注声明针对一篇通过体内诱导蛋白水解鉴定DNA复制蛋白的功能蛋白质组学研究，指出可能存在的数据问题，提醒读者谨慎解读。"
+      "summary": "[生物] 本编辑声明对一篇利用体内诱导蛋白水解鉴定DNA复制蛋白的功能蛋白质组学研究提出关注，提醒读者该论文存在需进一步核实的问题。"
     },
     {
       "sourceId": "nature",
@@ -6057,7 +6082,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 本文探讨人工智能在科学招聘中的应用是福是祸，邀请参加免费网络研讨会，讨论AI如何影响人才选拔、公平性和效率，以及潜在风险。"
+      "summary": "[交叉] 人工智能在科学招聘中是敌是友？邀请您参加免费网络研讨会，探讨AI如何影响科研人才选拔的公平性与效率。"
     },
     {
       "sourceId": "nature",
@@ -6068,7 +6093,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 研究发现智能手机可通过捕捉皮肤微小颜色变化来测量心率，无需额外设备。该技术基于光学检测，为便捷健康监测提供新可能。"
+      "summary": "[交叉] 你的手机可通过检测皮肤颜色的微小变化来测量心率，这项技术无需额外设备，利用摄像头即可实时监测健康指标。"
     },
     {
       "sourceId": "nature",
@@ -6079,7 +6104,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 本回复论文针对《热带植被总初级生产力规模》一文提出不同观点，质疑其估算方法，强调热带植被碳吸收的复杂性，呼吁更精准模型。"
+      "summary": "[交叉] 回复关于热带植被总初级生产力规模的评论，本文通过修正数据和方法，重新评估了热带地区光合作用的碳吸收总量。"
     },
     {
       "sourceId": "nature",
@@ -6090,7 +6115,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 1. 热带植被总初级生产力的大小及其对全球碳循环的影响。"
+      "summary": "[交叉] 1. 研究估算了热带植被的总初级生产力，为理解全球碳循环和气候变化提供了关键数据。"
     },
     {
       "sourceId": "nature",
@@ -6101,7 +6126,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 一种天然缩肽抗生素通过结合细菌核糖体E位点抑制蛋白质合成。"
+      "summary": "[生物] 一种天然抗生素通过结合细菌核糖体的E位点抑制蛋白质合成，有望成为新型抗菌药物。"
     },
     {
       "sourceId": "nature",
@@ -6112,7 +6137,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 地球东西半球反照率呈对称性，揭示气候系统的重要平衡机制。"
+      "summary": "[地球/环境] 地球东西方向的反照率呈现对称性，这有助于改进气候模型，理解全球能量平衡。"
     },
     {
       "sourceId": "nature",
@@ -6123,7 +6148,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "物理",
-      "summary": "[物理] 木星弓形激波处的相对论电子加速现象，为理解宇宙高能粒子提供线索。"
+      "summary": "[物理] 研究发现木星弓形激波能加速电子至相对论能量，解释高能粒子在太阳系中的传播机制。"
     },
     {
       "sourceId": "nature",
@@ -6134,7 +6159,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] IDH突变胶质瘤进展中获取的遗传与细胞状态变化，阐明了肿瘤演化机制。"
+      "summary": "[生物] 研究揭示了IDH突变型胶质瘤进展中基因和细胞状态的变化，为靶向治疗提供新线索。"
     },
     {
       "sourceId": "nature",
@@ -6145,7 +6170,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究发现，撒哈拉以南非洲的采矿活动会引发大范围额外森林砍伐，加剧环境破坏，需制定更严格的矿业环保政策。"
+      "summary": "[交叉] 1. 研究揭示撒哈拉以南非洲的采矿活动会导致周边大面积额外森林砍伐，远超矿区本身范围，对生态系统造成严重破坏。"
     },
     {
       "sourceId": "nature",
@@ -6156,7 +6181,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 低温诱导的肽信号能帮助花粉抵抗寒冷，提高作物产量，为培育耐低温作物提供新思路。"
+      "summary": "[交叉] 发现植物在低温诱导下产生的特定肽信号能保护花粉抗逆性，确保作物产量稳定，为农业育种提供新思路。"
     },
     {
       "sourceId": "nature",
@@ -6167,7 +6192,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 大刍草基因可以增强玉米氮吸收，提高籽粒蛋白质含量，有助于培育高蛋白玉米品种。"
+      "summary": "[生物] 野生玉米中特定基因可提升氮素吸收效率，在保持产量的同时提高籽粒蛋白质含量，有望改良现代玉米品种。"
     },
     {
       "sourceId": "nature",
@@ -6178,7 +6203,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 特定细胞类型的遗传变异会影响炎症性肠病风险，为精准治疗提供新靶点。"
+      "summary": "[生物] 通过分析肠道不同细胞类型的遗传差异，发现特定细胞内的基因变异会显著增加炎症性肠病风险，为精准治疗提供新靶点。"
     },
     {
       "sourceId": "nature",
@@ -6189,7 +6214,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 玉米中的质体小球体是氮同化的重要场所，可提高氮利用效率，对玉米高产育种有意义。"
+      "summary": "[交叉] 研究揭示玉米细胞中“质体小球”作为独立隔室参与氮素同化过程，为作物氮利用效率改良提供了新的细胞生物学基础。"
     },
     {
       "sourceId": "nature",
@@ -6200,7 +6225,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 1. 分析了塑料包装分拣后回收利用的权衡关系，包括成本、效率与环境影响，为优化废塑管理提供依据。"
+      "summary": "[交叉] 1. 探讨塑料包装后分拣的利弊，分析其在回收效率与成本间的平衡，为优化回收策略提供参考。"
     },
     {
       "sourceId": "nature",
@@ -6211,7 +6236,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 研究发现精胺是内源性铁螯合剂，通过结合铁离子抑制铁死亡，揭示其在细胞保护中的新机制。"
+      "summary": "[交叉] 研究发现亚精胺是人体内天然铁螯合剂，能有效抑制铁死亡，为相关疾病治疗提供新思路。"
     },
     {
       "sourceId": "nature",
@@ -6222,7 +6247,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "材料",
-      "summary": "[材料] 在室温下，手性钙钛矿超晶格实现超荧光发射，为开发新型手性光电器件奠定基础。"
+      "summary": "[材料] 在室温下观察到钙钛矿超晶格产生手性超荧光，为新型光电器件发展开辟新途径。"
     },
     {
       "sourceId": "nature",
@@ -6233,7 +6258,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "化学",
-      "summary": "[化学] 在聚合物中引入机械响应交联，使其在受到高速冲击时更有效耗散能量，提升抗冲击性能。"
+      "summary": "[化学] 通过引入力敏交联，显著提升聚合物吸收高速冲击能量的能力，为防弹材料设计提供新方法。"
     },
     {
       "sourceId": "nature",
@@ -6244,7 +6269,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "生物",
-      "summary": "[生物] 肠道共生菌产生的乙酰胆碱能增强黏膜免疫教育，促进免疫系统对正常菌群的耐受与调节。"
+      "summary": "[生物] 肠道有益菌产生的乙酰胆碱能增强黏膜免疫教育，帮助免疫系统正常发育，揭示微生物与免疫的互动。"
     },
     {
       "sourceId": "nature",
@@ -6255,7 +6280,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究发现原子核的壳层结构会控制核子的短程配对行为，这对理解原子核内部相互作用有重要意义。"
+      "summary": "[交叉] 1. 原子核的内部结构决定了质子与中子如何短程配对，这一发现有助于理解核力和原子核性质。"
     },
     {
       "sourceId": "nature",
@@ -6266,7 +6291,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "物理",
-      "summary": "[物理] 利用马梅舍夫振荡器研制出高脉冲能量的集成锁模激光器，性能提升，有望用于精密测量和光纤通信。"
+      "summary": "[物理] 利用Mamyshev振荡器研制出高脉冲能量集成锁模激光器，为光通信和精密测量提供高效光源。"
     },
     {
       "sourceId": "nature",
@@ -6277,7 +6302,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "物理",
-      "summary": "[物理] LASER蛋白能感知溶酶体损伤信号，并招募ESCRT复合体进行修复，维持细胞健康，揭示了一种新的细胞修复机制。"
+      "summary": "[物理] LASER蛋白将溶酶体损伤信号与修复机制相连，指导细胞及时修补受损细胞器，维持细胞健康。"
     },
     {
       "sourceId": "nature",
@@ -6288,7 +6313,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "交叉",
-      "summary": "[交叉] 研究显示在公共资源分配中，鼓励合作与追求平等之间存在冲突，需要权衡不同目标以优化分配结果。"
+      "summary": "[交叉] 公共物品分配中，合作行为常与公平原则相冲突，研究揭示了两者权衡的内在机制。"
     },
     {
       "sourceId": "nature",
@@ -6299,7 +6324,7 @@
       "category": "research",
       "source": "Nature",
       "meta": "材料",
-      "summary": "[材料] 人类牙齿釉质纳米晶体的取向错乱程度随着摄入肉食和农业发展而增加，反映了饮食变化对牙齿微观结构的影响。"
+      "summary": "[材料] 人类从食肉到农业的饮食转变，导致牙釉质纳米晶体取向偏差增大，反映了饮食习惯对牙齿微观结构的影响。"
     },
     {
       "sourceId": "science",
@@ -6310,7 +6335,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 1. 探讨专利制度存在的缺陷和问题，指出当前系统亟需改进以更好地适应创新需求。"
+      "summary": "[交叉] 1. 探讨当前专利制度存在的缺陷，分析其对创新和社会的负面影响，呼吁进行根本性改革以应对现实需求。"
     },
     {
       "sourceId": "science",
@@ -6321,7 +6346,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 回顾一个关于进化的争议性观点提出50周年，讨论其对生物学研究的深远影响与持续引发的思考。"
+      "summary": "[交叉] 回顾一个50年前提出的进化观点，至今仍具震撼力，探讨其在现代生物学中的持续影响和科学意义。"
     },
     {
       "sourceId": "science",
@@ -6332,7 +6357,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 研究揭示竞争机制能帮助植物群落快速适应变暖边缘环境，为应对气候变化提供新视角。"
+      "summary": "[交叉] 通过模型植物群落实验发现，物种竞争能促进植物快速适应温暖环境边界，为理解气候变化下生态适应提供新视角。"
     },
     {
       "sourceId": "science",
@@ -6343,7 +6368,7 @@
       "category": "research",
       "source": "Science",
       "meta": "生物",
-      "summary": "[生物] 严重肥胖会改变心力衰竭患者心肌收缩蛋白的功能与排列，为疾病治疗提供新靶点。"
+      "summary": "[生物] 研究发现严重肥胖会改变心力衰竭患者心肌收缩蛋白的结构与功能，为治疗射血分数保留型心衰提供新方向。"
     },
     {
       "sourceId": "science",
@@ -6354,7 +6379,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 利用高分辨率卫星数据量化全球树木损失程度，分析农业扩张和林业活动是主要驱动因素。"
+      "summary": "[交叉] 利用高分辨率卫星数据精确量化全球树木覆盖损失规模，揭示农业扩张、森林砍伐等主要驱动因素。"
     },
     {
       "sourceId": "science",
@@ -6365,7 +6390,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究发现远程工作导致社交隔离，增加孤独感和抑郁风险，但适度安排社交活动可缓解心理健康问题。"
+      "summary": "[交叉] 1. 研究发现远程工作增加孤立感，对心理健康产生负面影响，需重视工作模式调整与社会联系维护。"
     },
     {
       "sourceId": "science",
@@ -6376,7 +6401,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 人类天生具有合作倾向，合作行为源于互惠互利和群体认同，这对理解社会发展和解决集体问题至关重要。"
+      "summary": "[交叉] 研究揭示人类合作行为的内在本质，表明合作是进化形成的本能，促进社会发展和群体生存。"
     },
     {
       "sourceId": "science",
@@ -6387,7 +6412,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 美国野火频繁发生，排放大量污染物，导致部分地区臭氧浓度不降反升，阻碍了空气质量改善目标的实现。"
+      "summary": "[交叉] 美国山火频发导致臭氧污染反弹，逆转了此前空气质量改善成果，对公众健康构成新威胁。"
     },
     {
       "sourceId": "science",
@@ -6398,7 +6423,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 科学家发现一种新型光催化反应，利用二氧化碳作为氧源，高效将烯烃转化为有用化学品，助力绿色合成。"
+      "summary": "[交叉] 科学家开发光催化技术，利用二氧化碳作为氧源将烯烃高效转化为有用化学品，实现低碳转化新路径。"
     },
     {
       "sourceId": "science",
@@ -6409,7 +6434,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 实验表明，学习后睡眠中大脑会主动重放记忆，动态调整睡眠深度和时长，以优化记忆巩固和身体恢复。"
+      "summary": "[交叉] 研究发现睡眠中记忆再激活过程能根据白天经历动态调节睡眠深度，帮助巩固重要记忆。"
     },
     {
       "sourceId": "science",
@@ -6420,7 +6445,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 1. 摘要：研究在1纳米尺度下成功生长出扶手椅型二硫化钼纳米管，为开发超小尺寸电子器件提供了新思路。"
+      "summary": "[交叉] 1. 研究在1纳米极限下控制生长出扶手椅型二硫化钼纳米管，为构建超小尺寸电子器件提供了新材料方案。"
     },
     {
       "sourceId": "science",
@@ -6431,7 +6456,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 摘要：开发了一种新的自由基反应方法，实现了烷基与烷基的直接连接并保持分子结构不变，为药物合成提供高效工具。"
+      "summary": "[交叉] 开发一种新型自由基反应，能高效连接烷基并保持分子立体构型，为复杂药物分子合成提供精准工具。"
     },
     {
       "sourceId": "science",
@@ -6442,7 +6467,7 @@
       "category": "research",
       "source": "Science",
       "meta": "能源",
-      "summary": "[能源] 摘要：通过添加极少量的铬元素，大幅提升了硒化铅热电材料的冷却性能，为绿色制冷技术提供新方案。"
+      "summary": "[能源] 在硒化铅材料中添加微量铬，大幅提升热电制冷性能，实现全硒化铅体系的高效制冷，有望用于精密温控。"
     },
     {
       "sourceId": "science",
@@ -6453,7 +6478,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 摘要：实验发现大黄蜂能自发完成复杂任务解决问题，表明昆虫具有意外的高级认知能力。"
+      "summary": "[交叉] 实验发现熊蜂能通过观察和尝试解决不熟悉的难题，表明其具备自发解决问题的能力，挑战了传统认知。"
     },
     {
       "sourceId": "science",
@@ -6464,7 +6489,7 @@
       "category": "research",
       "source": "Science",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 摘要：研究发现过去40年全球红树林面积不降反升，出现意外恢复，为生态保护带来积极信号。"
+      "summary": "[地球/环境] 分析近四十年卫星数据发现，全球红树林面积先减少后意外增长，显示自然恢复力和保护政策的积极效果。"
     },
     {
       "sourceId": "science",
@@ -6475,7 +6500,7 @@
       "category": "research",
       "source": "Science",
       "meta": "天文",
-      "summary": "[天文] 1. 通过恒星运动分析，成功测量了一个处于红移2的休眠黑洞质量，为研究早期宇宙黑洞演化提供了新方法。"
+      "summary": "[天文] 1. 利用恒星动力学测量了红移2处一个不活跃黑洞的质量，为研究早期宇宙黑洞演化提供了新方法。"
     },
     {
       "sourceId": "science",
@@ -6486,7 +6511,7 @@
       "category": "research",
       "source": "Science",
       "meta": "生物",
-      "summary": "[生物] 植物免疫受体通过模仿病原体关键毒力蛋白的结构，诱骗病原体使其被识别，揭示了一种巧妙的防御策略。"
+      "summary": "[生物] 植物免疫受体通过分子模拟病原体毒力靶标，揭示了植物如何“伪装”成病原体目标来激活免疫防御。"
     },
     {
       "sourceId": "science",
@@ -6497,7 +6522,7 @@
       "category": "research",
       "source": "Science",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 研究提出景观效率前沿框架，用于在保护生物多样性、缓解气候问题和提升经济价值之间寻找最优土地利用方案。"
+      "summary": "[地球/环境] 提出景观效率前沿概念，权衡生物多样性、气候缓解和经济效益，为土地利用规划提供优化方案。"
     },
     {
       "sourceId": "science",
@@ -6508,7 +6533,7 @@
       "category": "research",
       "source": "Science",
       "meta": "生物",
-      "summary": "[生物] 本期“其他期刊”栏目汇总了多领域最新研究亮点，涵盖材料、生态、医学等前沿进展。"
+      "summary": "[生物] 本期其他期刊摘要：涵盖多学科最新研究进展，包括生物、物理、医学等领域的重要发现和突破。"
     },
     {
       "sourceId": "science",
@@ -6519,7 +6544,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 探讨科学界中“相信自己属于某个群体”的心理因素，强调归属感对科研人员职业发展和创新的重要性。"
+      "summary": "[交叉] 探讨归属感信念如何影响个人在科学领域的参与和坚持，强调身份认同对科研职业发展的关键作用。"
     },
     {
       "sourceId": "science",
@@ -6530,7 +6555,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 1. 摘要：研究发现野火烟雾中的臭氧会增加死亡率，提醒人们关注这种污染对健康的危害。"
+      "summary": "[交叉] 1. 研究发现野火烟雾中的臭氧会增加死亡率，提醒人们注意森林大火对健康的长期危害。"
     },
     {
       "sourceId": "science",
@@ -6541,7 +6566,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 摘要：论文解读超加工食品与肥胖的关系，指出不能简单归因于加工度，还需考虑营养成分和饮食模式。"
+      "summary": "[交叉] 超加工食品与肥胖的关系被重新审视，现有证据并不简单，需要谨慎解读因果关系。"
     },
     {
       "sourceId": "science",
@@ -6552,7 +6577,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 摘要：新研究表明，坏的记忆会干扰睡眠，而差的睡眠又会加深记忆，形成负循环，提示改善睡眠有助于摆脱负面记忆。"
+      "summary": "[交叉] 坏记忆会干扰睡眠，睡眠不好又加深坏记忆，形成恶性循环，影响心理健康。"
     },
     {
       "sourceId": "science",
@@ -6563,7 +6588,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 摘要：现代工作方式削弱了职场社交网络，导致人际关系疏离，影响员工心理健康和效率，呼吁重建工作社交空间。"
+      "summary": "[交叉] 现代工作环境缺少社交互动，以往工作中自然形成的社交网络正在消失，影响人际关系。"
     },
     {
       "sourceId": "science",
@@ -6574,7 +6599,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 摘要：水上光伏发电虽有益处，但对其生态影响和系统优化存在知识空白，限制了实际效益，需加强研究来充分发挥优势。"
+      "summary": "[交叉] 水上光伏（水伏）的发展存在知识空白，这些未知因素可能削弱其预期效益，亟需研究填补。"
     },
     {
       "sourceId": "science",
@@ -6585,7 +6610,7 @@
       "category": "research",
       "source": "Science",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 1. 研究发现，葡萄酒产业可以作为气候变化对农业影响的预警信号，帮助农民提前应对全球变暖带来的挑战。"
+      "summary": "[地球/环境] 1. 葡萄酒产业因气候变暖面临品质下降等问题，这为全球农业应对气候变化敲响了警钟，提示需尽快调整种植策略。"
     },
     {
       "sourceId": "science",
@@ -6596,7 +6621,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 中国地下基础设施建设对生态系统和城市发展产生双重影响，需平衡经济发展与环境保护的关系。"
+      "summary": "[交叉] 中国大规模地下基础设施建设（如地铁、管道）对地面沉降、水文地质及生态环境产生显著影响，需加强科学规划与监测。"
     },
     {
       "sourceId": "science",
@@ -6607,7 +6632,7 @@
       "category": "research",
       "source": "Science",
       "meta": "医学",
-      "summary": "[医学] 本文是对此前关于“陆地生态系统入侵影响全球格局与预测”研究论文的正式勘误，修正了数据和分析中的部分错误。"
+      "summary": "[医学] 对之前关于“陆地生态系统入侵影响”研究论文中出现的错误进行勘误，更正了部分数据分析与结论。"
     },
     {
       "sourceId": "science",
@@ -6618,7 +6643,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 本文是对此前关于“防止低收缩性引起成纤维细胞扩张缓解扩张型心肌病”研究论文的正式勘误，更正了关键实验数据。"
+      "summary": "[交叉] 对之前关于“预防心肌收缩无力引起成纤维细胞扩张缓解扩张型心肌病”研究论文中的错误进行勘误。"
     },
     {
       "sourceId": "science",
@@ -6629,7 +6654,7 @@
       "category": "research",
       "source": "Science",
       "meta": "交叉",
-      "summary": "[交叉] 科学家提出在太空中部署类似“安全气囊”的装置，用来阻挡太阳风暴对地球电子设备和电网的破坏。"
+      "summary": "[交叉] 科学家提出在轨道上部署类似安全气囊的装置，通过磁场偏转或吸收太阳风暴粒子，保护地球卫星与电力系统。"
     },
     {
       "sourceId": "nature-chem",
@@ -6640,7 +6665,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "化学",
-      "summary": "[化学] 1. 研究了一种双分子马达中光化学转子偏转的新机制，通过控制分子转动方向实现精确运动，为纳米机器设计提供新思路。"
+      "summary": "[化学] 1. 研究了一种新型双分子马达中的光化学转子偏置机制，通过光驱动实现定向旋转，为分子机器设计提供新思路。"
     },
     {
       "sourceId": "nature-chem",
@@ -6651,7 +6676,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "化学",
-      "summary": "[化学] 开发了一种通过结构重组和质子转移驱动的新型超快分子马达，其运动速度显著提升，有望应用于智能材料领域。"
+      "summary": "[化学] 报道了一种通过结构重组和质子转移驱动的超强分子马达，能高效产生定向运动，在纳米技术中有应用前景。"
     },
     {
       "sourceId": "nature-chem",
@@ -6662,7 +6687,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "化学",
-      "summary": "[化学] 提出解锁拥挤三维分子结构的策略，用于发现新药物，解决了传统方法难以合成复杂立体化合物的难题。"
+      "summary": "[化学] 开发了新方法解锁拥挤的三维分子结构，可创造复杂药物分子，加速新药发现过程。"
     },
     {
       "sourceId": "nature-chem",
@@ -6673,7 +6698,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "化学",
-      "summary": "[化学] 利用阳离子引导组装和逐步功能化构建了超高质子传导的聚阴离子-有机框架，实现了大功率燃料电池的高效运行。"
+      "summary": "[化学] 利用阳离子导向组装和逐步功能化，构建了高性能多阴离子有机框架，能用于高功率燃料电池。"
     },
     {
       "sourceId": "nature-chem",
@@ -6684,7 +6709,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "材料",
-      "summary": "[材料] 成功制备了独立式超薄二维肽晶体，这种新型材料具有优异的柔韧性和稳定性，在生物传感器和纳米器件中前景广阔。"
+      "summary": "[材料] 制备了自由站立超薄二维肽晶体，这种材料具有独特结构和性能，在生物纳米领域有潜在应用。"
     },
     {
       "sourceId": "nature-chem",
@@ -6695,7 +6720,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "化学",
-      "summary": "[化学] 1. 研究通过三线态氮宾介导的环扩展反应，实现了高立体选择性地合成结构受阻的环丁烷氨基腈，为复杂环状分子构建提供了新方法。"
+      "summary": "[化学] 1. 提出一种模块化方法，通过三重态氮宾介导的环扩张，非对映选择性合成受阻环丁烷氨基腈，简化了这类重要分子的制备。"
     },
     {
       "sourceId": "nature-chem",
@@ -6706,7 +6731,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "交叉",
-      "summary": "[交叉] 开发了一种温和的酮到酮基自由基转化策略，在无外加氧化还原剂条件下实现酮与烯烃的偶联，为高效构建碳-碳键开辟了新途径。"
+      "summary": "[交叉] 开发了温和的氧化还原中性酮-烯烃偶联反应，通过将酮转化为类似酮基的自由基，实现了高效、绿色合成。"
     },
     {
       "sourceId": "nature-chem",
@@ -6717,7 +6742,7 @@
       "category": "research",
       "source": "Nature Chemistry",
       "meta": "能源",
-      "summary": "[能源] 设计了一种可逆自组装的聚合物固态电解质，既能保障锂电池稳定运行，又能在电池退役后方便回收利用，有望推动绿色电池技术发展。"
+      "summary": "[能源] 设计可逆自组装的聚合物固体电解质，既能提升锂电池性能，又能方便回收，为可持续能源存储提供新方案。"
     },
     {
       "sourceId": "cell",
@@ -6728,7 +6753,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 两项研究借助空间转录组学技术推翻嗅觉受体长期以来的“分区”模型，发现受体沿连续梯度呈可重复分布，重新界定了嗅觉感知的分子图谱。"
+      "summary": "[生物] 两项空间转录组学研究推翻嗅觉受体带状模型，发现受体沿连续梯度有序分布，重塑了对嗅觉地图的认知。"
     },
     {
       "sourceId": "cell",
@@ -6739,7 +6764,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 独立团队发现部分长新冠患者体内的自身抗体可直接引发疼痛、疲劳等症状，为理解这一复杂疾病的发病机制提供了关键线索。"
+      "summary": "[生物] 研究发现部分长新冠患者的自身抗体可直接引起疼痛、疲劳等症状，为理解异质性疾病机制提供了关键线索。"
     },
     {
       "sourceId": "cell",
@@ -6750,7 +6775,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 1. 研究发现B细胞在运动期间分泌TGF-β1，通过调节肝脏谷氨酰胺代谢，增加血液和肌肉中的谷氨酸，从而促进肌肉运动能力，揭示了B细胞在运动生理中的新作用。"
+      "summary": "[生物] 1. 研究发现B细胞在运动时能通过分泌TGF-β1调节肝脏代谢，增加血液和肌肉中的谷氨酸，从而提升运动能力。这揭示了B细胞独立于免疫功能的意外作用。"
     },
     {
       "sourceId": "cell",
@@ -6761,7 +6786,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "化学",
-      "summary": "[化学] 衰老过程中，细胞逐渐失去原有身份而获得间充质特征，这种“间充质漂移”是驱动衰老多种标志的共通机制，有望成为延缓衰老的新靶点。"
+      "summary": "[化学] 衰老过程中，细胞逐渐失去原有身份，转而获得间质细胞特征。这种“间质漂移”融合并加剧了衰老的各种标志，可能成为延缓衰老的新靶点。"
     },
     {
       "sourceId": "cell",
@@ -6772,7 +6797,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "医学",
-      "summary": "[医学] 新冠长期症状患者的IgG抗体转移给小鼠后，会诱发疼痛行为并损伤神经纤维，提示自身抗体与神经系统症状存在因果关系。"
+      "summary": "[医学] 将长期新冠患者的抗体注入小鼠，小鼠出现疼痛行为并伴随神经纤维损伤。实验表明，自身抗体与新冠后遗症的神经症状存在直接因果关联。"
     },
     {
       "sourceId": "cell",
@@ -6783,7 +6808,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 针对I型干扰素的中和性自身抗体，源于长期生发中心亲和力成熟驱动的预存自身免疫，是导致人类严重病毒感染的关键因素。"
+      "summary": "[生物] 针对I型干扰素的中和性自身抗体，源于机体先前的自身免疫反应并经过长期亲和力成熟。这类抗体与人类严重病毒感染密切相关，AI分析帮助揭示了其形成机制。"
     },
     {
       "sourceId": "cell",
@@ -6794,7 +6819,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] B细胞通过分泌TGF-β1调节肝脏谷氨酸代谢，促进肌肉功能；B细胞缺乏会限制运动能力，揭示了免疫系统与肌肉代谢的新联系。"
+      "summary": "[生物] B细胞通过分泌TGF-β1，促使肝脏将谷氨酰胺转化为谷氨酸，提升肌肉中谷氨酸水平，从而增强运动能力。缺乏B细胞会限制运动表现。"
     },
     {
       "sourceId": "cell",
@@ -6805,7 +6830,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 1. 哺乳动物皮肤胚胎期能再生，但出生后伤口纤维母细胞导致过度神经支配，抑制再生能力。减少损伤部位神经可恢复再生潜力。"
+      "summary": "[生物] 1. 研究发现哺乳动物皮肤出生后失去再生能力，是因为伤口处成纤维细胞导致过度神经支配。减少神经支配可恢复再生潜力，为治疗提供新思路。"
     },
     {
       "sourceId": "cell",
@@ -6816,7 +6841,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 通过SAMENT方法标记骨转移微环境，发现ERα⁺巨噬细胞阻止T细胞浸润，促进转移。揭示了免疫排除微环境在骨转移中的作用。"
+      "summary": "[生物] 新方法SAMENT能无偏标记骨转移微环境，发现一种特殊巨噬细胞通过阻止免疫细胞进入，促进癌细胞扩散，为治疗骨转移提供新靶点。"
     },
     {
       "sourceId": "cell",
@@ -6827,7 +6852,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 干旱导致根中链霉菌富集，并非植物“求救”，而是宿主抑制铁吸收和免疫的结果。菌间相互作用决定了菌株的生长效益。"
+      "summary": "[生物] 干旱导致植物根部富集链霉菌，并非植物主动“求救”，而是通过抑制自身免疫和铁吸收。菌群内部相互作用决定最终是否有利植物生长。"
     },
     {
       "sourceId": "cell",
@@ -6838,7 +6863,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 通过翻译谱分析微生物资源分配，建立MIND框架预测竞争和底物偏好，为设计靶向益生元/益生菌提供理性方法。"
+      "summary": "[生物] 通过分析微生物的蛋白质合成，提出MIND框架预测微生物间的竞争和食物偏好，从而设计针对性的益生元和益生菌，精准调控肠道菌群。"
     },
     {
       "sourceId": "cell",
@@ -6849,7 +6874,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 大规模蛋白质组基因组研究发现影响循环蛋白水平的遗传位点，揭示调控网络的通路和细胞类型，为疾病机制和治疗提供新见解。"
+      "summary": "[生物] 大规模多队列研究找到影响血液蛋白水平的基因位点，揭示相关细胞类型和信号通路，为疾病诊断和药物开发提供重要线索。"
     },
     {
       "sourceId": "cell",
@@ -6860,7 +6885,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 1. 研究发现鼻子里的嗅觉神经元像地图一样排列，每个神经元有特定位置，这决定了它们嗅什么气味，并且与大脑中的嗅觉地图完美对齐。"
+      "summary": "[生物] 1. 研究发现鼻子中嗅觉神经元的位置决定了它选择哪种气味受体，从而在鼻子和大脑中形成精确对齐的气味图谱。"
     },
     {
       "sourceId": "cell",
@@ -6871,7 +6896,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 小鼠嗅觉系统研究绘制了神经元分布和投射的完整图谱，发现社交气味在特定脑区被检测，揭示了嗅觉的精确空间组织。"
+      "summary": "[生物] 通过绘制小鼠嗅觉神经元分布和投射图谱，揭示了精确的空间结构，并找到了社交气味激活的特定脑区。"
     },
     {
       "sourceId": "cell",
@@ -6882,7 +6907,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 肌肉细胞发育时，核膜会形成小泡把很长的RNA运出细胞核。UIF蛋白负责装载货物，ESCRT-III蛋白帮助小泡形成，这是大分子RNA运输的新途径。"
+      "summary": "[生物] 肌肉发育时，核内膜会出芽包裹极长的基因转录本并输出细胞核，UIF蛋白引导RNA进入，ESCRT-III帮助完成运输，这是一种新的大分子输出方式。"
     },
     {
       "sourceId": "cell",
@@ -6893,7 +6918,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "化学",
-      "summary": "[化学] 科学家用纳米颗粒长期追踪活细胞中的ErbB受体，发现HER2和HER3会自己配对，并揭示了癌症突变和配体如何影响受体结合，为靶向治疗提供新思路。"
+      "summary": "[化学] 研究用上转换纳米颗粒长期追踪活细胞中的ErbB受体，发现HER2和HER3会自己组成一对，并揭示了癌变突变和配体如何改变这种配对。"
     },
     {
       "sourceId": "cell",
@@ -6904,7 +6929,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 研究设计了一种新型大麻素受体激动剂，只激活特定信号通路产生镇痛效果，避免传统大麻素的副作用，为下一代非阿片类止痛药奠定基础。"
+      "summary": "[生物] 通过合理设计只激活Gi信号通路的大麻素受体激动剂，既止痛又避免了副作用，为开发新一代非阿片类药物提供了思路。"
     },
     {
       "sourceId": "cell",
@@ -6915,7 +6940,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "化学",
-      "summary": "[化学] 1. 研究人员通过模拟蛋白自身抑制机制，成功发现能激活PAK1酶的小分子药物，为开发新型激活型疗法提供新思路。"
+      "summary": "[化学] 1. 研究人员通过肽引导策略，发现能激活抑癌蛋白PAK1的小分子药物，为癌症治疗提供新途径。"
     },
     {
       "sourceId": "cell",
@@ -6926,7 +6951,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 研究开发了电磁场诱导的基因开关系统，可通过电磁波远程控制体内基因表达，有望用于抗衰老、阿尔茨海默病等治疗。"
+      "summary": "[生物] 开发出电磁场诱导的基因开关，可远程精准控制基因表达，用于抗衰老和阿尔茨海默病等研究。"
     },
     {
       "sourceId": "cell",
@@ -6937,7 +6962,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "化学",
-      "summary": "[化学] 研究建立了小鼠全身器官和细胞类型的高清图谱平台，可全面分析组织结构和疾病反应，助力生物医学研究。"
+      "summary": "[化学] 建立可扩展的平台，全面绘制小鼠全身各器官和细胞类型的分子图谱，助力疾病机制分析。"
     },
     {
       "sourceId": "cell",
@@ -6948,7 +6973,7 @@
       "category": "research",
       "source": "Cell",
       "meta": "生物",
-      "summary": "[生物] 研究通过移植封装好的线粒体，成功缓解了线粒体功能障碍和帕金森病模型中的症状，为疾病治疗提供新方法。"
+      "summary": "[生物] 将封装好的线粒体移植到体内，可有效改善线粒体功能障碍及帕金森病模型的症状。"
     },
     {
       "sourceId": "pnas",
@@ -6959,7 +6984,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 本期期刊汇集了多项前沿研究成果，涵盖基因调控、疾病模型、细胞治疗等领域，展示了生命科学最新进展。"
+      "summary": "[交叉] 本期文章介绍了多个前沿成果，包括药物发现、基因调控、系统图谱和疾病治疗等。"
     },
     {
       "sourceId": "pnas",
@@ -6970,7 +6995,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 1. 研究发现植物通过多倍体化（基因组加倍）可以增强对干旱、病害等环境压力的适应能力，为培育抗逆作物提供新思路。"
+      "summary": "[生物] 1. 研究发现，植物基因组加倍（多倍体）能增强对干旱、病虫害等胁迫的耐受性，为培育更抗逆的农作物提供重要进化线索。"
     },
     {
       "sourceId": "pnas",
@@ -6981,7 +7006,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 生物在有毒物质、病原体等压力下常发生基因组加倍，这既有助抵抗压力，也可能带来生长代价，需权衡利弊。"
+      "summary": "[地球/环境] 当植物遭遇毒素、病原体或物理伤害时，常会触发全基因组加倍作为应激反应，这种适应机制既有助生存也可能带来生长代价。"
     },
     {
       "sourceId": "pnas",
@@ -6992,7 +7017,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 利用四倍体棉花等进化模型，科学家揭示多倍体如何帮助作物适应气候变化，为培育气候韧性作物提供重要借鉴。"
+      "summary": "[地球/环境] 借鉴异源四倍体棉花的进化经验，利用多倍体技术可培育耐气候变化的作物，为应对全球变暖提供新的育种策略。"
     },
     {
       "sourceId": "pnas",
@@ -7003,7 +7028,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "物理",
-      "summary": "[物理] 2025年诺贝尔物理学奖授予三位科学家，表彰他们发现宏观量子隧穿效应，为超导量子计算等前沿技术奠定基础。"
+      "summary": "[物理] 三位科学家因发现宏观量子隧穿效应获得2025年诺贝尔物理学奖，该发现推动了超导量子计算等尖端技术的发展。"
     },
     {
       "sourceId": "pnas",
@@ -7014,7 +7039,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 当前生态学领域尚不具备充分应用人工智能的条件，盲目使用AI可能导致错误结论，需要谨慎推进技术与学科的融合。"
+      "summary": "[交叉] 当前生态学领域尚不具备成熟条件大规模应用人工智能，盲目依赖AI可能忽视关键生态过程和现场数据的重要性。"
     },
     {
       "sourceId": "pnas",
@@ -7025,7 +7050,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 1. 研究发现，即使视网膜退化区域周围残留的感光细胞，也会改变电子假体对退化视网膜的刺激效果，影响视力恢复。"
+      "summary": "[生物] 1. 残余的光感受器会改变退化视网膜对电刺激的反应，影响人工视觉假体的效果。这一发现对改善老年性黄斑变性患者的视觉修复很有意义。"
     },
     {
       "sourceId": "pnas",
@@ -7036,7 +7061,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 人类活动（如农业施肥和城市化）会显著放大全球小型水体的温室气体排放，加剧气候变化，这些水体在碳循环中常被忽视。"
+      "summary": "[地球/环境] 人类活动，特别是农业施肥和城市化，显著放大了全球小型水体的温室气体排放。研究提醒我们，这些被忽视的小型水体在气候变化中起重要作用。"
     },
     {
       "sourceId": "pnas",
@@ -7047,7 +7072,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 通过分析东非最早牧民的骨骼同位素，发现其饮食多样性在从采集狩猎转向畜牧过程中发生明显变化，体现了不同食物来源的融合。"
+      "summary": "[交叉] 通过对古代人骨同位素分析，发现东非最早的牧民饮食相当多样，既吃野生食物也吃家养产物。这揭示了从采集狩猎到畜牧生产的饮食变化过程。"
     },
     {
       "sourceId": "pnas",
@@ -7058,7 +7083,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 北极生态系统在6600万年前恐龙灭绝前就影响了哺乳动物的扩散和多样化，阿拉斯加化石证据表明极地曾是关键进化通道。"
+      "summary": "[生物] 晚白垩世北极生态系统促进了哺乳动物的扩散和多样化，在恐龙灭绝前就塑造了它们的演化。这表明极地并非演化死胡同，而是连接大陆的重要通道。"
     },
     {
       "sourceId": "pnas",
@@ -7069,7 +7094,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 竹节虫中一种介于有性生殖和孤雌生殖之间的“杂种生殖”方式，可保留一半基因组并消除另一半，这可能是无性生殖进化的中间步骤。"
+      "summary": "[生物] 竹节虫的杂交发生是一种介于有性生殖和孤雌生殖之间的特殊繁殖方式。研究揭示了这种半克隆遗传的中间步骤，有助于理解无性生殖的演化过程。"
     },
     {
       "sourceId": "pnas",
@@ -7080,7 +7105,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 1. 研究隐球菌titan细胞如何通过减数分裂相关基因降低多倍体，为理解感染持续机制提供新线索。"
+      "summary": "[生物] 1. 研究发现，隐球菌巨大细胞通过类似减数分裂的基因降低染色体数量以产生后代，揭示了真菌在感染中持久存在的新机制。"
     },
     {
       "sourceId": "pnas",
@@ -7091,7 +7116,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 多倍化作为宏观突变重塑生物性状和生态关系，具有推动生物经济发展的潜力。"
+      "summary": "[生物] 多倍化是基因组加倍产生的大突变，能改变物种大小和特征，推动生物进化并具有重要的农业经济潜力。"
     },
     {
       "sourceId": "pnas",
@@ -7102,7 +7127,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 提出八项设计原则，推动土地保护项目在环境、经济和公平方面同步成功。"
+      "summary": "[地球/环境] 研究提出八项兼顾环保、经济和公平的土地保护设计原则，为可持续发展项目提供实用指导。"
     },
     {
       "sourceId": "pnas",
@@ -7113,7 +7138,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 构建大规模框架估算1985-2023年土壤碳、氮、酸碱度和盐度变化，助力土壤可持续管理。"
+      "summary": "[地球/环境] 研究建立大规模框架估算近40年全球土壤碳、氮、pH和盐度变化，清晰揭示人类活动与气候对土壤健康的影响。"
     },
     {
       "sourceId": "pnas",
@@ -7124,7 +7149,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "地球/环境",
-      "summary": "[地球/环境] 通过分析俯冲带热状态变化，揭示俯冲作用在地球表面长期氧化进程中的关键调控作用。"
+      "summary": "[地球/环境] 分析显示，俯冲带热状态变化调控地球大气长期氧化过程，为理解氧气起源提供了关键新线索。"
     },
     {
       "sourceId": "pnas",
@@ -7135,7 +7160,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究发现，随着年龄增长，大脑需要调动更多皮层资源来维持静态平衡，这解释了老年人平衡能力下降的原因。"
+      "summary": "[交叉] 1. 研究表明，衰老会占用更多大脑皮层资源来维持身体平衡，揭示了老年人平衡能力下降的神经机制。"
     },
     {
       "sourceId": "pnas",
@@ -7146,7 +7171,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "医学",
-      "summary": "[医学] 研究提出一种简单环保的方法，利用米纸作为吸附剂从工业废料中回收黄金，为贵金属回收提供了可持续解决方案。"
+      "summary": "[医学] 研究开发了一种环保简单的方法，将宣纸转化为吸附剂从工业废料中回收黄金，有助于资源可持续利用。"
     },
     {
       "sourceId": "pnas",
@@ -7157,7 +7182,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 研究表明，中国的独生子女政策通过扩大不同家庭的生育率差异，加剧了代际之间的经济不平等，影响了后代发展机会。"
+      "summary": "[生物] 研究发现，中国的独生子女政策因不同家庭生育率差异，加剧了代际之间的经济不平等，不利于弱势儿童。"
     },
     {
       "sourceId": "pnas",
@@ -7168,7 +7193,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 研究开发了新方法预测蛋白质的两种相变倾向——淀粉样聚集和液-液相分离，有助于理解阿尔茨海默病等疾病的机制。"
+      "summary": "[生物] 新工具能预测蛋白质发生聚集或相分离的倾向，有助于理解阿尔茨海默病等疾病的发生机制。"
     },
     {
       "sourceId": "pnas",
@@ -7179,7 +7204,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 研究指出，理性谄媚者为了个人利益而迎合领导者，可能导致灾难性决策，因此领导者应谨慎选择诚实顾问。"
+      "summary": "[交叉] 研究指出，理性顾问可能为个人利益迎合领导，增加决策失误和灾难性风险，警示组织需注意用人。"
     },
     {
       "sourceId": "pnas",
@@ -7190,7 +7215,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 1. 基于决策神经科学，提出一种意识思考的神经生物学解释，揭示了非意识思考如何转变为意识思考的关键过程。"
+      "summary": "[交叉] 1. 这项研究从神经科学角度解释思考和意识的关系，提出想法如何从无意识转变为有意识的具体过程，为理解决策机制提供新视角。"
     },
     {
       "sourceId": "pnas",
@@ -7201,7 +7226,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "医学",
-      "summary": "[医学] 聋人和听力正常者阅读能力均与视觉言语引发的抽象音韵神经表征相关，这为聋儿阅读困难提供了新视角。"
+      "summary": "[医学] 研究发现，无论聋人还是听力正常者，阅读能力都与大脑处理视觉语音形成的抽象音位表征有关，这有助于解释聋童阅读困难的成因。"
     },
     {
       "sourceId": "pnas",
@@ -7212,7 +7237,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 微管切断酶在纳米损伤处提取并修复微管蛋白，形成修复热点，从而调节微管修复频率和细胞动态。"
+      "summary": "[生物] 微管切割酶会在损伤位点提取旧微管蛋白并补充新蛋白，这一过程影响微管修复频率和关键蛋白寿命，对细胞功能维持很重要。"
     },
     {
       "sourceId": "pnas",
@@ -7223,7 +7248,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 突触和神经通路冗余使线虫感觉运动回路在遗传干扰下仍稳健，确保信息有效传递并增强逃生能力。"
+      "summary": "[生物] 线虫的感觉运动反射依赖多条冗余的神经通路，即使部分基因受损也能保证逃跑反应正常，揭示了神经系统应对扰动的稳健性。"
     },
     {
       "sourceId": "pnas",
@@ -7234,7 +7259,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 电压门控质子通道Hv1激活时出现负水合收缩区，这一结构解释了其调控生理过程的关键机制。"
+      "summary": "[生物] 研究揭示了Hv1质子通道在激活状态下存在一个特殊收缩区域（负水化），该区域是通道调控酸碱平衡和免疫反应的关键结构。"
     },
     {
       "sourceId": "pnas",
@@ -7245,7 +7270,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "交叉",
-      "summary": "[交叉] 1. 研究发现人们常忽视社会环境中少数群体的缺席，即使这种缺失意义重大。这种“盲视”源于认知偏差，可能加剧不平等问题。"
+      "summary": "[交叉] 1. 人们常忽视少数群体在社交场合的缺席，这种“盲点”会导致重要问题的被忽略，揭示了社会认知中的偏差。"
     },
     {
       "sourceId": "pnas",
@@ -7256,7 +7281,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "能源",
-      "summary": "[能源] 研究利用原子层沉积技术制备成核层，有效控制水系锌电池中锌的沉积形态，抑制析氢副反应，显著延长电池循环寿命，推动安全储能发展。"
+      "summary": "[能源] 用原子层沉积技术控制锌电池的晶体生长，能有效抑制氢气产生，大幅提升水系锌电池的循环寿命和安全性。"
     },
     {
       "sourceId": "pnas",
@@ -7267,7 +7292,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 研究揭示HHIP基因在气道上皮伤口愈合中发挥动态作用，其功能异常可能增加慢性阻塞性肺病（COPD）的易感性，为治疗提供新靶点。"
+      "summary": "[生物] 研究发现HHIP基因在肺部伤口愈合中发挥关键动态作用，其功能异常可能增加慢阻肺易感性，为疾病机制提供新线索。"
     },
     {
       "sourceId": "pnas",
@@ -7278,183 +7303,7 @@
       "category": "research",
       "source": "PNAS",
       "meta": "生物",
-      "summary": "[生物] 研究表明语义知识（对事物类别和关系的理解）是创新的核心驱动力，引导人们产生新想法，从而推动文化不断演进和积累。"
-    },
-    {
-      "sourceId": "nature-phys",
-      "title": "Scaling matters of cell fate",
-      "url": "https://www.nature.com/articles/s41567-026-03327-y",
-      "excerpt": "",
-      "publishedAt": "2026-06-04T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Physics",
-      "meta": "生物",
-      "summary": "[生物] 研究探讨细胞命运决定中的尺度问题，发现不同空间和数量规模下细胞行为存在显著差异，为理解发育和疾病提供新视角。"
-    },
-    {
-      "sourceId": "nature-phys",
-      "title": "Evidence for the generic existence of two local structures in liquid water",
-      "url": "https://www.nature.com/articles/s41567-026-03301-8",
-      "excerpt": "",
-      "publishedAt": "2026-06-04T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Physics",
-      "meta": "生物",
-      "summary": "[生物] 1. 研究发现液态水普遍存在两种局部结构，为理解水的反常性质（如密度突变）提供了新视角。"
-    },
-    {
-      "sourceId": "nature-phys",
-      "title": "Decoupling adhesion from jamming in phase transitions drives tissue organization",
-      "url": "https://www.nature.com/articles/s41567-026-03282-8",
-      "excerpt": "",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Physics",
-      "meta": "交叉",
-      "summary": "[交叉] 实验揭示细胞组织相变中，粘附和物理堵塞可解耦，为胚胎发育和组织工程提供调控新思路。"
-    },
-    {
-      "sourceId": "nature-phys",
-      "title": "Adhesion-driven rigidity transition decoupled from density-driven jamming triggers epithelial organization in embryonic tissues",
-      "url": "https://www.nature.com/articles/s41567-026-03276-6",
-      "excerpt": "",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Physics",
-      "meta": "交叉",
-      "summary": "[交叉] 胚胎上皮组织成型由粘附驱动刚性变化而非密度堵塞触发，改变了传统对组织力学行为的认知。"
-    },
-    {
-      "sourceId": "nature-phys",
-      "title": "Suppression of coherent light scattering in a three-dimensional atomic array",
-      "url": "https://www.nature.com/articles/s41567-026-03300-9",
-      "excerpt": "",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Physics",
-      "meta": "交叉",
-      "summary": "[交叉] 三维原子阵列通过精巧排布抑制了相干光的散射，有望增强光与物质相互作用，应用在量子存储中。"
-    },
-    {
-      "sourceId": "nature-phys",
-      "title": "Hong–Ou–Mandel interference of more than ten indistinguishable atoms",
-      "url": "https://www.nature.com/articles/s41567-026-03302-7",
-      "excerpt": "",
-      "publishedAt": "2026-06-01T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Physics",
-      "meta": "交叉",
-      "summary": "[交叉] 实验实现超过十个不可区分原子的Hong-Ou-Mandel干涉，拓展量子干涉规模，推进多粒子量子信息处理。"
-    },
-    {
-      "sourceId": "nature-phys",
-      "title": "Single- and two-mode magnon thermal squeezing",
-      "url": "https://www.nature.com/articles/s41567-026-03294-4",
-      "excerpt": "",
-      "publishedAt": "2026-06-01T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Physics",
-      "meta": "交叉",
-      "summary": "[交叉] 1. 研究磁振子的单模与双模热压缩现象，揭示其量子特性，为未来量子信息处理提供新思路。"
-    },
-    {
-      "sourceId": "nature-phys",
-      "title": "Thorium-229 lifetime locked down",
-      "url": "https://www.nature.com/articles/s41567-026-03310-7",
-      "excerpt": "",
-      "publishedAt": "2026-05-29T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Physics",
-      "meta": "交叉",
-      "summary": "[交叉] 精确锁定钍-229核同质异能态的寿命，解决了核光钟研发的关键参数问题，推动超精密计时技术进步。"
-    },
-    {
-      "sourceId": "nature-mat",
-      "title": "Tracking microstructure and mechanical response",
-      "url": "https://www.nature.com/articles/s41563-026-02633-3",
-      "excerpt": "",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Materials",
-      "meta": "交叉",
-      "summary": "[交叉] 通过实时追踪材料微观结构变化，揭示其与力学响应的关联，为优化材料性能提供实验依据。"
-    },
-    {
-      "sourceId": "nature-mat",
-      "title": "In situ mechanical characterization of functional and architected materials",
-      "url": "https://www.nature.com/articles/s41563-026-02601-x",
-      "excerpt": "",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Materials",
-      "meta": "材料",
-      "summary": "[材料] 开发原位力学测试方法，研究功能材料与拓扑结构材料的变形行为，助力先进材料设计。"
-    },
-    {
-      "sourceId": "nature-mat",
-      "title": "Boosting ionic conductivity of single-ion conductive polyelectrolyte elastomers via high-dielectric plasticizers",
-      "url": "https://www.nature.com/articles/s41563-026-02604-8",
-      "excerpt": "",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Materials",
-      "meta": "交叉",
-      "summary": "[交叉] 利用高介电常数增塑剂大幅提升单离子导电聚合物的离子导电率，为固态电池性能突破铺平道路。"
-    },
-    {
-      "sourceId": "nature-mat",
-      "title": "Magnetoelectric microrobots for spinal cord injury regeneration",
-      "url": "https://www.nature.com/articles/s41563-026-02625-3",
-      "excerpt": "",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Materials",
-      "meta": "生物",
-      "summary": "[生物] 1. 研究开发了磁电微型机器人，能精准靶向脊髓损伤部位，促进神经再生，为治疗脊髓损伤提供新思路。"
-    },
-    {
-      "sourceId": "nature-mat",
-      "title": "Van der Waals strain hardening and large uniform tensile elongation in GaSe",
-      "url": "https://www.nature.com/articles/s41563-026-02614-6",
-      "excerpt": "",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Materials",
-      "meta": "交叉",
-      "summary": "[交叉] 在GaSe材料中发现了范德华应变硬化现象，使其具有大均匀拉伸伸长，有望用于柔性电子器件。"
-    },
-    {
-      "sourceId": "nature-mat",
-      "title": "Fibronectin matrix remodelling modulates the active nematic dynamics of cancer-associated fibroblasts",
-      "url": "https://www.nature.com/articles/s41563-026-02615-5",
-      "excerpt": "",
-      "publishedAt": "2026-06-01T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Materials",
-      "meta": "医学",
-      "summary": "[医学] 研究发现癌症相关成纤维细胞通过重塑纤维连接蛋白基质，改变自身运动模式，这有助于理解肿瘤微环境。"
-    },
-    {
-      "sourceId": "nature-mat",
-      "title": "UV and thermally stable hole-selective contacts with enhanced assembly density for inverted perovskite solar cells",
-      "url": "https://www.nature.com/articles/s41563-026-02619-1",
-      "excerpt": "",
-      "publishedAt": "2026-06-01T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Materials",
-      "meta": "材料",
-      "summary": "[材料] 新型空穴选择性接触材料同时具备紫外和热稳定性，能提高倒置钙钛矿太阳能电池的寿命和效率。"
-    },
-    {
-      "sourceId": "nature-mat",
-      "title": "Cross-material catalyst discovery via deep learning",
-      "url": "https://www.nature.com/articles/s41563-026-02622-6",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "category": "research",
-      "source": "Nature Materials",
-      "meta": "化学",
-      "summary": "[化学] 利用深度学习模型，研究人员实现了跨材料体系的催化剂快速筛选，加速了新型催化剂的发现过程。"
+      "summary": "[生物] 人们依靠已有的语义知识进行创新，这种认知过程推动文化不断演化，揭示了创新背后的思维规律。"
     }
   ]
 }
