@@ -1,0 +1,309 @@
+{
+  "hero_headline": "纳指暴跌4% 科技股恐慌蔓延",
+  "daily_overview": "今日科技领域，OpenAI推出ChatGPT「Dreaming」记忆系统，提升对话连贯性；Meta AI客服遭黑客利用盗号，凸显AI安全短板；NVIDIA发布550B参数开源MoE模型Nemotron 3 Ultra。美股科技板块遭遇重挫，纳指暴跌4%，芯片股领跌，市场对AI泡沫担忧加剧；SpaceX签署300亿美元谷歌云计算租赁协议，IPO冲刺在即。时政方面，普京公开拒绝泽连斯基的面对面和谈提议，俄乌僵局持续；中国国家主席习近平下周将访问朝鲜，系2019年以来首次。多领域信号交织，市场与地缘不确定性攀升。",
+  "tech_briefs": [
+    {
+      "title": "ChatGPT推出「Dreaming」记忆系统",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "source": "OpenAI News",
+      "summary": "OpenAI推出ChatGPT新记忆系统「Dreaming」，可更好记住用户偏好，跨对话保持语境新鲜和相关性。",
+      "importance": 9
+    },
+    {
+      "title": "Meta AI客服被利用盗号引发安全担忧",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "source": "MIT Tech Review AI",
+      "summary": "攻击者利用Meta AI客服代理盗取Instagram账户，只需请求将账户链接到新邮箱即可得手，暴露AI系统安全漏洞。",
+      "importance": 8
+    },
+    {
+      "title": "NVIDIA发布Nemotron 3 Ultra开源模型",
+      "url": "https://news.smol.ai/issues/26-06-04-not-much/",
+      "source": "Smol AI News",
+      "summary": "NVIDIA发布完全开源的550B参数MoE模型Nemotron 3 Ultra，具有55B活跃参数和1M上下文窗口，针对长任务代理优化，速度提升5倍。",
+      "importance": 7
+    },
+    {
+      "title": "Microsoft公开MAI-Thinking-1技术细节",
+      "url": "https://news.smol.ai/issues/26-06-02-msft-mai-2/",
+      "source": "Smol AI News",
+      "summary": "Microsoft发布MAI-Thinking-1技术报告，35B参数MoE模型在AIME 2025上达97%准确率，性能超越Sonnet 4.6。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "美股科技板块暴跌 纳指重挫4%",
+      "url": "https://www.ft.com/content/2929bbd3-1f71-4424-a577-f016c3c65603",
+      "source": "Financial Times",
+      "summary": "受美联储加息预期和AI泡沫担忧影响，美股科技股大幅下挫，纳斯达克暴跌4%，芯片与存储板块领跌。（多家报道）",
+      "importance": 10
+    },
+    {
+      "title": "SpaceX与谷歌签署300亿美元云计算租赁协议",
+      "url": "https://www.ft.com/content/77982a06-7d75-45a4-a64f-f8dc89a6a626",
+      "source": "Financial Times",
+      "summary": "SpaceX在IPO前与谷歌达成300亿美元云计算算力租赁协议，进一步巩固其「火箭+AI」商业版图。",
+      "importance": 8
+    },
+    {
+      "title": "Marvell与Flex将加入标普500指数",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/marvell-technology-flex-set-to-join-s-p-500-later-this-month",
+      "source": "Bloomberg Markets",
+      "summary": "标普道琼斯指数公司宣布，Marvell Technology与Flex将在最新季度调整中纳入标普500指数。",
+      "importance": 6
+    },
+    {
+      "title": "Trump称可能收购AI公司股权",
+      "url": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400",
+      "source": "Financial Times",
+      "summary": "特朗普表示美国可能以「伙伴关系」方式获取AI公司股权，以缓解选民顾虑并应对中期选举。",
+      "importance": 7
+    },
+    {
+      "title": "高盛策略师称美股抛售是买入机会",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/goldman-s-flood-sees-buying-opportunity-in-stock-market-selloff",
+      "source": "Bloomberg Markets",
+      "summary": "高盛美国股票主管John Flood认为周五回调是增加敞口的机会，预计标普500年底可达8000点。",
+      "importance": 5
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "普京拒绝泽连斯基面对面和谈提议",
+      "url": "https://www.theguardian.com/world/2026/jun/05/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims",
+      "source": "The Guardian",
+      "summary": "普京称泽连斯基的公开信「粗鲁」，认为当面会谈无意义，重申俄罗斯的战争目标不变。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "习近平下周将访问朝鲜",
+      "url": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019",
+      "source": "NPR World",
+      "summary": "中国国家主席习近平将于下周访问朝鲜，这是2019年以来的首次访问。朝方此前一天刚公布新核燃料设施。",
+      "importance": 8
+    },
+    {
+      "title": "以色列空袭黎巴嫩南部 要求九村撤离",
+      "url": "https://www.theguardian.com/world/2026/jun/05/israel-strikes-southern-lebanon-evacuations-nine-villages",
+      "source": "The Guardian",
+      "summary": "以色列对黎巴嫩南部发动空袭，要求九个村庄撤离，导致数千人逃亡，其中包含至少2500名流离失所者。",
+      "importance": 7
+    }
+  ],
+  "research_briefs": [],
+  "editor_note": "今日多领域重大事件交织：AI安全漏洞敲响警钟，股市剧烈动荡，地缘博弈再添变数。在技术与政策加速碰撞的当下，理性应对不确定性仍是关键。",
+  "keywords": [
+    "AI安全",
+    "美股暴跌",
+    "纳指",
+    "NVIDIA",
+    "ChatGPT记忆",
+    "SpaceX IPO",
+    "俄乌冲突",
+    "习近平访朝"
+  ],
+  "trading": {
+    "market_overview": "当前技术面呈现明显分化。美股三大指数中，道琼斯指数（^DJI）表现相对坚挺，价格位于所有均线上方，MACD金叉，RSI 57.8，接近52周高点；而标普500（^GSPC）与纳斯达克（^IXIC）则出现短期回落，分别跌破20日均线，RSI降至48.8和45，MACD均呈死叉。加密市场方面，恐慌贪婪指数录得12（极度恐慌），加密总市值24小时下跌3.89%至2.20万亿美元，BTC主导率56.2%，市场情绪极度悲观。中概相关指数——上证指数（000001.SS）和恒生指数（^HSI）均处于空头排列：上证指数低于20日和50日均线，恒生指数跌破200日均线，MACD双死叉，下行压力显著。商品市场方面，黄金期货（GC=F）近期重挫，价格跌破20日、50日及200日均线，RSI仅35，MACD持续负柱，空头动能充足。整体而言，除道琼斯指数外，其余主要资产技术面偏弱，需关注后续关键支撑。",
+    "watchlist": [
+      {
+        "symbol": "^DJI",
+        "display_name": "道琼斯指数 (^DJI)",
+        "stance": "偏上行",
+        "rationale": "当前价格50866.78，高于20日(50329.58)、50日(49071.02)及200日(47891.97)均线，呈多头排列；RSI 57.8处于中性偏强；MACD正值柱22.71，为金叉形态；距52周高仅-1.54%，近1日仅微跌-1.35%，相对抗跌。技术信号偏上行。"
+      },
+      {
+        "symbol": "^GSPC",
+        "display_name": "标普500指数 (^GSPC)",
+        "stance": "中性",
+        "rationale": "价格7383.74低于20日线(7479.51)但高于50日(7155.96)与200日(6858.26)均线；RSI 48.8处于中性区；MACD快线在信号线下，柱值为-21.5，显示短期动能偏弱，但趋势标签为bullish，有「多头排列」信号，多空矛盾，整体中性。"
+      },
+      {
+        "symbol": "^IXIC",
+        "display_name": "纳斯达克指数 (^IXIC)",
+        "stance": "偏下行",
+        "rationale": "当前价25709.43显著低于20日均线(26476.85)，RSI 45进入偏弱区间；MACD负柱-140.96，呈死叉；近1日跌-4.18%，5日跌-4.68%，技术面承压明显，偏下行。"
+      },
+      {
+        "symbol": "GC=F",
+        "display_name": "黄金期货 (GC=F)",
+        "stance": "偏下行",
+        "rationale": "当前价4353.9跌破20日(4546.88)、50日(4624.4)及200日(4398.63)均线，构筑空头排列；RSI 35接近超卖，MACD持续负柱(-9.548)；近5日跌-4.53%，空头动能充足。"
+      }
+    ],
+    "risk_caveat": "本报告仅基于公开行情数据计算的技术指标进行客观描述，过去走势不代表未来表现，不构成任何投资建议。所有解读仅供技术指标解读参考，投资者应自行决策。",
+    "tickers": [
+      {
+        "symbol": "^GSPC",
+        "displayName": "S&P 500",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "SNP",
+        "currentPrice": 7383.74,
+        "pct1Day": -2.6445392797000054,
+        "pct5Day": -2.589953866805792,
+        "pct52WeekHigh": -3.111968402682096,
+        "pct52WeekLow": 24.700060798486792,
+        "sma20": 7479.509033203125,
+        "sma50": 7155.958232421875,
+        "sma200": 6858.259794921875,
+        "rsi14": 48.767326642231524,
+        "macd": 97.23365492075936,
+        "macdSignal": 118.73606866722102,
+        "macdHistogram": -21.502413746461656,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "^IXIC",
+        "displayName": "Nasdaq",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "NIM",
+        "currentPrice": 25709.432,
+        "pct1Day": -4.179980508758098,
+        "pct5Day": -4.683220172424565,
+        "pct52WeekHigh": -5.445996923157264,
+        "pct52WeekLow": 33.72067936391032,
+        "sma20": 26476.8533203125,
+        "sma50": 24773.00796875,
+        "sma200": 23322.22943359375,
+        "rsi14": 45.03592376233274,
+        "macd": 471.8717674405925,
+        "macdSignal": 612.8265452596124,
+        "macdHistogram": -140.9547778190199,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "^DJI",
+        "displayName": "Dow Jones",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "DJI",
+        "currentPrice": 50866.78,
+        "pct1Day": -1.3481840026412437,
+        "pct5Day": -0.3246579421339535,
+        "pct52WeekHigh": -1.5362250389079501,
+        "pct52WeekLow": 21.165790161963205,
+        "sma20": 50329.578515625,
+        "sma50": 49071.0153125,
+        "sma200": 47891.96986328125,
+        "rsi14": 57.82390452384308,
+        "macd": 557.2260554399254,
+        "macdSignal": 534.51930954668,
+        "macdHistogram": 22.706745893245397,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "000001.SS",
+        "displayName": "上证指数",
+        "group": "indices",
+        "currency": "CNY",
+        "exchangeName": "SHH",
+        "currentPrice": 4027.736,
+        "pct1Day": -1.377044012186069,
+        "pct5Day": -1.729849307964602,
+        "pct52WeekHigh": -5.42696489649938,
+        "pct52WeekLow": 20.315289735996974,
+        "sma20": 4133.1119140625,
+        "sma50": 4056.2596435546875,
+        "sma200": 3975.2339392089843,
+        "rsi14": 43.39300686285974,
+        "macd": -7.170402831059619,
+        "macdSignal": 6.014809180043045,
+        "macdHistogram": -13.185212011102664,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "^HSI",
+        "displayName": "恒生指数",
+        "group": "indices",
+        "currency": "HKD",
+        "exchangeName": "HKG",
+        "currentPrice": 24961.95,
+        "pct1Day": -2.6187157712574387,
+        "pct5Day": -0.17679706109916063,
+        "pct52WeekHigh": -11.028439448105752,
+        "pct52WeekLow": 7.661529278111649,
+        "sma20": 25803.5494140625,
+        "sma50": 25721.388125,
+        "sma200": 26029.15142578125,
+        "rsi14": 43.34041438370035,
+        "macd": -144.8912062968302,
+        "macdSignal": -116.43115505336479,
+        "macdHistogram": -28.460051243465415,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "GC=F",
+        "displayName": "黄金期货",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "CMX",
+        "currentPrice": 4353.9,
+        "pct1Day": -2.7235312124513444,
+        "pct5Day": -4.530205021379243,
+        "pct52WeekHigh": -22.05971859224518,
+        "pct52WeekLow": 33.809699428360666,
+        "sma20": 4546.87998046875,
+        "sma50": 4624.39798828125,
+        "sma200": 4398.629486083984,
+        "rsi14": 34.973690344109556,
+        "macd": -63.66796441995393,
+        "macdSignal": -54.120487547012665,
+        "macdHistogram": -9.547476872941267,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      }
+    ],
+    "crypto_fear_greed": {
+      "value": 12,
+      "classification": "Extreme Fear",
+      "classificationCn": "极度恐慌",
+      "timestamp": "2026-06-05T00:00:00.000Z"
+    },
+    "crypto_global": {
+      "totalMarketCapUsd": 2196970738024.207,
+      "total24hVolumeUsd": 181202176277.54764,
+      "marketCapChangePct24h": -3.8943223183332285,
+      "btcDominance": 56.17127241800984,
+      "ethDominance": 8.793755291878142,
+      "activeCryptocurrencies": 17370
+    },
+    "generated_at": "2026-06-05T22:31:01.694Z"
+  }
+}
