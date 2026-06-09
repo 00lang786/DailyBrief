@@ -1,144 +1,143 @@
 {
-  "hero_headline": "美国对伊朗发动打击，中东局势骤紧",
-  "daily_overview": "时政方面，美国因直升机被伊朗击落而对伊发动军事打击，中东局势骤然紧张；菲律宾遭遇50年来最强地震，多人被困废墟。科技领域，谷歌发布 Gemini 3.5 Live Translate 实现自然语音实时翻译，Anthropic 公开号称“过于强大”的 Claude Fable 5 模型，AI 编程基准 FrontierCode 显示顶尖模型在最高难度子集仅获13%得分。财经方面，霍尔木兹海峡通行恢复推低油价，台积电暗示涨价风险，GSK 斥资106亿美元布局癌症药物。",
+  "hero_headline": "美国空袭伊朗报复直升机遭击落",
+  "daily_overview": "时政方面，美国对伊朗发动空袭，报复直升机被击落，中东紧张局势急剧升级，全球市场波动。科技领域，谷歌推出Gemini 3.5实时语音翻译与开源模型Gemma 4 12B，OpenAI Codex被Nextdoor与Notion广泛采用，代码生成基准FrontierCode揭示AI编码能力仍有限。财经方面，金价因避险情绪走低，Apollo与Blackstone为Anthropic融资350亿美元，TSMC暗示可能涨价，华尔街对SpaceX的追捧引发争议。多个领域的关键事件共同描绘出地缘风险与AI投资热潮并存的当日图景。",
   "tech_briefs": [
     {
-      "title": "Gemini 3.5 Live Translate 实现自然语音实时翻译",
+      "title": "Gemini 3.5 实时翻译推出自然语音翻译",
       "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
       "source": "DeepMind Blog",
-      "summary": "谷歌发布 Gemini 3.5 Live Translate，在 Google AI Studio、翻译和 Meet 中实现接近实时的自然语音翻译，提升跨语言沟通流畅度。",
+      "summary": "Google 推出 Gemini 3.5 Live Translate，支持接近实时的自然语音翻译，已集成到 AI Studio、Translate 和 Meet。",
       "importance": 8
     },
     {
-      "title": "FrontierCode 基准测试：AI 编程最难任务仅获13%分数",
-      "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
-      "source": "Latent Space",
-      "summary": "Cognition 发布 FrontierCode 基准测试评估 AI 编程能力，顶尖模型 Opus 4.8 在最高难度子集仅得约13%，说明复杂编码任务远未解决。（多家报道）",
+      "title": "DeepMind 发布 Gemma 4 12B 统一多模态模型",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "source": "DeepMind Blog",
+      "summary": "Gemma 4 12B 是一款无编码器的统一多模态模型，面向开源社区发布。",
       "importance": 7
     },
     {
-      "title": "Anthropic 公开发布“过于强大”的 Claude Fable 5",
-      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "Anthropic 发布 Claude Fable 5 模型，此前因被认为过于强大而未向公众开放，此番公开发布引发各界关注。",
+      "title": "OpenAI Codex 赋能 Nextdoor 和 Notion 提升工程效率",
+      "url": "https://openai.com/index/nextdoor",
+      "source": "OpenAI News",
+      "summary": "Nextdoor 和 Notion 利用 OpenAI Codex 与 GPT-5.5 处理难复现问题、构建语音输入等，显著提高开发效率。（多家报道）",
       "importance": 9
     },
     {
-      "title": "OpenAI Codex 助力 Nextdoor 和 Notion 提升工程效率",
-      "url": "https://openai.com/index/nextdoor",
-      "source": "OpenAI News",
-      "summary": "OpenAI 披露，Nextdoor 利用 Codex 与 GPT-5.5 调查难以复现的问题，Notion 使用 Codex 实现语音输入，均显著提升开发效率。（多家报道）",
-      "importance": 6
-    },
-    {
-      "title": "开源 AI Agent 技能可跨平台研究并生成摘要",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "source": "GitHub Trending",
-      "summary": "开源项目 last30days-skill 实现 AI Agent 技能，能搜索 Reddit、X、YouTube、HN 等平台的最新内容，并综合生成有依据的摘要，适合信息快速调研。",
-      "importance": 5
+      "title": "新基准 FrontierCode 评估代码质量，最强模型仅得 13%",
+      "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+      "source": "Latent Space",
+      "summary": "Cognition 发布 FrontierCode 基准测试，在最难子集中最佳模型 Opus 4.8 仅得 13%，显示代码生成任务远未解决。",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "霍尔木兹海峡通航恢复，国际油价下滑",
-      "url": "https://www.ft.com/content/c7e5bbbd-65ed-4678-baee-a4b63123e0e5",
-      "source": "Financial Times",
-      "summary": "美国能源部长称霍尔木兹海峡通行量正在显著回升，完全恢复仍需数月，该消息导致原油期货价格下跌。",
+      "title": "金价继续下跌 因美伊冲突重燃动摇脆弱停火",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/gold-extends-fall-as-renewed-us-iran-clashes-test-fragile-truce",
+      "source": "Bloomberg Markets",
+      "summary": "美国对伊朗发动新打击后，金价延续跌势，市场担忧中东停火努力受损。",
       "importance": 8
     },
     {
-      "title": "GSK 以 106 亿美元收购癌症药物资产",
-      "url": "https://www.ft.com/content/a2d62793-934a-48c7-8098-30aac2d9f301",
+      "title": "Apollo 与 Blackstone 为 Anthropic 融资 350 亿美元",
+      "url": "https://www.ft.com/content/c49e0eff-0776-4103-8eaf-1b049fbf9d3f",
       "source": "Financial Times",
-      "summary": "GSK 斥资 106 亿美元收购癌症药物管线，分析师预计未来将有更多同类交易以加速产品线建设。",
-      "importance": 7
+      "summary": "这笔交易是规模最大的私人信贷融资之一，将用于支持 Claude 制造商的 AI 扩张计划。",
+      "importance": 9
     },
     {
-      "title": "台积电暗示成本上升或导致芯片涨价",
+      "title": "全球最大芯片制造商 TSMC 不排除涨价",
       "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "全球最大芯片制造商台积电高管在罕见采访中表示，AI 热潮和地缘政治推高成本，不排除上调芯片代工价格。",
-      "importance": 7
+      "summary": "TSMC 高级官员在罕见采访中表示，成本上升可能传导至芯片价格，涉及 AI 繁荣与地缘政治。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "华尔街对 SpaceX 的投资热潮引关注",
+      "title": "华尔街对 SpaceX 的狂热令人难堪",
       "url": "https://www.economist.com/finance-and-economics/2026/06/09/wall-streets-undignified-spacex-mania",
       "source": "The Economist Finance",
-      "summary": "《经济学人》评论称投资者对 SpaceX 热情过高，火箭公司估值狂飙引发市场不安。",
+      "summary": "《经济学人》评论华尔街对 SpaceX 的追捧过度，有失体面。",
       "importance": 6
     },
     {
-      "title": "中国经济：创新强但整体表现疲弱",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/08/china-is-innovative-its-economy-is-a-mess-which-will-win-out",
-      "source": "The Economist Finance",
-      "summary": "《经济学人》分析中国创新能力突出但经济面临多重压力，两者博弈将决定21世纪全球格局。",
-      "importance": 6
+      "title": "古巴或将迎来冷战后最大美国燃油运输",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/cuba-poised-for-biggest-us-fuel-shipment-since-cold-war-embargo",
+      "source": "Bloomberg Markets",
+      "summary": "一家佛罗里达贸易公司正洽谈向古巴运送自艾森豪威尔政府以来最大规模的美国燃油，以缓解能源危机。",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "美国对伊朗发动军事打击回应直升机被击落",
+      "title": "美国对伊朗发动空袭 以报复直升机被击落",
       "url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
       "source": "NYT World",
-      "summary": "美军一架阿帕奇直升机在霍尔木兹海峡附近被击落，总统特朗普随后下令对伊朗实施自我防卫打击，局势急剧升级。（多家报道）",
+      "summary": "特朗普宣布美军对伊朗目标实施打击，此前一架阿帕奇直升机在霍尔木兹海峡附近被伊朗击落。（多家报道）",
       "importance": 10
     },
     {
-      "title": "菲律宾发生50年来最强地震，多人被困",
-      "url": "https://www.nytimes.com/2026/06/09/world/asia/philippines-earthquake-trapped.html",
-      "source": "NYT World",
-      "summary": "菲律宾遭遇半个世纪以来最强地震，大量民众被困废墟，家属急切等待救援。",
+      "title": "研究称若中美因台湾开战 欧盟首年损失或达 2 万亿美元",
+      "url": "https://www.dw.com/zh/研究：中美若因台湾开战-欧盟或损失2万亿美元/a-77477159?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "彭博经济研究显示，在最坏情况下中美因台湾爆发战争，德国经济将萎缩约14%，欧盟损失巨大。",
       "importance": 8
     },
     {
-      "title": "英国、法国等制裁约旦河西岸暴力定居者",
-      "url": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "英国与盟友对西岸定居者暴力网络实施制裁，法国禁止极右翼以色列部长入境，以色列谴责此举“可耻”。",
+      "title": "习近平与金正恩同意以社会主义原则加强战略关系",
+      "url": "https://thediplomat.com/2026/06/xi-and-kim-agree-to-strengthen-strategic-relationship-with-socialist-principles/",
+      "source": "The Diplomat",
+      "summary": "习近平访朝期间认可朝鲜作为有核国家的成就，双方同意深化战略合作关系。",
       "importance": 7
     }
   ],
   "research_briefs": [],
-  "editor_note": "美伊冲突骤然升级，中东和平前景蒙上阴影；科技圈 AI 模型密集发布，产业变革加速。菲律宾强震救援牵动人心。",
+  "editor_note": "中东局势再度紧张，需持续关注对能源与市场的连锁反应；AI 领域融资与模型更新依然活跃，技术竞争白热化。",
   "keywords": [
     "美伊冲突",
-    "AI 模型",
-    "Gemini 3.5",
-    "石油价格",
-    "菲律宾地震",
+    "AI模型",
+    "融资",
     "TSMC",
-    "FrontierCode",
-    "GSK 癌症交易"
+    "台湾",
+    "黄金",
+    "习近平",
+    "前沿基准"
   ],
   "trading": {
-    "market_overview": "今日6个主要指数与商品期货的技术面呈现显著分化。美股三大指数中，标普500与纳斯达克均收于20日均线下方，RSI分别为49和45，处于中性偏弱区间，MACD虽为正但信号线均高于MACD线，短期动量不足；道琼斯指数则维持在所有均线上方，RSI为57.7，但MACD已出现死叉，多空信号矛盾。中概资产方面，上证指数RSI 33.1，MACD与信号线均为负值且形成死叉，处于弱势整理；恒生指数趋势明确为「空头排列」，RSI 36.8，近5日下跌3.28%，技术面偏空。黄金期货RSI跌至30.2近超卖区，MACD负值且绿柱扩大，短期下行压力显著。参考加密市场背景：加密恐慌贪婪指数仅10（极度恐慌），总市值24小时缩水1.96%，BTC主导率55.9%，避险情绪弥漫传统与数字资产市场。",
+    "market_overview": "截至当前数据，美股三大指数技术面整体偏弱：S&P 500 (RSI 49, MACD柱负) 与 Nasdaq (RSI 45, 价格低于20日均线) 短期承压，仅道指 (RSI 57.7) 仍守在均线上方但已触发MACD死叉。中概方面，恒生指数呈空头排列，价格远低于所有均线，RSI 36.8；上证指数RSI 33.1，接近超卖但无明确信号。商品端黄金期货RSI 29.6进入超卖区，但价格低于所有均线，下行动能仍强。加密市场方面，恐慌贪婪指数仅10（极度恐慌），总市值2.21T，24h下跌2.08%，BTC主导率55.9%，反映市场情绪低迷。综合来看，除道指相对抗跌外，多数资产技术指标指向偏空或中性震荡。",
     "watchlist": [
-      {
-        "symbol": "^DJI",
-        "display_name": "道琼斯指数",
-        "stance": "偏上行",
-        "rationale": "当前价格50872.11，高于sma20（50446.8）、sma50（49281.64）及sma200（47951.64），维持多头排列；RSI 57.7处于中性偏强区域；距52周高点仅1.53%，显示整体上升结构完好。虽MACD出现死叉（MACD 490.71低于信号线523.34），但中期均线系统仍提供支撑，技术面整体偏上行。"
-      },
       {
         "symbol": "^HSI",
         "display_name": "恒生指数",
         "stance": "偏下行",
-        "rationale": "价格24565.9跌破所有主要均线（sma20 25633.5、sma50 25720.57、sma200 26027.86），呈现「空头排列」；RSI 36.8接近超卖区域，MACD绿柱加速扩张（-233.49 vs 信号-150.35），下行动量增强；距52周高点已回撤12.44%，5日跌幅3.28%，技术形态持续走弱。"
+        "rationale": "当前价格24565.9，低于SMA20/50/200（25633.5/25720.57/26027.86），均线空头排列；MACD -233.5低于信号线-150.4，柱负值扩大；RSI 36.8接近超卖；近1日跌1.59%，近5日跌3.28%，技术面明确偏弱。"
       },
       {
         "symbol": "GC=F",
         "display_name": "黄金期货",
         "stance": "偏下行",
-        "rationale": "当前价格4255.4低于sma20（4503.65）、sma50（4618.54）及sma200（4408.1），短期均线呈空头排列；RSI 30.2处于近超卖边缘，MACD绿柱扩大（MACD -82.83 vs 信号-62.87），下行趋势明确；5日跌幅达5.21%，距52周高点已回落23.82%，技术上整体偏空。"
+        "rationale": "价格4239.7远低于SMA20(4502.86)、SMA50(4618.22)及SMA200(4408.02)，呈空头排列；RSI 29.6超卖，但MACD -84.1低于信号线-63.1，柱负值增加；近1日跌2.22%，近5日跌5.56%，下行动能未释放完毕。"
+      },
+      {
+        "symbol": "^IXIC",
+        "display_name": "纳斯达克指数",
+        "stance": "偏下行",
+        "rationale": "价格25678.82低于SMA20(26431.22)，但仍在SMA50(24958.05)和SMA200(23368.91)上方；RSI 45中性偏弱；MACD 299.5低于信号线514.3，形成死叉；近1日跌0.97%，近5日跌5.22%，短期回调趋势明显。"
       },
       {
         "symbol": "^GSPC",
         "display_name": "标普500指数",
         "stance": "中性",
-        "rationale": "价格7386.65略低于sma20（7478.54），但高于sma50（7194.89）和sma200（6868.39），中期趋势仍为多头排列；RSI 49恰好位于50中性线下方，动能均衡；MACD正但信号线高于MACD线（67.91 vs 102.72），短期缺乏明确方向，周度跌幅2.93%，技术面呈中性震荡格局。"
+        "rationale": "价格7386.65低于SMA20(7478.54)但高于SMA50(7194.89)和SMA200(6868.39)，均线仍属多头排列；RSI 49中性；MACD 67.9低于信号线102.7，柱值转负，趋势有走弱迹象；近1日微跌0.26%，方向不明。"
+      },
+      {
+        "symbol": "^DJI",
+        "display_name": "道琼斯工业指数",
+        "stance": "中性",
+        "rationale": "价格50872.11高于所有均线（SMA20 50446.8、SMA50 49281.64、SMA200 47951.64），且接近52周高点；RSI 57.7偏强；但MACD 490.7低于信号线523.3，已触发死叉；近1日微涨0.17%，多空交织。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，所有技术指标解读仅供参考，不构成投资建议。本报告仅基于公开行情数据计算出的客观指标状态，不对涨跌进行预测。仅供技术指标解读参考。",
+    "risk_caveat": "过去走势不代表未来表现，本报告仅基于公开行情数据对技术指标进行客观解读，不构成任何投资建议。所有结论仅供技术指标解读参考，投资者应结合自身情况独立判断。",
     "tickers": [
       {
         "symbol": "^GSPC",
@@ -285,21 +284,26 @@
         "group": "indices",
         "currency": "USD",
         "exchangeName": "CMX",
-        "currentPrice": 4255.4,
-        "pct1Day": -1.8565904231376866,
-        "pct5Day": -5.205945347003171,
-        "pct52WeekHigh": -23.822992374064665,
-        "pct52WeekLow": 30.782469727702978,
-        "sma20": 4503.649975585938,
-        "sma50": 4618.53798828125,
-        "sma200": 4408.100487060547,
-        "rsi14": 30.230821337702125,
-        "macd": -82.82703320226847,
-        "macdSignal": -62.871298855740484,
-        "macdHistogram": -19.955734346527983,
+        "currentPrice": 4239.7,
+        "pct1Day": -2.2186836530001486,
+        "pct5Day": -5.555681366661026,
+        "pct52WeekHigh": -24.104042103755685,
+        "pct52WeekLow": 30.29995697338495,
+        "sma20": 4502.864990234375,
+        "sma50": 4618.223994140625,
+        "sma200": 4408.021988525391,
+        "rsi14": 29.575580360747878,
+        "macd": -84.07943148396316,
+        "macdSignal": -63.12177851207942,
+        "macdHistogram": -20.95765297188374,
         "trend": "neutral",
-        "rsiState": "normal",
-        "signals": []
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          }
+        ]
       }
     ],
     "crypto_fear_greed": {
@@ -309,13 +313,13 @@
       "timestamp": "2026-06-09T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2212303687168.15,
-      "total24hVolumeUsd": 93563422546.97292,
-      "marketCapChangePct24h": -1.9633996158904365,
-      "btcDominance": 55.93343707834715,
-      "ethDominance": 8.933403561454531,
+      "totalMarketCapUsd": 2209735359779.046,
+      "total24hVolumeUsd": 93724632253.46693,
+      "marketCapChangePct24h": -2.076916192682335,
+      "btcDominance": 55.88088598181762,
+      "ethDominance": 8.943088785084983,
       "activeCryptocurrencies": 17348
     },
-    "generated_at": "2026-06-09T23:29:57.200Z"
+    "generated_at": "2026-06-09T23:58:19.062Z"
   }
 }
