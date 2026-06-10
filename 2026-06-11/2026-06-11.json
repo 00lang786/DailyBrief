@@ -1,0 +1,316 @@
+{
+  "hero_headline": "美国空袭伊朗升级，油价飙升全球震荡",
+  "daily_overview": "今日，美国对伊朗发动新一轮空袭，特朗普威胁进一步打击，国际油价大幅跳涨，全球市场避险情绪骤升，美股科技板块同步承压下跌。技术领域，Anthropic正式上线Claude Fable 5模型，DeepMind连推DiffusionGemma（4倍速文本生成）与Gemini 3.5 Live Translate（实时语音翻译），AI军备竞赛白热化。时政方面，习近平访朝旨在平衡俄朝关系，马克龙邀中国参加G7峰会视频对话。此外，Oracle计划筹资400亿美元扩建AI数据中心，彰显算力投资不减。中东战火与AI技术突破并行，全球格局加速重塑。",
+  "tech_briefs": [
+    {
+      "title": "Anthropic发布Claude Fable 5模型，安全限制引争议",
+      "url": "https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5/",
+      "source": "Smol AI News",
+      "summary": "Anthropic推出Claude Fable 5（广泛可用）与Mythos 5（受限），敏感查询回退至Opus 4.8，同时引发对使用条款的争议。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "DeepMind连推DiffusionGemma与Gemini 3.5 Live Translate",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "source": "DeepMind Blog",
+      "summary": "DeepMind发布DiffusionGemma模型，文本生成速度提升4倍；同时推出Gemini 3.5 Live Translate，支持实时语音翻译，已集成至Google AI Studio、翻译与Meet。",
+      "importance": 8
+    },
+    {
+      "title": "OpenAI报告PRC-linked影响力行动干预AI议题",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "source": "OpenAI News",
+      "summary": "OpenAI发布报告，详述与中国关联的影响行动利用AI工具介入美国技术辩论、数据中心叙事与关税话题，且散布关于ChatGPT的虚假信息。",
+      "importance": 8
+    },
+    {
+      "title": "AI破解Erdős数学难题，专家呼吁设立AI研究边界",
+      "url": "https://www.sciencenews.org/article/ai-guardrails-erdos-math-problem",
+      "source": "Science News AI",
+      "summary": "AI成功解决一个Erdős数学难题，结果正确但挑战了数学研究的核心规范（证明检查、归因与开放性），引发业界对AI应用边界的讨论。",
+      "importance": 7
+    },
+    {
+      "title": "GitHub热荐：agent-skills为AI编码代理注入工程技能",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "summary": "开源项目提供面向生产环境的工程技能集，涵盖代码测试、调试与部署，帮助AI编码代理应对复杂软件任务，通过可组合模块提升自主性。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "美国空袭伊朗致油价飙升，油轮“暗夜”过霍尔木兹",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/latest-oil-market-news-and-analysis-for-june-11",
+      "source": "Bloomberg Markets",
+      "summary": "美国对伊朗新一轮空袭打破脆弱停火，油价大幅跳涨；同时油轮增加通过霍尔木兹海峡的“暗黑”运输，特朗普称启动“秘密任务”。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "美国科技股遭抛售，市场波动加剧",
+      "url": "https://www.ft.com/content/bbc8c712-23fe-4cad-b2ee-39dec0e0f3ca",
+      "source": "Financial Times",
+      "summary": "继SpaceX历史首日上市前夕，科技股遭遇新一轮抛售，市场波动性显著上升。",
+      "importance": 8
+    },
+    {
+      "title": "Oracle计划筹资400亿美元扩建AI数据中心",
+      "url": "https://www.ft.com/content/974b8392-3197-468c-ac6e-18d0a2efce42",
+      "source": "Financial Times",
+      "summary": "Oracle宣布计划筹集400亿美元用于数据中心建设，其全年资本支出已达557亿美元，彰显AI基础设施投资热。",
+      "importance": 8
+    },
+    {
+      "title": "World Cup将成史上最大博彩赛事",
+      "url": "https://www.bbc.com/news/articles/cwydgwdx83yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "随着世界杯比赛场次增加，预计本届世界杯博彩投注额将创历史新高。",
+      "importance": 6
+    },
+    {
+      "title": "英国启动CO₂供应保障世界杯啤酒，价格较上届涨36%",
+      "url": "https://www.ft.com/content/57dc2c9a-01d7-4a5a-bb80-612ac307d4e1",
+      "source": "Financial Times",
+      "summary": "英国政府咨询启动CO₂供应保障，因世界杯与足球迷需求高涨；同时啤酒价格较上届世界杯上涨36%。（多家报道）",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "美国发动新一轮空袭伊朗，特朗普威胁“再打击”",
+      "url": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
+      "source": "The Guardian",
+      "summary": "美国中央司令部在总统命令下对伊朗多处目标发动空袭，特朗普称谈判耗时太久，伊朗将付出代价；伊朗誓言报复。（多家报道）",
+      "importance": 10
+    },
+    {
+      "title": "习近平访朝意在制衡俄朝走近",
+      "url": "https://www.dw.com/zh/德语媒体：北京不希望朝鲜倒向俄罗斯/a-77491120?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "《柏林日报》分析称，习近平访问平壤旨在防止朝鲜完全倒向俄罗斯；《南德意志报》指此举间接涉及德国安全利益。",
+      "importance": 7
+    },
+    {
+      "title": "马克龙邀中国参加G7视频会讨论全球经济失衡",
+      "url": "https://www.dw.com/zh/g7峰会前向北京示好？马克龙邀中国参加视频会/a-77489427?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "法国总统马克龙将在G7峰会前夕邀请G7成员国及中国等新兴国家举行视频会议，议题聚焦全球经济失衡。",
+      "importance": 6
+    }
+  ],
+  "research_briefs": [],
+  "editor_note": "今日焦点集中于中东冲突升级与AI模型密集发布，市场在动荡中寻找新平衡，技术竞赛同时面临安全与伦理挑战。",
+  "keywords": [
+    "美国空袭伊朗",
+    "油价飙升",
+    "科技股下跌",
+    "Claude Fable 5",
+    "DiffusionGemma",
+    "习近平访朝",
+    "Oracle数据中心",
+    "AI模型"
+  ],
+  "trading": {
+    "market_overview": "当前全球市场技术面呈现普遍回调态势，避险情绪升温。美股三大指数短期均跌破20日均线，RSI跌至38-47区间，MACD快线下穿信号线或已形成死叉（道指明确死叉），但长期均线仍维持多头排列，趋势未逆转。加密市场恐慌贪婪指数仅9（极度恐慌），总市值24小时缩水1.16%至2.18万亿美元，BTC主导率56.1%显示资金向龙头集中。中概资产分化：恒生指数全面空头排列，MACD绿柱扩大，RSI 35.8接近超卖；上证指数回落至200日均线附近，MACD负值，趋势中性。商品方面黄金期货暴跌4.38%，RSI 23.7进入超卖区，价格远低于所有均线，短期动能极度衰竭。整体看，多数资产技术面偏弱，超卖信号增多但尚未确认反转。",
+    "watchlist": [
+      {
+        "symbol": "^GSPC",
+        "display_name": "S&P 500",
+        "stance": "偏上行",
+        "rationale": "尽管价格7266.99跌破20日均线7471.84且RSI 40.6偏弱，但均线系统仍多头排列（SMA50 7213.35 > SMA200 6872.39），趋势信号为bullish，长期上行结构未破坏，短期回调可视为修正。"
+      },
+      {
+        "symbol": "^HSI",
+        "display_name": "恒生指数",
+        "stance": "偏下行",
+        "rationale": "当前价24407.96低于所有主要均线（SMA20 25541.45, SMA50 25710.62, SMA200 26022.63），MACD绿柱-278.37且信号线-175.95形成死叉，趋势bearish，信号为空头排列，RSI 35.8接近超卖但未反转。"
+      },
+      {
+        "symbol": "^DJI",
+        "display_name": "Dow Jones",
+        "stance": "中性",
+        "rationale": "道指虽有MACD死叉信号（MACD 386.59 < Signal 495.99），但价格仍高于SMA50 49375.7和SMA200 47973.08，且趋势仍为bullish，多空信号矛盾，短期方向不明。"
+      }
+    ],
+    "risk_caveat": "过去走势不代表未来表现，本报告仅基于公开技术指标进行客观解读，不构成任何投资建议。所有指标读数仅反映当前技术状态，实际走势可能存在背离，仅供技术指标解读参考。",
+    "tickers": [
+      {
+        "symbol": "^GSPC",
+        "displayName": "S&P 500",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "SNP",
+        "currentPrice": 7266.99,
+        "pct1Day": -1.6199482028488001,
+        "pct5Day": -3.7953708538050317,
+        "pct52WeekHigh": -4.643939692162341,
+        "pct52WeekLow": 22.273410249981918,
+        "sma20": 7471.841040039062,
+        "sma50": 7213.351025390625,
+        "sma200": 6872.392346191406,
+        "rsi14": 40.636074167212854,
+        "macd": 46.41467969144196,
+        "macdSignal": 91.45861416266662,
+        "macdHistogram": -45.04393447122466,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "^IXIC",
+        "displayName": "Nasdaq",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "NIM",
+        "currentPrice": 25169.502,
+        "pct1Day": -1.9834178762957906,
+        "pct5Day": -6.27273290345254,
+        "pct52WeekHigh": -7.431748412388131,
+        "pct52WeekLow": 30.17599190689621,
+        "sma20": 26385.2818359375,
+        "sma50": 25045.5459765625,
+        "sma200": 23387.270791015624,
+        "rsi14": 38.70670047464921,
+        "macd": 185.35687908721593,
+        "macdSignal": 448.5348409586742,
+        "macdHistogram": -263.17796187145825,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "^DJI",
+        "displayName": "Dow Jones",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "DJI",
+        "currentPrice": 49918.78,
+        "pct1Day": -1.873972569080248,
+        "pct5Day": -1.5157520601669736,
+        "pct52WeekHigh": -3.3712863237605646,
+        "pct52WeekLow": 18.907633284851244,
+        "sma20": 50454.7142578125,
+        "sma50": 49375.695546875,
+        "sma200": 47973.076640625,
+        "rsi14": 46.77904735962736,
+        "macd": 386.5879242912997,
+        "macdSignal": 495.9872452290084,
+        "macdHistogram": -109.3993209377087,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 2
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "000001.SS",
+        "displayName": "上证指数",
+        "group": "indices",
+        "currency": "CNY",
+        "exchangeName": "SHH",
+        "currentPrice": 3993.226,
+        "pct1Day": 0.855903444241045,
+        "pct5Day": -2.0091779239136645,
+        "pct52WeekHigh": -6.237275066138547,
+        "pct52WeekLow": 19.28441764090702,
+        "sma20": 4101.9940185546875,
+        "sma50": 4063.6737451171875,
+        "sma200": 3980.7631640625,
+        "rsi14": 41.02582109725536,
+        "macd": -23.955257819519375,
+        "macdSignal": -6.624705509893071,
+        "macdHistogram": -17.330552309626302,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "^HSI",
+        "displayName": "恒生指数",
+        "group": "indices",
+        "currency": "HKD",
+        "exchangeName": "HKG",
+        "currentPrice": 24407.96,
+        "pct1Day": -1.0102605150416908,
+        "pct5Day": -6.261388188382211,
+        "pct52WeekHigh": -13.003018951315399,
+        "pct52WeekLow": 5.272156228138339,
+        "sma20": 25541.45341796875,
+        "sma50": 25710.6162890625,
+        "sma200": 26022.62517578125,
+        "rsi14": 35.824725883699145,
+        "macd": -278.3720129108915,
+        "macdSignal": -175.95446932713497,
+        "macdHistogram": -102.41754358375653,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "GC=F",
+        "displayName": "黄金期货",
+        "group": "indices",
+        "currency": "USD",
+        "exchangeName": "CMX",
+        "currentPrice": 4073.3,
+        "pct1Day": -4.3826291079812165,
+        "pct5Day": -8.190776462571044,
+        "pct52WeekHigh": -27.08281121334717,
+        "pct52WeekLow": 25.185936443542932,
+        "sma20": 4473.664978027344,
+        "sma50": 4609.575991210938,
+        "sma200": 4411.61798828125,
+        "rsi14": 23.66889423823011,
+        "macd": -104.72046390111427,
+        "macdSignal": -71.18241836914234,
+        "macdHistogram": -33.53804553197193,
+        "trend": "neutral",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          }
+        ]
+      }
+    ],
+    "crypto_fear_greed": {
+      "value": 9,
+      "classification": "Extreme Fear",
+      "classificationCn": "极度恐慌",
+      "timestamp": "2026-06-10T00:00:00.000Z"
+    },
+    "crypto_global": {
+      "totalMarketCapUsd": 2182042157318.175,
+      "total24hVolumeUsd": 76692451023.87611,
+      "marketCapChangePct24h": -1.1635505378458473,
+      "btcDominance": 56.08722606189197,
+      "ethDominance": 8.881579086503551,
+      "activeCryptocurrencies": 17337
+    },
+    "generated_at": "2026-06-10T22:22:34.655Z"
+  }
+}
