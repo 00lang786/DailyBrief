@@ -1,138 +1,124 @@
 {
-  "hero_headline": "美国空袭伊朗升级，油价飙升全球震荡",
-  "daily_overview": "今日，美国对伊朗发动新一轮空袭，特朗普威胁进一步打击，国际油价大幅跳涨，全球市场避险情绪骤升，美股科技板块同步承压下跌。技术领域，Anthropic正式上线Claude Fable 5模型，DeepMind连推DiffusionGemma（4倍速文本生成）与Gemini 3.5 Live Translate（实时语音翻译），AI军备竞赛白热化。时政方面，习近平访朝旨在平衡俄朝关系，马克龙邀中国参加G7峰会视频对话。此外，Oracle计划筹资400亿美元扩建AI数据中心，彰显算力投资不减。中东战火与AI技术突破并行，全球格局加速重塑。",
+  "hero_headline": "美军连续空袭伊朗，中东危机升级",
+  "daily_overview": "今日中东局势急剧恶化，美军连续第二天对伊朗发动空袭，特朗普警告德黑兰将为拖延谈判“付出代价”，全球避险情绪升温。科技领域，Anthropic正式发布高性能模型Claude Fable 5，多家媒体聚焦其能力与争议；DeepMind推出DiffusionGemma，文本生成速度提升4倍。加拿大政府提出法案禁止16岁以下青少年使用社交媒体，标志着数字监管新动向。金融市场方面，Oracle宣布700亿美元数据中心投资计划，全球垃圾债市场则发出滞胀风险警示。",
   "tech_briefs": [
     {
-      "title": "Anthropic发布Claude Fable 5模型，安全限制引争议",
+      "title": "Anthropic发布Claude Fable 5模型",
       "url": "https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5/",
       "source": "Smol AI News",
-      "summary": "Anthropic推出Claude Fable 5（广泛可用）与Mythos 5（受限），敏感查询回退至Opus 4.8，同时引发对使用条款的争议。（多家报道）",
+      "summary": "Anthropic推出Claude Fable 5通用模型及受限版Mythos 5，同时配套争议性使用政策，引发广泛讨论（多家报道）。",
       "importance": 9
     },
     {
-      "title": "DeepMind连推DiffusionGemma与Gemini 3.5 Live Translate",
+      "title": "DeepMind推出4倍速文本生成模型DiffusionGemma",
       "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
       "source": "DeepMind Blog",
-      "summary": "DeepMind发布DiffusionGemma模型，文本生成速度提升4倍；同时推出Gemini 3.5 Live Translate，支持实时语音翻译，已集成至Google AI Studio、翻译与Meet。",
+      "summary": "DeepMind发布DiffusionGemma，通过扩散原理实现文本生成速度提升4倍，被视作大模型推理效率的重要突破。",
       "importance": 8
     },
     {
-      "title": "OpenAI报告PRC-linked影响力行动干预AI议题",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "source": "OpenAI News",
-      "summary": "OpenAI发布报告，详述与中国关联的影响行动利用AI工具介入美国技术辩论、数据中心叙事与关税话题，且散布关于ChatGPT的虚假信息。",
-      "importance": 8
-    },
-    {
-      "title": "AI破解Erdős数学难题，专家呼吁设立AI研究边界",
-      "url": "https://www.sciencenews.org/article/ai-guardrails-erdos-math-problem",
-      "source": "Science News AI",
-      "summary": "AI成功解决一个Erdős数学难题，结果正确但挑战了数学研究的核心规范（证明检查、归因与开放性），引发业界对AI应用边界的讨论。",
+      "title": "经典注意力测试暴露AI大模型重大缺陷",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "source": "ScienceDaily AI",
+      "summary": "研究人员用心理学经典注意力测试考察AI模型，发现模型在较长列表任务中性能急剧下降，暴露出规模化弱点。",
       "importance": 7
     },
     {
-      "title": "GitHub热荐：agent-skills为AI编码代理注入工程技能",
+      "title": "GitHub开源项目agent-skills受关注",
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
-      "summary": "开源项目提供面向生产环境的工程技能集，涵盖代码测试、调试与部署，帮助AI编码代理应对复杂软件任务，通过可组合模块提升自主性。",
-      "importance": 6
+      "summary": "开源项目agent-skills为AI编码智能体提供生产级工程技能集，简化开发者在真实场景中部署Agent的流程。",
+      "importance": 5
     }
   ],
   "finance_briefs": [
     {
-      "title": "美国空袭伊朗致油价飙升，油轮“暗夜”过霍尔木兹",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/latest-oil-market-news-and-analysis-for-june-11",
-      "source": "Bloomberg Markets",
-      "summary": "美国对伊朗新一轮空袭打破脆弱停火，油价大幅跳涨；同时油轮增加通过霍尔木兹海峡的“暗黑”运输，特朗普称启动“秘密任务”。（多家报道）",
+      "title": "Oracle计划未来一年斥资700亿美元建数据中心",
+      "url": "https://www.ft.com/content/974b8392-3197-468c-ac6e-18d0a2efce42",
+      "source": "Financial Times",
+      "summary": "Oracle宣布将投入700亿美元扩建数据中心，但营收指引平淡导致盘后股价一度下跌8%。",
       "importance": 9
     },
     {
-      "title": "美国科技股遭抛售，市场波动加剧",
-      "url": "https://www.ft.com/content/bbc8c712-23fe-4cad-b2ee-39dec0e0f3ca",
+      "title": "Frasers集团出价27亿欧元收购Hugo Boss",
+      "url": "https://www.ft.com/content/4c29a1af-edd8-4dc4-8cbd-eaaf3d167346",
       "source": "Financial Times",
-      "summary": "继SpaceX历史首日上市前夕，科技股遭遇新一轮抛售，市场波动性显著上升。",
+      "summary": "英国亿万富翁Mike Ashley旗下Frasers集团欲以约27亿欧元收购德国时尚品牌Hugo Boss全部股权，引发市场关注（多家报道）。",
+      "importance": 7
+    },
+    {
+      "title": "全球垃圾债市场闪滞胀警告",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/global-junk-debt-flashes-warning-on-growing-risk-of-stagflation",
+      "source": "Bloomberg Markets",
+      "summary": "中东冲突加剧滞胀担忧，投资者对全球高收益企业债情绪恶化，垃圾债利差扩大。",
       "importance": 8
     },
     {
-      "title": "Oracle计划筹资400亿美元扩建AI数据中心",
-      "url": "https://www.ft.com/content/974b8392-3197-468c-ac6e-18d0a2efce42",
-      "source": "Financial Times",
-      "summary": "Oracle宣布计划筹集400亿美元用于数据中心建设，其全年资本支出已达557亿美元，彰显AI基础设施投资热。",
-      "importance": 8
-    },
-    {
-      "title": "World Cup将成史上最大博彩赛事",
-      "url": "https://www.bbc.com/news/articles/cwydgwdx83yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "随着世界杯比赛场次增加，预计本届世界杯博彩投注额将创历史新高。",
-      "importance": 6
-    },
-    {
-      "title": "英国启动CO₂供应保障世界杯啤酒，价格较上届涨36%",
-      "url": "https://www.ft.com/content/57dc2c9a-01d7-4a5a-bb80-612ac307d4e1",
-      "source": "Financial Times",
-      "summary": "英国政府咨询启动CO₂供应保障，因世界杯与足球迷需求高涨；同时啤酒价格较上届世界杯上涨36%。（多家报道）",
+      "title": "Westpac房贷申请因税改骤降",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/westpac-mortgage-applications-fall-as-tax-changes-sap-demand",
+      "source": "Bloomberg Markets",
+      "summary": "澳大利亚Westpac银行报告房贷申请量创一年新低，主要受针对投资者的税改政策打压楼市需求。",
       "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "美国发动新一轮空袭伊朗，特朗普威胁“再打击”",
-      "url": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-      "source": "The Guardian",
-      "summary": "美国中央司令部在总统命令下对伊朗多处目标发动空袭，特朗普称谈判耗时太久，伊朗将付出代价；伊朗誓言报复。（多家报道）",
+      "title": "美伊冲突：美军连续第二天空袭伊朗",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire",
+      "source": "NPR World",
+      "summary": "美军根据总统指令对伊朗发动第二轮空袭，打击多个目标。特朗普称谈判拖延必须“付出代价”，伊朗誓言报复（多家报道）。",
       "importance": 10
     },
     {
-      "title": "习近平访朝意在制衡俄朝走近",
-      "url": "https://www.dw.com/zh/德语媒体：北京不希望朝鲜倒向俄罗斯/a-77491120?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
-      "summary": "《柏林日报》分析称，习近平访问平壤旨在防止朝鲜完全倒向俄罗斯；《南德意志报》指此举间接涉及德国安全利益。",
-      "importance": 7
+      "title": "加拿大拟立法禁止16岁以下使用社交媒体",
+      "url": "https://www.nytimes.com/2026/06/10/world/canada/social-meda-kids-legislation-carney.html",
+      "source": "NYT World",
+      "summary": "加拿大政府提出新法案，全面禁止16岁以下青少年使用社交媒体，并设立数字监管机构规范AI聊天机器人安全（多家报道）。",
+      "importance": 8
     },
     {
-      "title": "马克龙邀中国参加G7视频会讨论全球经济失衡",
+      "title": "马克龙邀中国参加G7前夕视频会",
       "url": "https://www.dw.com/zh/g7峰会前向北京示好？马克龙邀中国参加视频会/a-77489427?maca=chi-rss-chi-all-1127-rdf",
       "source": "DW 中文",
-      "summary": "法国总统马克龙将在G7峰会前夕邀请G7成员国及中国等新兴国家举行视频会议，议题聚焦全球经济失衡。",
-      "importance": 6
+      "summary": "法国总统马克龙在G7峰会前夕邀请中国及其他新兴国家举行视频会议，讨论全球经济失衡问题，信号耐人寻味。",
+      "importance": 7
     }
   ],
   "research_briefs": [],
-  "editor_note": "今日焦点集中于中东冲突升级与AI模型密集发布，市场在动荡中寻找新平衡，技术竞赛同时面临安全与伦理挑战。",
+  "editor_note": "美伊空袭持续升级，全球市场与地缘政治风险共振；科技界大模型竞速与监管探索并行，2026年的夏日充满变数。",
   "keywords": [
-    "美国空袭伊朗",
-    "油价飙升",
-    "科技股下跌",
+    "美伊冲突",
     "Claude Fable 5",
     "DiffusionGemma",
-    "习近平访朝",
     "Oracle数据中心",
-    "AI模型"
+    "Hugo Boss收购",
+    "加拿大社交媒体禁令",
+    "垃圾债滞胀",
+    "马克龙中国"
   ],
   "trading": {
-    "market_overview": "当前全球市场技术面呈现普遍回调态势，避险情绪升温。美股三大指数短期均跌破20日均线，RSI跌至38-47区间，MACD快线下穿信号线或已形成死叉（道指明确死叉），但长期均线仍维持多头排列，趋势未逆转。加密市场恐慌贪婪指数仅9（极度恐慌），总市值24小时缩水1.16%至2.18万亿美元，BTC主导率56.1%显示资金向龙头集中。中概资产分化：恒生指数全面空头排列，MACD绿柱扩大，RSI 35.8接近超卖；上证指数回落至200日均线附近，MACD负值，趋势中性。商品方面黄金期货暴跌4.38%，RSI 23.7进入超卖区，价格远低于所有均线，短期动能极度衰竭。整体看，多数资产技术面偏弱，超卖信号增多但尚未确认反转。",
+    "market_overview": "截至最新数据，美股三大指数（标普500、纳斯达克、道琼斯）均出现短期回调，RSI在38-47区间偏弱，MACD均形成死叉，但价格仍高于50日和200日均线，维持中长期多头排列格局；恒生指数呈现明确的空头排列，价格低于所有均线，RSI低至35.8；黄金期货大跌后RSI进入23.7超卖区，短期动能极弱。加密市场方面，恐慌贪婪指数仅12（极度恐慌），总市值2.20T，24小时微跌0.9%，BTC主导率56.1%，ETH占8.9%，市场情绪悲观。整体来看，传统资产中除贵金属外，主要指数虽短期承压但长期趋势尚未破坏；加密资产则处于深度恐慌状态。",
     "watchlist": [
       {
         "symbol": "^GSPC",
-        "display_name": "S&P 500",
+        "display_name": "标普500指数(^GSPC)",
         "stance": "偏上行",
-        "rationale": "尽管价格7266.99跌破20日均线7471.84且RSI 40.6偏弱，但均线系统仍多头排列（SMA50 7213.35 > SMA200 6872.39），趋势信号为bullish，长期上行结构未破坏，短期回调可视为修正。"
+        "rationale": "当前价格7266.99高于sma50(7213.35)和sma200(6872.39)，维持多头排列信号；但低于sma20(7471.84)，MACD(46.41)下穿信号线(91.46)形成死叉，RSI=40.6偏弱，短期动能减退。中长期上升趋势未破，整体偏上行但需警惕回调风险。"
       },
       {
         "symbol": "^HSI",
-        "display_name": "恒生指数",
+        "display_name": "恒生指数(^HSI)",
         "stance": "偏下行",
-        "rationale": "当前价24407.96低于所有主要均线（SMA20 25541.45, SMA50 25710.62, SMA200 26022.63），MACD绿柱-278.37且信号线-175.95形成死叉，趋势bearish，信号为空头排列，RSI 35.8接近超卖但未反转。"
+        "rationale": "当前价格24407.96低于所有均线（sma20=25541.45、sma50=25710.62、sma200=26022.63），呈现空头排列；MACD(-278.37)在信号线(-175.95)下方死叉运行，RSI=35.8处于弱势区域，近5日下跌6.26%，技术面明确偏下行。"
       },
       {
         "symbol": "^DJI",
-        "display_name": "Dow Jones",
+        "display_name": "道琼斯指数(^DJI)",
         "stance": "中性",
-        "rationale": "道指虽有MACD死叉信号（MACD 386.59 < Signal 495.99），但价格仍高于SMA50 49375.7和SMA200 47973.08，且趋势仍为bullish，多空信号矛盾，短期方向不明。"
+        "rationale": "当前价格49918.78位于sma20(50454.71)之下但sma50(49375.7)之上，RSI=46.8中性，MACD死叉但信号同时列出“多头排列”，价格距52周高点仅回调3.37%，多空信号矛盾。短期偏弱但中期均线提供支撑，技术状态中性。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告仅基于公开技术指标进行客观解读，不构成任何投资建议。所有指标读数仅反映当前技术状态，实际走势可能存在背离，仅供技术指标解读参考。",
+    "risk_caveat": "过去走势不代表未来表现，本报告仅基于公开行情数据进行技术指标解读，不构成任何投资建议。所有结论仅供技术指标解读参考，请投资者独立判断。",
     "tickers": [
       {
         "symbol": "^GSPC",
@@ -275,18 +261,18 @@
         "group": "indices",
         "currency": "USD",
         "exchangeName": "CMX",
-        "currentPrice": 4073.3,
-        "pct1Day": -4.3826291079812165,
-        "pct5Day": -8.190776462571044,
-        "pct52WeekHigh": -27.08281121334717,
-        "pct52WeekLow": 25.185936443542932,
-        "sma20": 4473.664978027344,
-        "sma50": 4609.575991210938,
-        "sma200": 4411.61798828125,
-        "rsi14": 23.66889423823011,
-        "macd": -104.72046390111427,
-        "macdSignal": -71.18241836914234,
-        "macdHistogram": -33.53804553197193,
+        "currentPrice": 4073.4,
+        "pct1Day": -4.380281690140843,
+        "pct5Day": -8.188522535201654,
+        "pct52WeekHigh": -27.08102108768035,
+        "pct52WeekLow": 25.18900977318827,
+        "sma20": 4473.669970703125,
+        "sma50": 4609.57798828125,
+        "sma200": 4411.618487548828,
+        "rsi14": 23.671706669132973,
+        "macd": -104.71249837849973,
+        "macdSignal": -71.18082526461943,
+        "macdHistogram": -33.5316731138803,
         "trend": "neutral",
         "rsiState": "oversold",
         "signals": [
@@ -298,19 +284,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 9,
+      "value": 12,
       "classification": "Extreme Fear",
       "classificationCn": "极度恐慌",
-      "timestamp": "2026-06-10T00:00:00.000Z"
+      "timestamp": "2026-06-11T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2182042157318.175,
-      "total24hVolumeUsd": 76692451023.87611,
-      "marketCapChangePct24h": -1.1635505378458473,
-      "btcDominance": 56.08722606189197,
-      "ethDominance": 8.881579086503551,
+      "totalMarketCapUsd": 2195431009291.5796,
+      "total24hVolumeUsd": 77514624657.82144,
+      "marketCapChangePct24h": -0.9041135388087987,
+      "btcDominance": 56.12137280100219,
+      "ethDominance": 8.913360993341417,
       "activeCryptocurrencies": 17337
     },
-    "generated_at": "2026-06-10T22:22:34.655Z"
+    "generated_at": "2026-06-11T00:05:36.804Z"
   }
 }
