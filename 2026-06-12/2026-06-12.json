@@ -1,137 +1,139 @@
 {
-  "hero_headline": "SpaceX IPO募资750亿美元创纪录",
-  "daily_overview": "科技领域，Anthropic发布Claude Fable 5模型，OpenAI收购Ona以扩展Codex，DeepMind投入千万美元研究多智能体安全，DiffusionGemma实现4倍文本生成加速。金融市场迎来SpaceX史上最大IPO，美元因美伊和平预期大幅下跌，银行股创历史新高；美国通胀攀升引关注。时政方面，特朗普称美伊即将签署和平协议，2026年世界杯在墨西哥城开幕，马克龙主持视频会议呼吁协调全球贸易失衡。",
+  "hero_headline": "美伊接近和平协议，SpaceX创纪录IPO",
+  "daily_overview": "今日，美国总统特朗普表示美伊和约或在周末签署，国际油价应声跌至两月低点，亚洲及银行股受提振创历史新高；SpaceX以750亿美元募资完成史上最大IPO，市值逼近1.8万亿美元。科技领域，OpenAI宣布收购Ona以增强Codex环境，Anthropic发布Claude Fable 5模型，DeepMind斥资千万美元启动多智能体安全研究，苹果开源macOS容器工具。时政方面，世界杯在墨西哥盛大开幕，法国总统马克龙呼吁中美欧协调贸易失衡，中国副总理与会。",
   "tech_briefs": [
     {
-      "title": "Anthropic发布Claude Fable 5模型",
-      "url": "https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5/",
-      "source": "Smol AI News",
-      "summary": "Anthropic发布Claude Fable 5（公测）及Claude Mythos 5（受限），敏感查询回退至Opus 4.8，引发对使用政策的争议。（多家报道）",
+      "title": "OpenAI收购Ona，扩展Codex企业环境",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI News",
+      "summary": "OpenAI计划收购Ona，为Codex提供安全持久云环境，支持企业工作流中的长期AI代理。（多家报道）",
       "importance": 9
     },
     {
-      "title": "OpenAI收购Ona扩展Codex环境",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI News",
-      "summary": "OpenAI计划收购Ona，为Codex提供安全持久云环境，支持长期运行的AI代理在企业工作流中应用。",
-      "importance": 8
+      "title": "Anthropic发布Claude Fable 5与Mythos 5模型",
+      "url": "https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5/",
+      "source": "Smol AI News",
+      "summary": "Anthropic推出Claude Fable 5（通用）和Mythos 5（受限访问），敏感查询回退至Opus 4.8。引发争议使用政策讨论。（多家报道）",
+      "importance": 9
     },
     {
-      "title": "DeepMind资助多智能体安全研究",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "MIT Tech Review AI",
-      "summary": "Google DeepMind与合作伙伴宣布1000万美元资助多智能体安全研究，关注数百万AI代理交互的潜在风险。",
-      "importance": 8
-    },
-    {
-      "title": "DiffusionGemma实现4倍文本生成加速",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "title": "DeepMind投入千万美元研究多智能体安全",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind发布DiffusionGemma，通过扩散模型方法将文本生成速度提升4倍，无需额外硬件。",
+      "summary": "DeepMind联合合作伙伴宣布1000万美元资助多智能体安全研究，并担忧数百万AI代理在线互动潜在风险。（多家报道）",
+      "importance": 8
+    },
+    {
+      "title": "苹果开源macOS容器工具Container",
+      "url": "https://github.com/apple/container",
+      "source": "GitHub Trending",
+      "summary": "苹果开源Container工具，使用Swift编写，在Apple Silicon Mac上通过轻量级VM创建运行Linux容器，便于开发者本地测试。",
       "importance": 7
     },
     {
-      "title": "苹果推出Linux容器工具container",
-      "url": "https://github.com/apple/container",
-      "source": "GitHub Trending",
-      "summary": "苹果开源工具container，用于在Mac上通过轻量级虚拟机创建和运行Linux容器，专为Apple Silicon优化，采用Swift编写。",
-      "importance": 6
+      "title": "DeepMind发布DiffusionGemma：4倍速文本生成",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "source": "DeepMind Blog",
+      "summary": "DiffusionGemma采用扩散模型架构，在保持质量的同时实现4倍文本生成速度，提升推理效率。",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "SpaceX IPO募资750亿美元创纪录",
+      "title": "SpaceX完成750亿美元史上最大IPO",
       "url": "https://www.ft.com/content/1890e552-aa7e-4d7f-98f1-db4f165e8827",
       "source": "Financial Times",
-      "summary": "SpaceX以每股135美元上市，募资750亿美元，创全球最大IPO，估值接近1.8万亿美元，预计使马斯克成为世界首位万亿富翁。（多家报道）",
+      "summary": "SpaceX以每股135美元定价，募资750亿美元，估值近1.8万亿美元，成为全球最大IPO，有望使马斯克成为首位万亿富豪。（多家报道）",
       "importance": 10
     },
     {
-      "title": "美元因美伊停战预期大幅下跌",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/dollar-drops-the-most-in-a-month-as-trump-says-the-war-is-ending",
+      "title": "油价跌至两月低点，特朗普暗示美伊签协议",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/latest-oil-market-news-and-analysis-for-june-12",
       "source": "Bloomberg Markets",
-      "summary": "特朗普称美伊战争即将结束，避险需求减弱，美元单月跌幅最大，美元指数下跌逾1%。",
+      "summary": "特朗普称美伊和约最快本周末签署，国际油价应声跌至两个月新低，市场预期冲突缓和将缓解供应紧张。",
+      "importance": 9
+    },
+    {
+      "title": "亚洲股市及银行股创历史新高",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/bank-stocks-hit-record-highs-on-us-iran-deal-hopes-ipo-optimism",
+      "source": "Bloomberg Markets",
+      "summary": "受美伊协议希望和SpaceX IPO乐观情绪推动，亚洲股市预计上涨，美国银行股周四创历史最高收盘纪录。（多家报道）",
       "importance": 8
     },
     {
-      "title": "银行股创历史新高",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/bank-stocks-hit-record-highs-on-us-iran-deal-hopes-ipo-optimism",
+      "title": "CME宣布将提供24/7 WTI原油和黄金交易",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/cme-announces-plans-to-offer-24-7-wti-oil-and-gold-contracts",
       "source": "Bloomberg Markets",
-      "summary": "美国银行股周四创新高，受伊朗停战协议预期及SpaceX创纪录IPO乐观情绪提振。",
+      "summary": "芝加哥商品交易所计划推出24小时、每周7天交易的新小型原油期货和现有黄金合约，提升市场可及性。",
       "importance": 7
     },
     {
-      "title": "美国通胀率升至三年来最快",
-      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "美国CPI同比涨幅创三年新高，特朗普自称“喜欢通胀”后澄清意指通胀未更高。",
+      "title": "世界战略石油储备快速消耗",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/11/the-worlds-strategic-oil-reserves-are-running-out-fast",
+      "source": "The Economist Finance",
+      "summary": "《经济学人》分析指出全球战略石油储备正快速下降，长期能源紧张难避免，储备缓冲能力有限。",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "特朗普称美伊即将签署和平协议",
-      "url": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
-      "source": "NPR World",
-      "summary": "特朗普宣布将于周末在欧签署美伊协议，取消进一步打击；伊朗称未作最终决定但表示谈判有进展。（多家报道）",
-      "importance": 9
+      "title": "特朗普称美伊和平协议即将签署",
+      "url": "https://www.nytimes.com/2026/06/11/world/middleeast/trump-retracts-threat-iran.html",
+      "source": "NYT World",
+      "summary": "特朗普撤销对伊朗进一步打击威胁，称伊朗接近签署和平协议，可能于周末在欧洲签字；伊朗称未做最终决定。（多家报道）",
+      "importance": 10
     },
     {
-      "title": "2026年世界杯在墨西哥城开幕",
-      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "史上最大规模世界杯在墨西哥城开幕，开幕式群星闪耀，安保严格，墨西哥队取胜开启赛事。",
+      "title": "马克龙呼吁中美欧协调贸易失衡，中方与会",
+      "url": "https://www.dw.com/zh/马克龙呼吁协调解决贸易失衡-中方与会/a-77509349?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "七国集团峰会前夕，法国总统马克龙主持视频会议，呼吁中国、美国与欧洲共同解决国际贸易失衡问题，中国副总理张国清参加。",
       "importance": 8
     },
     {
-      "title": "马克龙呼吁中美欧协调解决贸易失衡",
-      "url": "https://www.dw.com/zh/马克龙呼吁协调解决贸易失衡-中方与会/a-77509349?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
-      "summary": "G7峰会前夕，法国总统马克龙主持视频会议邀请中国、美国与欧洲代表，呼吁共同解决国际贸易失衡问题，副总理张国清参会。",
+      "title": "2026年世界杯在墨西哥盛大开幕",
+      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "墨西哥城举行星光熠熠的开幕式，Shakira等艺人表演，球迷聚集庆祝世界杯开赛，主办方期待全球关注。（多家报道）",
       "importance": 7
     }
   ],
   "research_briefs": [],
-  "editor_note": "SpaceX创纪录IPO与美伊和平信号叠加，市场风险偏好升温；科技大模型竞赛加速，多智能体安全成行业新命题。",
+  "editor_note": "美伊和平曙光与SpaceX IPO双重利好提振全球市场，但油价波动与AI安全挑战仍不容忽视；世界杯开幕带来片刻轻松，地缘博弈继续发酵。",
   "keywords": [
+    "特朗普",
+    "伊朗",
+    "和平协议",
     "SpaceX",
     "IPO",
-    "美伊和平",
-    "Claude Fable 5",
-    "OpenAI收购",
+    "OpenAI",
+    "Anthropic",
     "多智能体安全",
-    "世界杯",
-    "马克龙"
+    "世界杯"
   ],
   "trading": {
-    "market_overview": "当前市场中，美股三大指数技术面分化：标普500和纳斯达克均略低于20日均线，但50日与200日均线仍呈多头排列，RSI处于中性区域；道指则站上所有短期均线，接近52周高点，但MACD出现死叉。中概方面，上证指数跌破20日和50日均线，RSI 39.4偏弱，动能指标负向；恒生指数呈标准空头排列，RSI 34.2接近超卖，5日跌幅达5.4%。商品端，黄金期货价格低于所有均线，RSI 35.2偏弱，MACD绿柱扩大，中期趋势承压。加密市场方面，恐慌贪婪指数仅12（极度恐慌），总市值2.26T，BTC主导率56.3%，表明风险偏好极低。整体技术面除道指偏强外，多数资产处于调整或弱势阶段。",
+    "market_overview": "当前加密市场恐慌贪婪指数仅为12（极度恐慌），加密总市值2.26T美元（24h+2.83%），BTC主导率56.3%、ETH 8.9%，市场情绪极度低迷。美股三大指数虽在1月17日录得1.75%–2.54%的日涨幅，但5日仍累计下跌1.38%–3.81%，且MACD均呈死叉状态（S&P 500 MACD柱-41.8，Nasdaq MACD柱-242.9，Dow Jones MACD柱-96.9），短期动能偏弱，不过长期均线（SMA50/200）仍提供支撑，趋势整体偏多头。中概方面，上证指数RSI 39.4，价格低于SMA20/50，MACD死叉，震荡偏弱；恒生指数RSI 34.2，价格远低于SMA20/50/200呈空头排列，5日跌幅5.4%，技术面承压明显。商品方面，黄金期货1日大涨3.61%但5日仍跌4.9%，RSI 37.2处于超卖区，MACD柱负值扩大，短期反弹但中期趋势仍在回调。综合看，美股处于高位震荡整理，加密与中概偏弱，黄金超卖反弹，资产间分化显著。",
     "watchlist": [
       {
         "symbol": "^GSPC",
         "display_name": "S&P 500",
-        "stance": "中性",
-        "rationale": "当前价格7394.3略低于20日均线7469.34，但站上50日均线7230.67和200日均线6877.17，均线多头排列。RSI 50.3处于中性区域，MACD柱线负值（39.2 < 81.0）呈死叉，多空信号均衡，方向不明。"
-      },
-      {
-        "symbol": "^DJI",
-        "display_name": "Dow Jones",
         "stance": "偏上行",
-        "rationale": "价格50848.75高于20日（50512.49）、50日（49465.84）及200日均线（48000.91），多头排列完整。RSI 55.6略偏强势，1日反弹1.86%且距52周高点仅1.57%。MACD死叉构成风险，但短期动能向上。"
+        "rationale": "尽管MACD出现死叉（MACD柱-41.8），但价格仍高于SMA50（7230.67）和SMA200（6877.17），形成多头排列；距52周高仅-2.97%，RSI 50.3处于中性区域，短期反弹动能（1日+1.75%）叠加长期均线支撑，技术setup偏向震荡上行。"
       },
       {
         "symbol": "^HSI",
         "display_name": "恒生指数",
         "stance": "偏下行",
-        "rationale": "价格24249.29低于所有主要均线（20日25444.46、50日25692.06、200日26017.07），空头排列。RSI 34.2接近超卖，MACD柱线-322.96低于信号-205.36，绿柱扩大，近5日下跌5.4%，弱势明显。"
+        "rationale": "价格24249.29远低于SMA20（25444.46）、SMA50（25692.06）和SMA200（26017.07），呈标准空头排列；RSI 34.2逼近超卖区，MACD柱-117.6且死叉加速，5日跌幅5.4%，技术面持续承压，下行趋势明显。"
       },
       {
         "symbol": "GC=F",
         "display_name": "黄金期货",
-        "stance": "偏下行",
-        "rationale": "价格4229低于所有均线（20日4451.97、50日4601.9、200日4416.07），空头排列。RSI 35.2偏低，MACD柱线-106.4低于信号-77.78，中期趋势偏弱。1日反弹2.94%但5日跌5.51%，反弹力度待验证。"
+        "stance": "中性",
+        "rationale": "1日反弹3.61%但5日仍跌4.9%，RSI 37.2进入超卖区间，MACD柱-26.86维持死叉，价格低于SMA20（4453.35）和SMA50（4602.45），短期超卖反弹与中期回调并存，技术状态多空交织。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告仅基于公开行情数据计算的技术指标提供客观解读，不构成投资建议。仅供技术指标解读参考，投资者应独立决策。",
+    "risk_caveat": "过去走势不代表未来表现，本报告仅基于公开行情数据计算的技术指标进行客观解读，不构成任何投资建议。读者应结合自身风险承受能力独立判断，市场有风险，投资需谨慎。仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "^GSPC",
@@ -233,11 +235,11 @@
         "group": "indices",
         "currency": "CNY",
         "exchangeName": "SHH",
-        "currentPrice": 3987.015,
-        "pct1Day": -0.5739607954588035,
-        "pct5Day": -2.3741365204288565,
-        "pct52WeekHigh": -6.38311211231731,
-        "pct52WeekLow": 19.09888456114452,
+        "currentPrice": 3993.23,
+        "pct1Day": -0.418974462661902,
+        "pct5Day": -2.221956320072061,
+        "pct52WeekHigh": -6.23718114435708,
+        "pct52WeekLow": 19.284537127675502,
         "sma20": 4089.5267333984375,
         "sma50": 4065.7566064453126,
         "sma200": 3982.553654785156,
@@ -282,18 +284,18 @@
         "group": "indices",
         "currency": "USD",
         "exchangeName": "CMX",
-        "currentPrice": 4229,
-        "pct1Day": 2.9404556483234154,
-        "pct5Day": -5.5140939152154855,
-        "pct52WeekHigh": -24.295585550105613,
-        "pct52WeekLow": 29.97111070133382,
-        "sma20": 4451.9749755859375,
-        "sma50": 4601.9019921875,
-        "sma200": 4416.0684887695315,
-        "rsi14": 35.16489395028407,
-        "macd": -106.39752163757385,
-        "macdSignal": -77.77998989178948,
-        "macdHistogram": -28.617531745784362,
+        "currentPrice": 4256.6,
+        "pct1Day": 3.612282693935561,
+        "pct5Day": -4.897444350793615,
+        "pct52WeekHigh": -23.801510866062788,
+        "pct52WeekLow": 30.81934968344705,
+        "sma20": 4453.35498046875,
+        "sma50": 4602.453994140625,
+        "sma200": 4416.206489257813,
+        "rsi14": 37.16114255469785,
+        "macd": -104.19580444562234,
+        "macdSignal": -77.33964645339918,
+        "macdHistogram": -26.85615799222316,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -306,13 +308,13 @@
       "timestamp": "2026-06-11T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2261597577978.634,
-      "total24hVolumeUsd": 80486042430.55731,
-      "marketCapChangePct24h": 3.217317070663074,
-      "btcDominance": 56.33123225730188,
-      "ethDominance": 8.96609602729855,
+      "totalMarketCapUsd": 2256191691096.9033,
+      "total24hVolumeUsd": 79537008551.91873,
+      "marketCapChangePct24h": 2.8331361079642092,
+      "btcDominance": 56.30087499323289,
+      "ethDominance": 8.946150133904748,
       "activeCryptocurrencies": 17324
     },
-    "generated_at": "2026-06-11T22:15:21.566Z"
+    "generated_at": "2026-06-11T23:12:58.739Z"
   }
 }
